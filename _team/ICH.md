@@ -13,7 +13,7 @@ twitter: '@ivancodjvu'
 orcid: https://orcid.org/0000-0003-3611-7959
 googlescholar: https://scholar.google.ca/citations?user=fBFyBSQAAAAJ&hl=en
 supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
-current position: Instructor at Harward Medical School
+currentPosition: Instructor at Harward Medical School
 collaborators: "Christophe Leterrier, Jonas Ries"
 ---
 
