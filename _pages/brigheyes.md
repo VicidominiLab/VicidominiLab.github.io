@@ -1,9 +1,11 @@
 ---
 layout: archive
+type: BrightEyes
 title: "BrightEyes ERC Consolidator Grant 2018"
 permalink: /brighteyes/
 author_profile: true
 ---
+
 {% include base_path %}
 
 <figure style="width: 50%" class="align-center">
