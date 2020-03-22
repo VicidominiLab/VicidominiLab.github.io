@@ -47,7 +47,12 @@
 
     {% if post.tagline  %}
     <center><i>{{ post.tagline }}</i></center>
-{% endif %}
+    {% endif %}
+    
+    {% if post.currentPosition  %}
+    <center><i>{{ post.currentPosition }}</i></center>
+    {% endif %}
+    
 
 
   </article>
