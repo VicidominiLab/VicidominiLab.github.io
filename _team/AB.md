@@ -10,7 +10,7 @@ subject: "Single-Molecule Tracking"
 date: 2019-11-01
 email: 'andrea.bucci@iit.it'
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
-theme: "BrightEyes"
+theme: BrightEyes
 # orcid: "https://orcid.org/0000-0002-1182-2478"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
