@@ -12,7 +12,7 @@ email: 'andrea.bucci@iit.it'
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
 # orcid: "https://orcid.org/0000-0002-1182-2478"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
-# theme: "BrightEyes"
+# theme: BrightEyes
 ---
 
 <h2>ShortBio</h2>
