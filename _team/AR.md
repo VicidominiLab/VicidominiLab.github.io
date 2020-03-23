@@ -21,7 +21,7 @@ Alessandro Rossetta earned his MSs in Biomedical Engineering in 2016 from Univer
 
 <h2>About</h2>
 
-Education
+**Education**
 
 2018 – Present – PhD student at Università degli Studi di Genova & Italian Institute of Technology, Genoa, ITALY
 
@@ -31,7 +31,7 @@ Education
 
 2010 – BSc in Clinical Engineering – University of La Sapienza, Rome, ITALY
 
-Work Experience
+**Work Experience**
 
 2018 – Present – FLIM LABS – CEO & Founder, Rome, ITALY 
 
@@ -40,6 +40,7 @@ Work Experience
 2013-2014 – Laboratory for Fluorescence Dynamics – Junior Specialist, Irvine, CA, USA  
 
 <h2>Projects Description</h2>
+
 **Development of a multi-channel FPGA-based time-domain acquisition plaftorm** 
 
 Fluorescence correlation spectroscopy (FCS) and time-resolved fluorescence-lifetime spectroscopy are among the most important tools to observe bio-molecular processes within living cells. Most of FCS and time-resolved fluorescence spectroscopy implementations mainly rely on single-element detectors (i.e., PMT, APD, SPAD or Hybrid detectors) since they have superior temporal resolution and provide the single photon-timing information. However, single-element detectors lose the information about the spatial distribution of the fluorescent light focused on the detector sensitive area.
@@ -52,4 +53,4 @@ That is why a multi-channel FPGA-based time-tagging platform is being developed 
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
-{% include publication-list.html %}
+<!---{% include publication-list.html %}--->
