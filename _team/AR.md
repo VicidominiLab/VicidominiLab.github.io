@@ -9,7 +9,7 @@ tagline: Ph.D. Student - University of Genoa (with Nanoscopy and NIC@IIT)
 subject: "Development of FPGA-based instrumentation for Microscopy and Spectroscopy Applications"
 date: 2018-11-01
 email: 'alessandro.rossetta@iit.it'
-IIT Profile Page: https://www.iit.it/it/people/alessandro-rossetta
+skype: alessandro.rossetta
 supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 ---
 
@@ -17,7 +17,7 @@ supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 Note: Alessandro Rossetta has a joint position at Nanoscopy (NIC@IIT) and MMS laboratories.
 
 <h2>ShortBio</h2>
-Alessandro Rossetta earned his MSs in Biomedical Engineering in 2016 from University of California, Irvine (USA). In 2013 and 2010, he earned his MSc from University of RomaTre and his BSc from University La Sapienza, Rome respectively. Before joining again the academic environment at IIT and Unige he worked, until 2018, as R&D Software Engineer and Project Manager for Naviop, Forlì, Italy. His current interests mainly focus on Fluorescence Lifetime Imaging Microscopy (FLIM), Fluorescence Correlation Spectroscopy (FCS) and Antibunching applications. His expertise relys in FPGA-programming within the development of photon-counting microscopy and spectroscopy instrumentation. 
+Alessandro Rossetta earned his MSs in Biomedical Engineering in 2016 from University of California, Irvine (USA). In 2013 and 2010, he earned his MSc from University of RomaTre and his BSc from University La Sapienza, Rome respectively. Before joining again the academic environment at IIT and Unige he worked, until 2018, as R&D Software Engineer and Project Manager for Naviop, Forlì, Italy. His current research interests mainly focus on Fluorescence Lifetime Imaging Microscopy (FLIM), Fluorescence Correlation Spectroscopy (FCS) and Antibunching applications. His expertise relys in FPGA-programming within the development of photon-counting microscopy and spectroscopy instrumentation. 
 
 <h2>About</h2>
 
@@ -40,7 +40,7 @@ Work Experience
 2013-2014 – Laboratory for Fluorescence Dynamics – Junior Specialist, Irvine, CA, USA  
 
 <h2>Projects Description</h2>
-**Development of a multi-channel FPGA-based time-domain acquisition plaftorm 
+**Development of a multi-channel FPGA-based time-domain acquisition plaftorm** 
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
