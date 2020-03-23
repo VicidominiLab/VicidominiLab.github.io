@@ -14,13 +14,33 @@ supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 ---
 
 <p align= "justify">
-Note: Alessandro Rossetta jointly does research between the laboratory of Prof. Alberto Diaspro (Nanoscopy and NIC@IIT, IIT) and my own.
+Note: Alessandro Rossetta has a joint position at Nanoscopy (NIC@IIT) and MMS laboratories.
 
 <h2>ShortBio</h2>
-Text
+Alessandro Rossetta earned his MSs in Biomedical Engineering in 2016 from University of California, Irvine (USA). In 2013 and 2010, he earned his MSc from University of RomaTre and his BSc from University La Sapienza, Rome respectively. Before joining again the academic environment at IIT and Unige he worked, until 2018, as R&D Software Engineer and Project Manager for Naviop, Forlì, Italy. His current interests mainly focus on Fluorescence Lifetime Imaging Microscopy (FLIM), Fluorescence Correlation Spectroscopy (FCS) and Antibunching applications. His expertise relys in FPGA-programming within the development of photon-counting microscopy and spectroscopy instrumentation. 
+
+<h2>About</h2>
+
+Education
+
+2018 – Present – PhD student at Università degli Studi di Genova & Italian Institute of Technology, Genoa, ITALY
+
+2016 – MSc in Bioengineering – University of California, Irvine, USA
+
+2013 – MSc in Biomedical Engineering – University of Roma Tre, Rome, ITALY
+
+2010 – BSc in Clinical Engineering – University of La Sapienza, Rome, ITALY
+
+Work Experience
+
+2018 – Present – FLIM LABS – CEO & Founder, Rome, ITALY 
+
+2017-2018 – NAVIOP – R&D Project Engineer & Project Manager, Forlì, ITALY
+
+2013-2014 – Laboratory for Fluorescence Dynamics – Junior Specialist, Irvine, CA, USA  
 
 <h2>Projects Description</h2>
-**Development of a multi-channel FPGA-based time-domain acquisition plaftorm** 
+**Development of a multi-channel FPGA-based time-domain acquisition plaftorm 
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
