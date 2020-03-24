@@ -28,6 +28,7 @@ Recently, novel detector arrays with different spatial and geometric features bu
 <br>
 That is why a multi-channel FPGA-based time-tagging platform is being developed and built during this PhD program: to take best advantage of the synergetic combination between spatial and temporal information contents in order to further enhance the current state of the art instrumentation for fluorescence detection and analysis.
 
+
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
