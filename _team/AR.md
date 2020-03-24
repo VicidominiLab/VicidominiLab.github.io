@@ -21,9 +21,7 @@ Alessandro Rossetta earned his MSs in Biomedical Engineering in 2016 from Univer
 
 <h2>Projects Description</h2>
 
-**Development of a multi-channel FPGA-based time-domain acquisition plaftorm** 
-
-Fluorescence correlation spectroscopy (FCS) and time-resolved fluorescence-lifetime spectroscopy are among the most important tools to observe bio-molecular processes within living cells. Most of FCS and time-resolved fluorescence spectroscopy implementations mainly rely on single-element detectors (i.e., PMT, APD, SPAD or Hybrid detectors) since they have superior temporal resolution and provide the single photon-timing information. However, single-element detectors lose the information about the spatial distribution of the fluorescent light focused on the detector sensitive area.
+**Development of a multi-channel FPGA-based time-domain acquisition plaftorm:** Fluorescence correlation spectroscopy (FCS) and time-resolved fluorescence-lifetime spectroscopy are among the most important tools to observe bio-molecular processes within living cells. Most of FCS and time-resolved fluorescence spectroscopy implementations mainly rely on single-element detectors (i.e., PMT, APD, SPAD or Hybrid detectors) since they have superior temporal resolution and provide the single photon-timing information. However, single-element detectors lose the information about the spatial distribution of the fluorescent light focused on the detector sensitive area.
 
 
 Recently, novel detector arrays with different spatial and geometric features but temporal characteristics similar to single-element detector have been introduced. The use of such detectors is already showing great benefits in current fluorescent signals analysis thanks to the introduction of the spatial information.
