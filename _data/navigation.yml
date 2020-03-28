@@ -28,7 +28,7 @@ main:
   #   url: /gallery/
 
   - title: "Positions"
-     url: /positions/
+    url: /positions/
 
   - title: "Contact"
     url: /contact/
