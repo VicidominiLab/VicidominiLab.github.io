@@ -1,4 +1,20 @@
 ---
+title: "Eli Slenders"
+authorname: "Eli Slenders"
+collection: team
+header:
+  teaser: EliSlenders.jpg
+tags: post-doc
+tagline: Fondazione San Paolo PostDoc Fellow
+subject: "Fluorescence Correlation Spectroscopy"
+date: 2019-01-01
+email: 'eli.slenders@iit.it'
+twitter: EliSlenders
+# collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+---
+
+
+---
 title: "Alessandro Rossetta"
 authorname: "Alessandro Rossetta"
 collection: team
