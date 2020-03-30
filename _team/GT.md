@@ -12,9 +12,10 @@ email: 'giorgio.tortarolo@iit.it'
 twitter: 'GTortarolo'
 googlescholar: "https://scholar.google.com/citations?user=oZX62_AAAAAJ&hl=en"
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
+theme: "BrightEyes, Img Proc Anal"
 # orcid: "https://orcid.org/0000-0002-1182-2478"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
-# theme: "microbiology, new methods"
+
 ---
 
 <h2>ShortBio</h2>
