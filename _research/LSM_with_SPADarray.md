@@ -23,6 +23,7 @@ Scope of this project is to use this new single-photon information to improve th
 <figcaption>Comparison between laser-scanning microscopy with typical single-element detecor and WITH SPAD array detector.</figcaption>
 </figure>
 
+{% include theme-team-members.html %}
 {% include publication-list-theme.html %}
 
 
