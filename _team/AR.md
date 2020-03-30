@@ -10,7 +10,7 @@ subject: "Development of FPGA-based instrumentation for Microscopy and Spectrosc
 date: 2018-11-01
 email: 'alessandro.rossetta@iit.it'
 skype: alessandro.rossetta
-theme: LSM with SPAD array
+theme: "LSM with SPAD array"
 supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 ---
 
