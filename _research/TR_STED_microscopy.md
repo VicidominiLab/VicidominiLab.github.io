@@ -24,5 +24,6 @@ A second class of methods explores the temporal condition at the basis of STED m
 While STED microscopy provides exquisite nanoscale structural information, its point-scanning architecture precludes the direct observation of fast biological process, such as the diffusion of small-biomolecules (e.g., the RNA into the cytoplasm). However, by combing the ability of STED microscopy in generating nanoscale observation volumes, with the ability of fluorescence-correlation-spectroscopy (FCS) to extract the diffusion parameters of the molecules travelling across this observation volume, it is possible to reveal nanoscale spatial heterogeneity in the dynamics of different biomolecules. Our group, in collaboration with the Nanoscopy and NIC$@$IIT group of Prof. Alberto Diaspro, developed a new STED-FCS method able to reveal both spatial and temporal heterogeneity. The method uses the information provided by a time-resolved (time-correlated-single-photon-counting) STED measurement to simultaneously probe the diffusion of a class of biomolecules within decreasing observation volumes. The same method also allowed -- for the first time -- to use STED-FCS within complex three-dimensional environments, such as the cell cytoplasm.
 
 
+{% include theme-team-members.html %}
 {% include publication-list-theme.html %}
 
