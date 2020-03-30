@@ -13,8 +13,8 @@ layout: archive
 <div style="text-align: justify">
 
 Within the STED microscopy scenario our group developed and is developing a series of innovative methods which reduce the illumination (peak) intensity required by STED microscopy, thus providing great benefits for long-term live-cell imaging applications.
-<br>
-
+{empty} +
+{empty} +
 A first method explores the spectral condition at the basis of STED microscopy. STED microscopy improves the spatial resolution by depleting -- via stimulated emission (SE) -- the fluorescence from the periphery of the excitation spot of a conventional laser scanning microscope. The depletion is induced by a second doughnut-shaped beam, the STED beam, which is overlapped with the excitation beam and is red-shifted in wavelength, with respect to the fluorophore emission peak. Such red-shifting helps to avoid direct excitation of the fluorophore with the STED beam, which would otherwise introduce a strong (anti-Stokes emission) background in the image, but reduces the efficiency of the SE depletion, thus requiring an increase of the intensity of the STED beam to achieve effective sub-diffraction resolution. We introduce a synchronous detection scheme into the STED architecture (sync-STED microscopy), which is able to suppress the anti-Stokes emission background. In short, sync-STED microscopy allows for  STED beam with wavelength closer to the fluorophore emission peak -- higher efficiency of SE, thus it allows for reducing the illumination to obtain background-free high-resolution STED images.
 <br>
 
