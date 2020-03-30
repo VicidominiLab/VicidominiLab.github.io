@@ -10,6 +10,7 @@ header:
   teaser: TR_STED_microscopy.jpg
 layout: archive
 ---
+<div style="text-align: justify">
 
 Within the STED microscopy scenario our group developed and is developing a series of innovative methods which reduce the illumination (peak) intensity required by STED microscopy, thus providing great benefits for long-term live-cell imaging applications.
 <br>
