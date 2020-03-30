@@ -15,7 +15,6 @@ googlescholar: "https://scholar.google.it/citations?hl=it&user=rhFhFvcAAAAJ#"
 theme: "Img Proc Anal, LSM with SPAD array"
 # orcid: "https://orcid.org/0000-0002-2151-4487"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
-# theme: "microbiology, new methods"
 ---
 
 <h2>ShortBio</h2>
