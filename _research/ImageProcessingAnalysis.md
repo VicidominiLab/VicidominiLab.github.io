@@ -11,7 +11,9 @@ header:
 layout: archive
 ---
 
+{% include theme-team-members.html %}
 {% include publication-list-theme.html %}
+
 
 
 
