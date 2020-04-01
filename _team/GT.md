@@ -29,6 +29,7 @@ In November 2016, Giorgio obtained the Ph.D. scholarship in Engineering at the U
 
 **Image Scanning Microscopy**: Confocal laser scanning microscopy (CLSM) has been the first microscopy technique to overcome the diffraction limit, but the resolution improvement over traditional microcopy is rarely exploited: it is theoretically achieved only if the pinhole in front of the detector is extremely closed. In this configuration, only few photons actually reach the detector, resulting in a heavy reduction of the signal to noise ratio of the recorded image. As a consequence, users usually open the pinhole to achieve a satisfactory contrast, but doing so gradually decreases - and eventually nullifies - the super-resolution effect. To overcome the tradeoff between spatial resolution and signal to noise ratio, we developed an image scanning microscopy platform, leveraging a fast, frame-rate free pixellated detection hardware: the SPAD array detector. The platform exploits the spatial and temporal distributions of the fluorescence emission light, opportunely sampled by the SPAD array detector and by the custom-made acquisition architecture, to improve traditional confocal and fluorescence lifetime imaging.
 
+
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
