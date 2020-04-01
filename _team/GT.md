@@ -9,7 +9,7 @@ tagline: PostDoc Fellow
 subject: "Super-Resolution Microscopy, Control System, Single-Molecule Tracking"
 date: 2016-02-01
 email: 'giorgio.tortarolo@iit.it'
-cv: https://vicidominilab.github.io/files/TortaroloG__CV_2020_03_31.pdf
+cv: https://vicidominilab.github.io/files/TortaroloG_CV_2020_03_31.pdf
 twitter: 'GTortarolo'
 googlescholar: "https://scholar.google.com/citations?user=oZX62_AAAAAJ&hl=en"
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
