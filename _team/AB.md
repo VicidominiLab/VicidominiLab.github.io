@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: AndreaBucci.jpg
 tags: phd
-tagline: Ph.D. University of Genoa
+tagline: ERC GoG Ph.D. Student - University of Genoa
 subject: "Single-Molecule Tracking"
 date: 2019-11-01
 email: 'andrea.bucci@iit.it'
