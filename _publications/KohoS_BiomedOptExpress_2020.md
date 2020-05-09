@@ -8,7 +8,7 @@ issue: 6
 pages: 2095-2924
 authors: 'Sami V. Koho, Eli Slenders, Giorgio Tortarolo, Marco Castello, Mauro Buttafava, Federica Villa, Elena Tcarenkova, Marcel Ameloot, Paolo Bianchini, Colin J.R. Sheppard, Albeto Diaspro, Alberto Tosi, Giuseppe Vicidomini'
 paperurl: https://www.osapublishing.org/boe/abstract.cfm?uri=boe-11-6-2905
-doi: 0.1364/BOE.374398
+doi: 10.1364/BOE.374398
 tagline: '- Paper, Corresponding author'
 type: "Img Proc Anal, BrightEyes_ERC, LSM with SPAD array"
 ---
