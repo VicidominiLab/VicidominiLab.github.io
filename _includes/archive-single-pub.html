@@ -31,6 +31,8 @@
         <img src="{{ "cover_bioRxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "arXiv" %}
         <img src="{{ "cover_arXiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Biomed. Opt. Express" %}
+        <img src="{{ "cover_boe.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Neurophotonics" %}
         <img src="{{ "cover_neurophotonics.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Nanoscale" %}
