@@ -10,7 +10,7 @@ authors: 'Sami V. Koho, Eli Slenders, Giorgio Tortarolo, Marco Castello, Mauro B
 paperurl: https://www.osapublishing.org/boe/abstract.cfm?uri=boe-11-6-2905
 doi: 10.1364/BOE.374398
 tagline: '- Paper, Corresponding author'
-type: "Img Proc Anal, BrightEyes_ERC, LSM with SPAD array"
+type: "Img Proc Anal, BrightEyes, LSM with SPAD array"
 ---
 
 <h2> Abstract </h2>
