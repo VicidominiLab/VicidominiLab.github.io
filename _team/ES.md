@@ -5,6 +5,7 @@ collection: team
 header:
   teaser: EliSlenders.jpg
 tags: post-doc
+googlescholar:
 tagline: Fondazione San Paolo PostDoc Fellow
 subject: "Fluorescence Correlation Spectroscopy"
 date: 2019-01-01
