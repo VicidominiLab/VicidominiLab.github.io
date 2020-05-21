@@ -10,7 +10,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Open Positions</h2>
 <h3>Ph.D. in Advanced Optical Microscopy for Life Science</h3>
-<h4>Type of Position:</h4>
+<h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h4>Description:</h4>
 The processes of Life are naturally dynamic in space and time from the molecular to the organismal level. Among the different imaging techniques, light microscopy is the only one that potentially can work across this full scale of biological organisation. Ideally, light microscopy is able to visualise the inner workings of proteins, protein complexes, organelles, cells, tissues, organs and whole organisms. However, in practice each specific microscopy techniques poses some fundamental limitations in terms of spatiotemporal resolutions/ranges, labelling, invasiveness, and information contents.
