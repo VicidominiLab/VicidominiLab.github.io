@@ -20,5 +20,6 @@ The PhD student will work in the realisation of these novel methods and/or in th
 The PhD student will benefit significantly from the active collaborations of the Molecular Microscopy and Spectroscopy group with the several groups of the LifeTech domain within the Istituto Italiano di Tecnologia.
 <h4>Requirements:</h4>
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the position is open to candidate having a Master’s degree in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
-<h4>Apply to:</h4>
+<h4>How to Apply:</h4>
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link [Ph.D. Programmes](https://unige.it/en/usg/en/phd-programmes). Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:gray">Dr. Giuseppe Vicidomini</span></a> for information.
 
