@@ -10,3 +10,6 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Open Positions</h2>
 <h3>Ph.D. in Advanced Optical Microscopy for Life Science</h3>
+<h4>Type of Position:</h4>
+Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
+
