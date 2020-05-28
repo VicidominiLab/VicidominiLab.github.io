@@ -21,11 +21,11 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information. Deadline: 15 June 2020.
 
-<h2>Postdoc Position on Image Processing and Analysis for Super-Resolution Microscopy</h2>
+<h2>Postdoc Position on Image Processing and Analysis</h2>
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
-Our group recently introduced a novel single-photon detector array (Castello et al., Nat. Methods, 16, 175–178, 2019) that when integrated into a point scanning microscope allows both measuring the arrival-time and the image-plane position of the detected photons. This ability gives access to a series of novel spatial and temporal dimensions typically discarded/averaged during the microscope image formation process. The candidate will use image deconvolution, deep/machine learning, or other computational tools to explore these new dimensions and achieve better microscopy performances.
+Our group recently introduced a novel single-photon detector array (Castello et al., Nat. Methods, 16, 175–178, 2019) that when integrated into a laser-scanning microscope allows both measuring the arrival-time and the image-plane position of the detected photons. This ability gives access to a series of novel spatial and temporal dimensions typically discarded/averaged during the microscope image formation process. The candidate will use image deconvolution, deep/machine learning, or other computational tools to explore these new dimensions and achieve better microscopy performances (e.g., information content, and the spatial and temporal resolution/range).
 <h3>Requirements:</h3>
 Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering or closely related discipline.  Advanced coding skills (Python and C#) and former experience with deep learning are highly desirable. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
 <h3>How to Apply:</h3>
