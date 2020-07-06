@@ -1,4 +1,3 @@
-
 ---
 title: "SPAD-based asynchronous-readout array detectors for image-scanning microscopy"
 collection: publications
