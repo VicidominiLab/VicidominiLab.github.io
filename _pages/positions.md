@@ -5,7 +5,17 @@ permalink: /positions/
 author_profile: true
 ---
 <br>
-Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:gray">Dr. Giuseppe Vicidomini</span></a> for inquiries.
+Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
+
+<h2>PhD, Postdoc and Research Position in Advanced Optical Microscopy for Life Science</h2>
+<h3>Type of Position:</h3>
+Ph.D. Fellowship, and Ph.D. Postdoc Fellow and Research Fellow
+<h3>Description:</h3>
+We are opening Ph.D., Postdoc and Research positions withing the "BrightEyes: Multi-Parameter Live-Cell Observation of Biomolecular Processes with Single-Photon Detector Array" project. It is a five-year project funded through an ERC Consolidator Grant, awarded to Vicidomini Giuseppe by the European Research Council. Ph.D. position are 3 years, Postdoc positions are 2 years (with possible extension), and Reserach position are 3 years (with possible extension). For more detail about the project and preliminary result visit the <a href="https://vicidominilab.github.io/brighteyes/"><span style="color:blue">BrightEye project webpage</span></a>
+<h3>Requirements:</h3>
+The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the positions are open to candidate having a background in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
+<h3>How to Apply:</h3>
+To get more information about the different positions, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.  
 
 <!--- <h2>Ph.D. in Advanced Optical Microscopy for Life Science</h2>
 <h3>Type of Position:</h3>
