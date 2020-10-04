@@ -32,9 +32,9 @@ Essentials qualifications for this position include a Ph.D. in computer science,
 To apply for this position and to get more information, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 <h2>Ph.D. in Advanced Optical Microscopy for Life Science</h2>
-<h3>Type of Position:</h3>
 <h3>Published:</h3>
 1st June 2020 - Close
+<h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
 The processes of Life are naturally dynamic in space and time from the molecular to the organismal level. Among the different imaging techniques, light microscopy is the only one that potentially can work across this full scale of biological organisation. Ideally, light microscopy is able to visualise the inner workings of proteins, protein complexes, organelles, cells, tissues, organs and whole organisms. However, in practice each specific microscopy techniques poses some fundamental limitations in terms of spatiotemporal resolutions/ranges, labelling, invasiveness, and information contents.
