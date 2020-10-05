@@ -38,7 +38,7 @@ To get more information about the different positions, please contact <a href="m
 
 <h2>Ph.D. in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
-1st June 2020 - <span style="color: green">Closed (Deadline 15th June 2020)</span>
+1st June 2020 - <span style="color: red">Closed (Deadline 15th June 2020)</span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
@@ -54,7 +54,7 @@ In order to apply for this position, it is mandatory to refer to the procedures 
 
 <h2>Postdoc Position on Image Processing and Analysis for Super-Resolution Microscopy </h2>
 <h3>Published:</h3>
-15st February 2019 - Closed (Deadline 15th March 2020)
+15st February 2019 - <span style="color: red">Closed (Deadline 15th March 2020)</span>
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
@@ -63,5 +63,3 @@ Our group recently introduced a novel single-photon detector array (Castello et 
 Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering, or closely related discipline. Advanced coding skills (Python and C#), abilities in maintaining and sharing code repositories (Github and Jupyter), and previous experience with deep learning are highly desirable. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language speaking and writing skills are required.
 <h3>How to Apply:</h3>
 To apply for this position and to get more information, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
-
-
