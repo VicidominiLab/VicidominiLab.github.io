@@ -38,7 +38,7 @@ To get more information about the different positions, please contact <a href="m
 
 <h2>Ph.D. in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
-1st June 2020 - Close
+1st June 2020 - Closed (Deadline 15th June 2020)
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
@@ -50,11 +50,11 @@ The PhD student will benefit significantly from the active collaborations of the
 <h3>Requirements:</h3>
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the position is open to candidate having a Master’s degree in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
 <h3>How to Apply:</h3>
-In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information. Deadline: 15 June 2020.
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
 
 <h2>Postdoc Position on Image Processing and Analysis for Super-Resolution Microscopy </h2>
 <h3>Published:</h3>
-15st February 2019 - Closed
+15st February 2019 - Closed (Deadline 15th March 2020)
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
