@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Postdoc Position in Image Processing and Analysis for Fluorescence Microscopy</h2>
 <h3>Published:</h3>
-5th October 2020 - Open (Deadline 5th November 2020)
+5th October 2020 - <span style="color: green">Open (Deadline 5th November 2020)</span>
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
@@ -26,7 +26,7 @@ Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subje
 
 <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
-1th October 2020 - Open
+1th October 2020 - <span style="color: green">Open</span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship, and Ph.D. Postdoc Fellow and Research Fellow
 <h3>Description:</h3>
