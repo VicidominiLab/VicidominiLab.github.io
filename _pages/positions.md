@@ -7,9 +7,26 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
+<h2>Postdoc Position in Image Processing and Analysis for Fluorescence Microscopy</h2>
+<h3>Published:</h3>
+5th October 2020 - Open (Deadline 5th November 2020)
+<h3>Type of Position:</h3>
+Ph.D. Postdoc Fellow
+<h3>Description:</h3>
+Fondazione Istituto Italiano di Tecnologia - IIT (www.iit.it) invites qualified level applicants for a Post Doc position at the “Molecular Microscopy and Spectroscopy” Research Line lead by Dr. Giuseppe Vicidomini.
+Recent technological advancements in fluorescence microscopy have made it possible to collect rich, multi-parametric data – such as the emission spectra, the excitation spectra, the excited-state lifetime, the polarization, and the photon statistics – of the specimen under investigation, simultaneously, in a single measurement, with a single instrument. As a result, the collected data cannot anymore be considered simply an image, but a multi-dimensional dataset from which one can not only extract the specimen structural information, but functional information as well. Currently, there is a huge lack of analytical methods and algorithms to effectively take advantage of the wealth of information that the current state-of-the-art microscopes collect. As a Postdoc at MMS (IIT) the selected candidate will take charge of developing such methods.
+The selected candidate will use different computational tools, including deep/machine learning approaches, to explore this multi-dimensional data and extract more detailed sample structural and functional information. 
+The candidate will work on datasets collected by different microscopy architectures, from super-resolution microscopes to conventional systems, having the possibility to give his/her contribution to many different projects, and at the same time to get a very broad understanding of the data analysis workflows in different microscopy methods and applications..
+<h3>Requirements:</h3>
+Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering, or closely related discipline. Advanced coding skills (Python and C#), abilities in maintaining and sharing code repositories (git), and previous experience with deep learning are highly desirable. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language skill, both spoken and written, is required. 
+Expertise in microscopy and controlling system will be considered a plus.
+<h3>How to Apply:</h3>
+Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this link <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003H">.
+Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2000003H)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
 <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
-4th October 2020 - Open
+1th October 2020 - Open
 <h3>Type of Position:</h3>
 Ph.D. Fellowship, and Ph.D. Postdoc Fellow and Research Fellow
 <h3>Description:</h3>
@@ -18,18 +35,6 @@ We are opening Ph.D., Postdoc and Research positions withing the "BrightEyes: Mu
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the positions are open to candidate having a background in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
 <h3>How to Apply:</h3>
 To get more information about the different positions, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.  
-
-<h2>Postdoc Position on Image Processing and Analysis</h2>
-<h3>Published:</h3>
-1st October 2020 - Close
-<h3>Type of Position:</h3>
-Ph.D. Postdoc Fellow
-<h3>Description:</h3>
-Our group recently introduced a novel single-photon detector array (Castello et al., Nat. Methods, 16, 175–178, 2019) that integrated into a laser-scanning microscope allows measuring the arrival-time and the image-plane position of the detected photons. This ability gives access to a series of novel spatial and temporal dimensions typically discarded/averaged during the microscope image formation process. The candidate will use image deconvolution, deep/machine learning, or other computational tools to explore these new dimensions and achieve better microscopy performances (e.g., information content, and the spatial and temporal resolution/range).
-<h3>Requirements:</h3>
-Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering, or closely related discipline. Advanced coding skills (Python and C#), abilities in maintaining and sharing code repositories (Github and Jupyter), and previous experience with deep learning are highly desirable. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language speaking and writing skills are required.
-<h3>How to Apply:</h3>
-To apply for this position and to get more information, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 <h2>Ph.D. in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
@@ -46,5 +51,17 @@ The PhD student will benefit significantly from the active collaborations of the
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the position is open to candidate having a Master’s degree in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information. Deadline: 15 June 2020.
+
+<h2>Postdoc Position on Image Processing and Analysis for Super-Resolution Microscopy </h2>
+<h3>Published:</h3>
+15st February 2019 - Closed
+<h3>Type of Position:</h3>
+Ph.D. Postdoc Fellow
+<h3>Description:</h3>
+Our group recently introduced a novel single-photon detector array (Castello et al., Nat. Methods, 16, 175–178, 2019) that integrated into a laser-scanning microscope allows measuring the arrival-time and the image-plane position of the detected photons. This ability gives access to a series of novel spatial and temporal dimensions typically discarded/averaged during the microscope image formation process. The candidate will use image deconvolution, deep/machine learning, or other computational tools to explore these new dimensions and achieve better microscopy performances (e.g., information content, and the spatial and temporal resolution/range).
+<h3>Requirements:</h3>
+Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering, or closely related discipline. Advanced coding skills (Python and C#), abilities in maintaining and sharing code repositories (Github and Jupyter), and previous experience with deep learning are highly desirable. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language speaking and writing skills are required.
+<h3>How to Apply:</h3>
+To apply for this position and to get more information, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 
