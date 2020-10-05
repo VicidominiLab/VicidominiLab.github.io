@@ -21,7 +21,7 @@ The candidate will work on datasets collected by different microscopy architectu
 Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering, or closely related discipline. Advanced coding skills (Python and C#), abilities in maintaining and sharing code repositories (git), and previous experience with deep learning are highly desirable. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language skill, both spoken and written, is required. 
 Expertise in microscopy and controlling system will be considered a plus.
 <h3>How to Apply:</h3>
-Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003H">link</span></a>..
+Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003H">link</span></a>.
 Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2000003H)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
