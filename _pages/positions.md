@@ -63,5 +63,3 @@ Our group recently introduced a novel single-photon detector array (Castello et 
 Essentials qualifications for this position include a Ph.D. in computer science, physics, engineering, or closely related discipline. Advanced coding skills (Python and C#), abilities in maintaining and sharing code repositories (Github and Jupyter), and previous experience with deep learning are highly desirable. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language speaking and writing skills are required.
 <h3>How to Apply:</h3>
 To apply for this position and to get more information, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
-
-
