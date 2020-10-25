@@ -24,6 +24,26 @@ The position is open in particular to graduated students who want to have a lab 
 Applications, including detailed Curriculum Vitae, and name and contacts of, at least, twor referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003U"><span style="color:blue">link</span></a>.
 Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=Fellow%20Position%20Vicidomini%20Lab%20(2000003U)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
+<h2>Postdoc Position in Advanced Fluorescence Microscopy</h2>
+<h3>Published:</h3>
+14th October 2020 - <span style="color: green">Open (Deadline 13th November 2020)</span>
+<h3>Type of Position:</h3>
+Ph.D. Postdoc Fellow
+<h3>Description:</h3>
+Fondazione Istituto Italiano di Tecnologia - IIT (www.iit.it) is offering a Postdoctoral position to a well-qualified, highly motivated and dynamic young scientist who wishes to develop cutting edge optical microscopy, in a friendly and stimulating environment. The successful candidate will join the “Molecular Microscopy and Spectroscopy” Research Line led by Dr. Giuseppe Vicidomini.
+
+Optical microscopy and spectroscopy techniques, for already almost a century, have been the workhorses in the studies of structure and function of cells. However spatiotemporal resolution, labelling, and contrast methods of  conventional microscopy and spectroscopy techniques have some fundamental limitations, that currently hinder the investigation of the smallest and fastest puzzling mysteries of life. Moreover, a large part of the information collected by a microscope is often lost (because of averaging, for example) or not taken advantage of. The core research of the “Molecular Microscopy and Spectroscopy” group is the design, development, and validation of novel optical and analytical tools to break these limitations, and thus, to allow the future biologists to study living cells and organisms with unprecedented temporal-spatial resolutions, minimal invasiveness, and maximal information content.
+
+As a Postdoc, the selected candidate will implement a custom microscopy architecture for fast, deep and multi-dimensional imaging -- by developing novel optical as well as computational approaches. All the latest tools in a microscope-builders toolbox will be available to the selected candidate, who will also have the possibility to give his/her contribution to different application projects. Indeed, the developed microscopy architecture will be used both in the context of Life sciences, e.g. for RNA imaging, and material science, e.g. for material-interface imaging. 
+<h3>Requirements:</h3>
+Applicants must hold an internationally recognized Ph.D. or equivalent degree (or evidence of its completion in the nearest future) preferably in applied Physics or Bioengineering. Strong experiences in optics and microscopy are a must. Experience in adaptive optics with deformable mirrors and/or spatial light modulators is highly desirable. Coding skills (Python and C#) and expertise in hardware control (FPGA, with LabVIEW) will be considered a plus. The ability and motivation to work independently as well as collaboratively in an interdisciplinary team are crucial. Good English language skill, both spoken and written, is required.
+
+Salary will be commensurate to qualifications and experience and in line with international standards.
+The selected candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career.
+<h3>How to Apply:</h3>
+Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003P"><span style="color:blue">link</span></a>.
+Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2000003P)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
 <h2>Postdoc Position in Image Processing and Analysis for Fluorescence Microscopy</h2>
 <h3>Published:</h3>
 5th October 2020 - <span style="color: green">Open (Deadline 5th November 2020)</span>
