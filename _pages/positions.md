@@ -7,6 +7,7 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
+
 <h2>Fellow Position in Bio-Molecular Dynamics</h2>
 <h3>Published:</h3>
 15th October 2020 - <span style="color: green">Open (Deadline 30th October 2020)</span>
