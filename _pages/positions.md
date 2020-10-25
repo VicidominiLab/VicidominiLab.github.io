@@ -11,7 +11,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 <h3>Published:</h3>
 15th October 2020 - <span style="color: green">Open (Deadline 30th October 2020)</span>
 <h3>Type of Position:</h3>
-Ph.D. Postdoc Fellow
+Fellow
 <h3>Description:</h3>
 The Molecular Microscopy and Spectroscopy (MMS) Research Line of the Fondazione Istituto Italiano di Tecnologia (IIT) in Genoa is currently looking for an enthusiastic candidate with a background in the field of Biology, Biotechnology, Biophysics or Bio-engineering for a Fellow position.
 
