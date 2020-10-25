@@ -13,7 +13,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 <h3>Type of Position:</h3>
 Fellow
 <h3>Description:</h3>
-The Molecular Microscopy and Spectroscopy (MMS) Research Line of the Fondazione Istituto Italiano di Tecnologia (IIT) in Genoa is currently looking for an enthusiastic candidate with a background in the field of Biology, Biotechnology, Biophysics or Bio-engineering for a Fellow position.
+The Molecular Microscopy and Spectroscopy (MMS) Research Line of the Fondazione Istituto Italiano di Tecnologia (IIT) in Genoa is currently looking for an enthusiastic candidate with a background in the field of Biology, Biotechnology, Biophysics or Bio-engineering for a Fellow position.\\
 The selected candidate will work on a challenging interdisciplinary project to study the dynamics of bio-molecules in live cells. More specifically, the MMS group recently developed a fluorescence fluctuation spectroscopy (FFS) technique based on a confocal microscopy setup with a novel SPAD array detector and a multichannel photon time-tagging platform. Several FFS techniques, such as spot-variation fluorescence correlation spectroscopy, pair-correlation analysis, and image-derived mean squared displacement analysis, were validated on test samples. The MMS group is now aiming to apply FFS to biological samples. 
 The selected candidate will learn the ins and outs of SPAD array based optical microscopy and spectroscopy and, in return, will offer the MMS group biological knowhow and support with the cell experiments. 
 <h3>Requirements:</h3>
