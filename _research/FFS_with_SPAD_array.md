@@ -19,7 +19,6 @@ Over the last decades, fluorescence correlation spectroscopy (FCS) has been succ
 
 To address this limitation, we recently built a confocal laser scanning microscope in which the traditional single-element detector was replaced with a 5x5 pixel single-photon-avalanche-diode (SPAD) array detector, see the figure below. Each pixel of the detector produces almost instantaneously a logical-high voltage when hit by a fluorescence photon. Consequently, for each pixel, the arrival time of every photon can be registered with sub-nanosecond temporal resolution, independently and asynchronously from the other pixels. In combination with a pulsed laser source and a time-correlated photon registration platform, such a setup offers the additional advantage of being able to simultaneously measure the fluorescence lifetime.
 
-
 <br>
 <br>
 
@@ -28,6 +27,10 @@ To address this limitation, we recently built a confocal laser scanning microsco
 <figcaption>Fluorescence Fluctuation Spectroscopy Setup with a SPAD array detector.</figcaption>
 </figure>
 
+<br>
+<br>
+
+The high-resolution spatial and temporal information can be analyzed in several different ways.
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
