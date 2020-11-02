@@ -17,7 +17,7 @@ Over the last decades, fluorescence correlation spectroscopy (FCS) has been succ
 <br>
 <br>
 
-To address this limitation, we recently built a confocal laser scanning microscope in which the traditional single-element detector was replaced with a 5x5 pixel single-photon-avalanche-diode (SPAD) array detector, see the figure below. Each pixel of the detector produces almost instantaneously a logical-high voltage when hit by a fluorescence photon. Consequently, for each pixel, the arrival time of every photon can be registered with sub-nanosecond temporal resolution, independently and asynchronously from the other pixels. In combination with a pulsed laser source and a time-correlated photon registration platform, such a setup offers the additional advantage of being able to simultaneously measure the fluorescence lifetime.
+To address this limitation, we recently built a confocal laser scanning microscope in which the traditional single-element detector was replaced with a 5x5 pixel single-photon-avalanche-diode (SPAD) array detector, see the figure below. Each pixel of the detector produces almost instantaneously a logical-high voltage when hit by a fluorescence photon. Consequently, for each pixel, the arrival time of every photon can be registered with sub-nanosecond temporal resolution, independently from and asynchronously with respect to the other pixels. In combination with a pulsed laser source, such a setup offers the additional advantage of being able to simultaneously measure the fluorescence lifetime.
 
 <br>
 <br>
@@ -30,7 +30,19 @@ To address this limitation, we recently built a confocal laser scanning microsco
 <br>
 <br>
 
-The high-resolution spatial and temporal information can be analyzed in several different ways.
+The high-resolution spatial and temporal information can be analyzed in several different ways. E.g. the FCS detection volume can be chosen in post-processing by summing the intensity traces of multiple pixels. One can for example calculate three intensity traces, I_12(t), I_sum3x3(t), and I_sum5x5(t). I_12(t) is the intensity trace of the central pixel, I_sum3x3(t) the trace of the nine most central pixels, and I_sum5x5(t) the sum of all pixels. I_12(t) will then correspond to an FCS experiment with a diffraction-limited focal volume, I_sum3x3(t) with a slightly larger focal volume, and I_sum5x5 with an even larger one. Analysing the diffusion time, i.e. the average time a molecule spends in the focal volume, as a function of the focal volume size gives information on the type of diffusion: free diffusion produces a proportional relationship between the diffusion time and the square of the size of the focal volume, while 
+
+<br>
+<br>
+
+<figure style="width: 80%" class="align-center">
+<img src='/images/spot_variation_FCS.png'>
+<figcaption>Fluorescence Fluctuation Spectroscopy Setup with a SPAD array detector.</figcaption>
+</figure>
+
+cross-correlations
+
+FLIM: afterpulsing or FRET
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
