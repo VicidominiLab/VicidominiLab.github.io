@@ -40,12 +40,12 @@ The high-resolution spatial and temporal information can be analyzed in several 
 <figcaption>Figure 2: Spot-variation FCS analysis. (left) Summing the signals from multiple pixels produces different correlation functions and hence different diffusion times. (right) The relationship between the diffusion time and the size of the focal volume gives information on the type of diffusion.</figcaption>
 </figure>
 
-Apart from summing intensity signals, one can also calculate cross-correlations between pairs of pixels. This is equivalent to two-focus FCS (also called pair-correlation FCS); each pixel has a different position in the image plane, thus each pixel also has a field-of-view that is slightly shifted with respect to the other pixels. Not only does pair-correlation analysis provides an accurate measure of the diffuion coefficient, it also removes spurious correlations at short lag times, caused by detector afterpulsing or noise.
+Apart from summing intensity signals, one can also calculate cross-correlations between pairs of pixels. This is equivalent to two-focus FCS (also called pair-correlation FCS); each pixel has a different position in the image plane, thus each pixel also has a field-of-view that is slightly shifted with respect to the other pixels. Not only does pair-correlation analysis provide an accurate measure of the diffuion coefficient, it also removes spurious correlations at short lag times, caused by detector afterpulsing or noise.
 
 <br>
 <br>
 
-A crucial advantage of the SPAD array detector with respect to other cameras is its superior speed. This opens up the possibility to do fluorescence lifetime fluctuation spectroscopy (FLFS). The arrival time information can be used (1) to remove unwanted correlation such as detector afterpulsing, (2) to measure the diffusion properties of a mixture of different species that emit in the same spectral range, and (3) to combine FCS with FRET.
+A crucial advantage of the SPAD array detector with respect to other cameras is its superior speed. This opens up the possibility to perform fluorescence lifetime fluctuation spectroscopy (FLFS). The arrival time information can be used (1) to remove unwanted correlations such as detector afterpulsing, (2) to measure the diffusion properties of a mixture of different species that emit in the same spectral range, and (3) to combine FCS with FRET.
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
