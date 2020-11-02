@@ -30,19 +30,19 @@ To address this limitation, we recently built a confocal laser scanning microsco
 <br>
 <br>
 
-The high-resolution spatial and temporal information can be analyzed in several different ways. E.g. the FCS detection volume can be chosen in post-processing by summing the intensity traces of multiple pixels. One can for example calculate three intensity traces, I_12(t), I_sum3x3(t), and I_sum5x5(t). I_12(t) is the intensity trace of the central pixel, I_sum3x3(t) the trace of the nine most central pixels, and I_sum5x5(t) the sum of all pixels. I_12(t) will then correspond to an FCS experiment with a diffraction-limited focal volume, I_sum3x3(t) with a slightly larger focal volume, and I_sum5x5 with an even larger one. Analysing the diffusion time, i.e. the average time a molecule spends in the focal volume, as a function of the focal volume size gives information on the type of diffusion: free diffusion produces a proportional relationship between the diffusion time and the square of the size of the focal volume, while 
+The high-resolution spatial and temporal information can be analyzed in several different ways. E.g. the FCS detection volume can be chosen in post-processing by summing the intensity traces of multiple pixels. One can for example calculate three intensity traces, I_12(t), I_sum3x3(t), and I_sum5x5(t). I_12(t) is the intensity trace of the central pixel, I_sum3x3(t) the trace of the nine most central pixels, and I_sum5x5(t) the sum of all pixels. I_12(t) will then correspond to an FCS experiment with a diffraction-limited focal volume, I_sum3x3(t) with a slightly larger focal volume, and I_sum5x5 with an even larger one. Analysing the diffusion time, i.e. the average time a molecule spends in the focal volume, as a function of the focal volume size gives information on the type of diffusion: free diffusion produces a proportional relationship between the diffusion time and the square of the size of the focal volume, while microdomains in the sample or diffusion through a meshwork result in a different relationship.
 
 <br>
 <br>
 
 <figure style="width: 80%" class="align-center">
 <img src='/images/spot_variation_FCS.png'>
-<figcaption>Fluorescence Fluctuation Spectroscopy Setup with a SPAD array detector.</figcaption>
+<figcaption>Spot-variation FCS analysis. (left) Summing the signals from multiple pixels produces different correlation functions and hence different diffusion times. (right) The relationship between the diffusion time and the size of the focal volume gives information on the type of diffusion.</figcaption>
 </figure>
 
-cross-correlations
+Apart from summing intensity signals, one can also calculate cross-correlations between pairs of pixels. This is equivalent to two-focus FCS (also called pair-correlation FCS); each pixel has a different position in the image plane, thus each pixel also has a field-of-view that is slightly shifted with respect to the other ones. Not only does pair-correlation provide an accurate measure of the diffuion coefficient, it also removes spurious correlations at short lag times, caused by detector afterpulsing or noise.
 
-FLIM: afterpulsing or FRET
+
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
