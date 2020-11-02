@@ -40,7 +40,7 @@ The high-resolution spatial and temporal information can be analyzed in several 
 <figcaption>Figure 2: Spot-variation FCS analysis. (left) Summing the signals from multiple pixels produces different correlation functions and hence different diffusion times. (right) The relationship between the diffusion time and the size of the focal volume gives information on the type of diffusion.</figcaption>
 </figure>
 
-Apart from summing intensity signals, one can also calculate cross-correlations between pairs of pixels. This is equivalent to two-focus FCS (also called pair-correlation FCS); each pixel has a different position in the image plane, thus each pixel also has a field-of-view that is slightly shifted with respect to the other ones. Not only does pair-correlation provide an accurate measure of the diffuion coefficient, it also removes spurious correlations at short lag times, caused by detector afterpulsing or noise.
+Apart from summing intensity signals, one can also calculate cross-correlations between pairs of pixels. This is equivalent to two-focus FCS (also called pair-correlation FCS); each pixel has a different position in the image plane, thus each pixel also has a field-of-view that is slightly shifted with respect to the other pixels. Not only does pair-correlation analysis provides an accurate measure of the diffuion coefficient, it also removes spurious correlations at short lag times, caused by detector afterpulsing or noise.
 
 <br>
 <br>
