@@ -48,5 +48,4 @@ Apart from summing intensity signals, one can also calculate cross-correlations 
 A crucial advantage of the SPAD array detector with respect to other cameras is its superior speed. This opens up the possibility to perform fluorescence lifetime fluctuation spectroscopy (FLFS). The arrival time information can be used (1) to remove unwanted correlations such as detector afterpulsing, (2) to measure the diffusion properties of a mixture of different species that emit in the same spectral range, and (3) to combine FCS with FRET.
 
 {% include theme-team-members.html %}
-{% include publication-list-theme.html %}
 
