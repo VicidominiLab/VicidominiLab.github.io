@@ -1,7 +1,7 @@
 ---
 title: "Fluorescence Fluctuation Spectroscopy with SPAD array detection"
 type: "FFS SPAD"
-collection: research
+collection: research2
 date: 2020-11-01
 author_profile: false
 sidebar:
