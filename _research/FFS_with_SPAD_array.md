@@ -7,7 +7,7 @@ author_profile: false
 sidebar:
   nav: "Tech"
 header:
-  teaser: SPAD_FCS_setup.jpg
+  teaser: SPAD_FCS_setup.png
 layout: archive
 ---
 <div style="text-align: justify">
