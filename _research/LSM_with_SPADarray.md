@@ -23,6 +23,7 @@ Scope of this project is to use this new single-photon information to improve th
   <source src="/video/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
 </video>
 
+
 <figure style="width: 50%" class="align-center">
 <img src='/images/SinglePhotonsMicroscopy.jpg'>
 <figcaption>Comparison between laser-scanning microscopy with typical single-element detecor and WITH SPAD array detector.</figcaption>
