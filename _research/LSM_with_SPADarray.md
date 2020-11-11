@@ -18,16 +18,15 @@ It is clear that the spatio-temporal integration performed by the single-element
   
 Scope of this project is to use this new single-photon information to improve the spatiotemporal characteristics of laser-scanning microscopy and to augemt its information content.
 
-
-<video width="480" height="320" controls="controls" class="align-center">
-  <source src="/videos/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
-</video>
-
-
 <figure style="width: 50%" class="align-center">
 <img src='/images/SinglePhotonsMicroscopy.jpg'>
 <figcaption>Comparison between laser-scanning microscopy with typical single-element detecor and WITH SPAD array detector.</figcaption>
 </figure>
+
+<h2> Videos: </h2>
+<video width="480" height="320" controls="controls" class="align-center">
+<source src="/videos/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
+</video>
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
