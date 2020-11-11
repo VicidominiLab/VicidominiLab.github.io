@@ -20,7 +20,7 @@ Scope of this project is to use this new single-photon information to improve th
 
 
 <video width="480" height="320" controls="controls" class="align-center">
-  <source src="/video/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
+  <source src="/videos/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
 </video>
 
 
