@@ -30,4 +30,3 @@ Scope of this project is to use this new single-photon information to improve th
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
-
