@@ -18,7 +18,8 @@ It is clear that the spatio-temporal integration performed by the single-element
   
 Scope of this project is to use this new single-photon information to improve the spatiotemporal characteristics of laser-scanning microscopy and to augemt its information content.
 
-<video width="480" height="320" controls="controls">
+
+<video width="480" height="320" controls="controls" class="align-center">
   <source src="/video/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
 </video>
 
