@@ -26,7 +26,7 @@ While STED microscopy provides exquisite nanoscale structural information, its p
 <h2> Slides: </h2>
 <figure style="width: 50%" class="align-center">
 <img src='/slides/VicidominiG_TimeResolvedSTED_preview.001.jpeg'>
-<figcaption>Time-resolved STED microscopy slides. Download <a href="/slides/VicidominiG_TimeResolvedSTED.key">KeyNote</a>, <a href="/slides/VicidominiG_TimeResolvedSTED.pt">PowerPoint</a> </figcaption>
+<figcaption>Time-resolved STED microscopy slides. Download <a href="/slides/VicidominiG_TimeResolvedSTED.key">KeyNote</a>, <a href="/slides/VicidominiG_TimeResolvedSTED.pptx">PowerPoint</a> </figcaption>
 </figure>
 
 
