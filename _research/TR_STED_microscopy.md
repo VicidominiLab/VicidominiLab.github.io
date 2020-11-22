@@ -11,7 +11,13 @@ header:
 layout: archive
 ---
 <div style="text-align: justify">
-
+  
+Diffraction does not allow light to be focused to a volume smaller than roughly one-half of the light wavelength along the lateral directions (x,y) and three times larger along the optical axis (z) (around 200 nm and 600 nm, respectively, for visible light). Stimulated emission depletion microscopy overcomes this diffraction limit by reversibly silencing (depleting) fluorophores at predefined positions of the diffraction-limited excitation volumes. Only the nonsilenced fluorophores in the complementary regions emit light, allowing features closer than the diffraction limit to be separated.
+<br>
+In the most typical STED microscopy implementation, the fluorescent confinement is obtained by coaligning the Gaussian excitation beam of a scanning microscope with a second beam, called the STED beam, which (i) is tuned in wavelength to de-excite fluorophores via stimulated emission (SE) and (ii) is engineered to create a doughnut-shaped focal intensity distribution with a ‘zero’-intensity point in the center. Although the STED beam focal intensity distribution is diffraction limited, high intensities saturate the SE transition and keep virtually all the fluorophores in the ground state, except those located in a region around the ‘zero’-intensity point, whose size reaches subdiffraction values and decreases with increasing STED beam intensity. Thus, scanning the coaligned beams together across a specimen leads to an image where the (subdiffraction) spatial resolution is given by the size of the effective fluorescent region around the ‘zero’.
+<br>
+  
+  
 Within the STED microscopy scenario our group developed and is developing a series of innovative methods which reduce the illumination (peak) intensity required by STED microscopy, thus providing great benefits for long-term live-cell imaging applications.
 <br>
 <br>
