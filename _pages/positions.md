@@ -7,23 +7,6 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
-
-<h2>Fellow Position in Bio-Molecular Dynamics</h2>
-<h3>Published:</h3>
-15th October 2020 - <span style="color: green">Open (Deadline 30th October 2020)</span>
-<h3>Type of Position:</h3>
-Fellow
-<h3>Description:</h3>
-The Molecular Microscopy and Spectroscopy (MMS) Research Line of the Fondazione Istituto Italiano di Tecnologia (IIT) in Genoa is currently looking for an enthusiastic candidate with a background in the field of Biology, Biotechnology, Biophysics or Bio-engineering for a Fellow position.
-
-The selected candidate will work on a challenging interdisciplinary project to study the dynamics of bio-molecules in live cells. More specifically, the MMS group recently developed a fluorescence fluctuation spectroscopy (FFS) technique based on a confocal microscopy setup with a novel SPAD array detector and a multichannel photon time-tagging platform. Several FFS techniques, such as spot-variation fluorescence correlation spectroscopy, pair-correlation analysis, and image-derived mean squared displacement analysis, were validated on test samples. The MMS group is now aiming to apply FFS to biological samples. 
-The selected candidate will learn the ins and outs of SPAD array based optical microscopy and spectroscopy and, in return, will offer the MMS group biological knowhow and support with the cell experiments. 
-<h3>Requirements:</h3>
-The position is open in particular to graduated students who want to have a lab experience before applying for a Ph.D. Position, also Bachelor students are encouraged to apply.  
-<h3>How to Apply:</h3>
-Applications, including detailed Curriculum Vitae, and name and contacts of, at least, twor referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003U"><span style="color:blue">link</span></a>.
-Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=Fellow%20Position%20Vicidomini%20Lab%20(2000003U)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
-
 <h2>Postdoc Position in Advanced Fluorescence Microscopy</h2>
 <h3>Published:</h3>
 14th October 2020 - <span style="color: green">Open (Deadline 13th November 2020)</span>
@@ -58,6 +41,22 @@ Expertise in microscopy and controlling system will be considered a plus.
 <h3>How to Apply:</h3>
 Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003H"><span style="color:blue">link</span></a>.
 Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2000003H)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
+<h2>Fellow Position in Bio-Molecular Dynamics</h2>
+<h3>Published:</h3>
+15th October 2020 - <span style="color: red">Closed (Deadline 30th October 2020)</span>
+<h3>Type of Position:</h3>
+Fellow
+<h3>Description:</h3>
+The Molecular Microscopy and Spectroscopy (MMS) Research Line of the Fondazione Istituto Italiano di Tecnologia (IIT) in Genoa is currently looking for an enthusiastic candidate with a background in the field of Biology, Biotechnology, Biophysics or Bio-engineering for a Fellow position.
+
+The selected candidate will work on a challenging interdisciplinary project to study the dynamics of bio-molecules in live cells. More specifically, the MMS group recently developed a fluorescence fluctuation spectroscopy (FFS) technique based on a confocal microscopy setup with a novel SPAD array detector and a multichannel photon time-tagging platform. Several FFS techniques, such as spot-variation fluorescence correlation spectroscopy, pair-correlation analysis, and image-derived mean squared displacement analysis, were validated on test samples. The MMS group is now aiming to apply FFS to biological samples. 
+The selected candidate will learn the ins and outs of SPAD array based optical microscopy and spectroscopy and, in return, will offer the MMS group biological knowhow and support with the cell experiments. 
+<h3>Requirements:</h3>
+The position is open in particular to graduated students who want to have a lab experience before applying for a Ph.D. Position, also Bachelor students are encouraged to apply.  
+<h3>How to Apply:</h3>
+Applications, including detailed Curriculum Vitae, and name and contacts of, at least, twor referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003U"><span style="color:blue">link</span></a>.
+Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=Fellow%20Position%20Vicidomini%20Lab%20(2000003U)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
