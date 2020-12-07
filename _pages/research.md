@@ -9,7 +9,7 @@ author_profile: true
 <div class="grid">
   <div class="wrapper">
     {% for post in site.research %}
-      {% include archive-single-proj.html type="grid" %}
+      {% include archive-single-proj.html %}
     {% endfor %}
   </div>
 </div>
