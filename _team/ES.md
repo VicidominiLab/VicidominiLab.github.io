@@ -30,5 +30,3 @@ In this project, we aim to build a platform for recording and analyzing FCS data
 <!--{% include author-research-themes.html %}--->
 <!--{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
-
-
