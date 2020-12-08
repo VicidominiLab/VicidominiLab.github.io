@@ -50,6 +50,10 @@
     
     <!--{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}--->
     
+    {% if post.tagline  %}
+    <center><i>{{ post.tagline }}</i></center>
+    {% endif %}
+    
     {% if post.currentPosition  %}
     <center><i>(now {{ post.currentPosition }})</i></center>
     {% endif %}
