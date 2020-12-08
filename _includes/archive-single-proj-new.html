@@ -12,46 +12,36 @@
   {% assign title = post.title %}
 {% endif %}
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img style='object-fit: contain;' src=
+
+  {% if post.tagline contains 'Paper, Corresponding author' %}
+  <table style="border:1px dotted black;">
+  {% elsif post.tagline contains 'Preprint, Corresponding author' %}
+  <table style="border:1px dotted black;">
+  {% else %}
+  <table style="border: none;">
+  {% endif %}
+
+    <tr>
+      <td width="10%" style="border: none;">
+      <img style='object-fit: contain;' src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
           alt="">
-      </div>
-     {% endif %}
-    
-    {% if post.feature %}
-      <div class='pull-right' style='width: 50%; height: 200px; padding: 15px; object-fit: contain;'>
-      <img style='object-fit: cover;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
-     </div>
-    {% endif %}
+      </td>
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <center><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></center>
-      {% endif %}
-    </h2>
-
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-    {% if post.tagline  %}
-    <center><i>{{ post.tagline }}</i></center>
-    {% endif %}
-   
-    
-    {% if post.currentPosition  %}
-    <center><i>(now {{ post.currentPosition }})</i></center>
-    {% endif %}
-    
+      <td width="80%" style="border: none;">
+      </td>
+      
+      <td style="border: none;">
+      </td>
+    </tr>
+  </table>
   </article>
 </div>
