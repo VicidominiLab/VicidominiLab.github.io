@@ -27,7 +27,7 @@ The trade-off between recording spatial and temporal information can be removed 
 
 In this project, we aim to build a platform for recording and analyzing FCS data with a novel 5x5 SPAD array detector installed in a custom-built confocal microscope. We are exploring how the diffusion parameters can be retreived from analysing the autocorrelation and cross-correlation functions of the 25 intensity traces. In addition, we are investigating the system's capability of simulatneously measuring the fluorescence lifetime during an FCS experiment by time-tagging each fluorescence photon. Such a platform would open up a new way of accurately quantifying fast local dynamics and studying the structural organization of complex biological samples.
 
-<!--{% include author-research-themes.html %}--->
+{% include author-research-themes.html %}
 <!--{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
 
