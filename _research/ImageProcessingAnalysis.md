@@ -1,5 +1,6 @@
 ---
 title: "Image Processing and Analysis"
+shortd: "Short decription"
 type: Img Proc Anal
 collection: research
 date: 2016-04-01
