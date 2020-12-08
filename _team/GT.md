@@ -32,3 +32,4 @@ In November 2016, Giorgio obtained the Ph.D. scholarship in Engineering at the U
 <!--{% include author-research-themes.html %}--->
 <!--{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
+
