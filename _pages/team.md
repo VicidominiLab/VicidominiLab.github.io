@@ -25,7 +25,7 @@ author_profile: true
 <div class="wrapper">
   {% for post in site.team %}
     {% if post.tags contains 'post-doc' %}
-      {% include archive-single-proj.html type="grid" %}
+       <!--{% include archive-single-proj.html type="grid" %}--->
     {% endif %}
   {% endfor %}
   </div>
