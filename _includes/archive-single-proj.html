@@ -28,7 +28,7 @@
      {% endif %}-->
     
     <div class='pull-right' style='width: 35%; height: 210px; padding: 5px; object-fit: contain;'>
-     <img src='{{ post.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
+     <img src='{{ post.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: contain; max-height: 600px; margin-left: auto; margin-right: 1px;' >
     </div>
         
    <!--{% if post.feature %}
