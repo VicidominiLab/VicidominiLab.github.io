@@ -26,7 +26,16 @@
       </td>
 
       <td width="70%" style="border: none;">
-      <center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        
+      <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <center><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></center>
+      {% endif %}
+      </h2>  
+        
+      <!---<center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>--->
       </td>
       
     </tr>
