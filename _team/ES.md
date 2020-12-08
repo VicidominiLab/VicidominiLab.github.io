@@ -11,7 +11,7 @@ subject: "Fluorescence Correlation Spectroscopy"
 date: 2019-01-01
 email: 'eli.slenders@iit.it'
 twitter: EliSlenders
-theme: "LSM with SPAD array, FFS SPAD"
+theme: "LSM with SPAD array"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
