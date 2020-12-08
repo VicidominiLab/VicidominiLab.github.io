@@ -16,7 +16,7 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src=
+        <img style='object-fit: contain;' src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
@@ -24,6 +24,12 @@
           {% endif %}
           alt="">
       </div>
+     {% endif %}
+    
+    {% if post.feature %}
+      <!--<div class='pull-right' style='width: 50%; height: 200px; padding: 15px; object-fit: contain;'>--->
+      <img style='object-fit: cover;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
+     </div>
     {% endif %}
     
     <h2 class="archive__item-title" itemprop="headline">
