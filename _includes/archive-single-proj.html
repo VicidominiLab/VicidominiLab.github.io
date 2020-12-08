@@ -26,17 +26,7 @@
           alt="">
       </div>
      {% endif %}--->
-    
-    {% if include.type == "grid" and teaser %}
-        <img style='object-fit: contain;' src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-     {% endif %}
-    
+        
    <!--{% if post.feature %}
       <div class='pull-right' style='width: 50%; height: 200px; padding: 15px; object-fit: contain;'>
       <img style='object-fit: cover;' src="{{ post.feature | prepend: "/images/" | prepend: base_path }}">
