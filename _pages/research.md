@@ -7,6 +7,6 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.research %}
-{% include archive-single-proj-new.html type="grid" %}
+{% include archive-single-proj-new.html %}
 
 {% endfor %}
