@@ -31,6 +31,11 @@
       </td>
 
       <td width="80%" style="border: none;">
+      {% if post.link %}
+        <center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <center><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a></center>
+      {% endif %}
       </td>
       
       <td style="border: none;">
