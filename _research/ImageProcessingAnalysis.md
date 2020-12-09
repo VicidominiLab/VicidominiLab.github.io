@@ -1,6 +1,6 @@
 ---
 title: "Image Processing and Analysis"
-shortd: "Short decription"
+shortd: ""The job of image restoration is to figure out what the instrument is actually trying to tell you." (Roy Pike)<br>"
 type: Img Proc Anal
 collection: research
 date: 2016-04-01
