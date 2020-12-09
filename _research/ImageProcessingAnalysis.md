@@ -5,7 +5,7 @@ shortd: "The aims of this set of projects is to implement computational algorith
 type: Img Proc Anal
 collection: research
 date: 2016-04-01
-author_profile: false
+author_profile: true
 sidebar:
   nav: "Tech"
 header:
