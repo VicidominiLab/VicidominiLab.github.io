@@ -9,9 +9,11 @@
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
   {% assign shortd = post.shortd | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign quote = post.quote | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
   {% assign shortd = post.shortd %}
+  {% assign quote = post.quote %}
 {% endif %}
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
@@ -38,6 +40,7 @@
       {% endif %}
       </h2>  
       
+      {{ quote }}  
       {{ shortd }}
       <!---<center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>--->
       </td>
