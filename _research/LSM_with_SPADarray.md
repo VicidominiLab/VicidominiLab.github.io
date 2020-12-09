@@ -5,7 +5,7 @@ shortd: "Typically, laser scanning microscopy provides a single averaging intens
 type: LSM with SPAD array
 collection: research
 date: 2016-04-01
-author_profile: false
+author_profile: true
 sidebar:
   nav: "Tech"
 header:
