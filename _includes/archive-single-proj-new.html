@@ -19,7 +19,8 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-   <table style="border:1px dotted black;">
+   <!--<table style="border:1px dotted black;">--->
+   <table style="border: none;">  
     
     <tr>
       
@@ -38,7 +39,6 @@
       </h2>  
       
       {{ shortd }}
-      {{ post.shortd }}
       <!---<center><a href="{{ post.link }}">{{ title }}</a> </center><a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>--->
       </td>
       
