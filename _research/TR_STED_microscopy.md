@@ -6,8 +6,6 @@ type: "TR-STED microscopy"
 collection: research
 date: 2016-04-01
 author_profile: true
-sidebar:
-  nav: "Tech"
 header:
   teaser: TR_STED_microscopy.jpg
 layout: archive
