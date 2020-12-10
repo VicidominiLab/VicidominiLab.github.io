@@ -1,7 +1,7 @@
 ---
 title: "Time-Resolved STED Microscopy"
 quote: "If I have seen further it is by standing on the shoulders of Giants (Isaac Newton)."
-shortd: "By considering a microscope as a multi-channel system, thus able to trasmit not only spatial information but also other type of information, e.g., time, wavelenght, and polarzation, it has been proposed to use use these alternative chaneels to improve the spatail resolution of the microscope. Starting from this very general concept, we showed how in STED microscopy the temporal channel, and in particular the the ability to register the photon-arrival time of the fluorescent photon, can be used to improve the spatial resolution without increasing the intensity of the STED beam. The aims of this set of projects is to further explore this space-time duality and to find other applications of the above information concept to augment the characteristics of STED microscopy.
+shortd: "By considering a microscope as a multi-channel system, thus able to trasmit not only spatial information but also other type of information, e.g., time, wavelenght, and polarzation, it has been proposed to use use these alternative chaneels to improve the spatail resolution of the microscope. Starting from this very general concept, we showed how in STED microscopy the temporal channel, and in particular the the ability to register the photon-arrival time of the fluorescent photon, can be used to improve the spatial resolution without increasing the intensity of the STED beam. The aims of this set of projects is to further explore this space-time duality and to find other applications of the above information concept to augment the characteristics of STED microscopy."
 type: "TR-STED microscopy"
 collection: research
 date: 2016-04-01
