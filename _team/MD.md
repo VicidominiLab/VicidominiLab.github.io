@@ -3,7 +3,7 @@ title: "Mattia Donato"
 authorname: "Mattia Donato"
 collection: team
 header:
-  teaser: bio-photo.jpg
+  teaser: MattiaDonato.jpg
 tags: technician
 tagline: Junior Technician
 subject: "Electonics"
