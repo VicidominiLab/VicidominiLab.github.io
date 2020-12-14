@@ -3,7 +3,7 @@ title: "Alessandro Rossetta"
 authorname: "Alessandro Rossetta"
 collection: team
 header:
-  teaser: alessandrorossetta.jpg
+  teaser: AlessandroRossetta.jpg
 tags: phd
 tagline: Ph.D. Student - University of Genoa (with Nanoscopy and NIC@IIT)
 subject: "Development of FPGA-based instrumentation for Microscopy and Spectroscopy Applications"
