@@ -8,6 +8,7 @@ tags: technician
 tagline: Junior Technician
 subject: "Electonics"
 date-start: 2020-04-01
+theme: "FFS SPAD"
 email: 'mattia.donato@iit.it'
 ---
 
