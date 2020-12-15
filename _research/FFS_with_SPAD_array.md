@@ -23,7 +23,7 @@ To address this limitation, we recently built a confocal laser scanning microsco
 <br>
 <br>
 
-<figure style="width: 60%" class="align-center">
+<figure class="align-center">
 <img src='/images/SPAD_FCS_animation.gif'>
 <figcaption>Figure 1: Fluorescence Fluctuation Spectroscopy Setup with a SPAD array detector.</figcaption>
 </figure>
