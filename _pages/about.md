@@ -23,7 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Welocome to [Dr. Mattia Donato](https://vicidominilab.github.io/team/MD/) in our group. Our strength in FPGA-based controlling and DAQ system is improving.
+Wellcome to [Dr. Mattia Donato](https://vicidominilab.github.io/team/MD/) in our group. Our strength in FPGA-based controlling and DAQ systems is improving.
 
 <h2>The Laboratory</h2>
 <body align="justify">
