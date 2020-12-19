@@ -1,7 +1,7 @@
 ---
-title: "Laser-Scanning Microscopy with SPAD Array Detector"
+title: "Single-Photon Laser-Scanning Microscopy with SPAD Array Detector"
 quote: "When you consider humans on the average, we have one brain, one heart, two lungs, two kidneys,....one ovary, one testicle (Prof. Steven M. Block)."
-shortd: "Typically, laser scanning microscopy provides a single averaging intensity value for each pixel/position of the sample, i.e., a value for each detection volumes. Surely, this averaging/integrating process discards inportant information, such as the temporal dynamics, and the spatial distribution of detection volume image. To overcoem this limitation, we have recently introdued a single-photon detector array able to register photon one at a time. In short, the detector allows to tag photons temporally (with picoseconds preciosion) and spatially (with nanometres precision). The aims of this set of projects is to implement a series of new imaging techniques which take advantags of this new single-photon dataset." 
+shortd: "Typically, laser scanning microscopy provides a single averaging intensity value for each pixel/position of the sample, i.e., a value for each detection volumes. Surely, this averaging/integrating process discards inportant information, such as the temporal dynamics, and the spatial distribution of detection volume image. To overcoem this limitation, we have recently introdued a single-photon detector array able to register photon one at a time. In short, the detector allows to tag photons temporally (with picoseconds preciosion) and spatially (with nanometres precision). The aims of this set of projects is to open to a new imaging paradigma able to take advantags of this new single-photon dataset. We call this paradigma single-photon microscopy." 
 type: LSM with SPAD array
 collection: research
 date: 2016-04-01
