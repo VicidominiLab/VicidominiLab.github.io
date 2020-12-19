@@ -13,7 +13,7 @@ layout: archive
 
 | Resourse | Description | Link |
 | --- | --- | --- |
-| GitHub Page | Software for data analysis | <a href="https://github.com/VicidominiLab/spad-ffs"><span style="color:blue">here</span></a> |
+| GitHub Page | Software for data analysis (with Jupyter Notebook) | <a href="https://github.com/VicidominiLab/spad-ffs"><span style="color:blue">here</span></a> |
 | Zenodo Page | Real data set for testing |  <a href="https://zenodo.org/record/4161418#.X93ed-lKhhE"><span style="color:blue">here</span></a> |
 
 <div style="text-align: justify">
@@ -54,8 +54,6 @@ A crucial advantage of the SPAD array detector with respect to other cameras is 
 
 <br>
 <br>
-
-A Jupyter Notebook with an example of the FFS data analysis on a real data set can be found <a href="https://github.com/VicidominiLab/spad-ffs"><span style="color:blue">here</span></a>.
 
 {% include theme-team-members.html %}
 
