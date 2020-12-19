@@ -28,7 +28,6 @@ Scope of this project is to use this new single-photon information to improve th
 </div>
 
 <br>
-
 | Resourse | Description | Link |
 | --- | --- | --- |
 | Twitter | #singlephotonmicroscope (hashtag on twitter) | <a href="https://twitter.com/hashtag/singlephotonmicroscopy?src=hashtag_click"><span style="color:blue">here</span></a> |
