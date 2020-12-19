@@ -10,6 +10,9 @@ header:
   teaser: LSM_with_SPADarray.jpg
 layout: archive
 ---
+| Resourse | Description | Link |
+| --- | --- | --- |
+| Twitter | #singlephotonmicroscope (hashtag on twitter) | <a href="https://twitter.com/hashtag/singlephotonmicroscopy?src=hashtag_click"><span style="color:blue">here</span></a> |
 
 <div style="text-align: justify">
 Laser-scanning microscopy is one of the most common architecture in fluorescence microscopy, e.g., confocal, two-photon excitation (TPE), and stimulated emission depletion (STED) microscopy. In a nutshell: (i) the objective lens focuses the laser beam(s) to the sample and generates an effective excitation spot which is raster scanned across the sample; (ii) for each position/pixel the fluorescent image of the spot is projected into a single-element detector, which – typically – spatially and temporally integrates the fluorescent light over the detector sensitive area and during the pixel dwell-time, thus providing a single-intensity value per pixel; (iii) all pixel intensity values are registered to build up a digital image.
