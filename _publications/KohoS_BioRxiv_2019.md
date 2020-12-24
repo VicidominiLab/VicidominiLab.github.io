@@ -2,7 +2,7 @@
 title: "Easy Two-Photon Image-Scanning Microscopy With Spad Array And Blind Image Reconstruction"
 collection: publications
 date: 2019-04-27
-venue: 'BiorXiv'
+venue: 'bioRxiv'
 volume: 
 issue: 
 pages:
