@@ -3,7 +3,7 @@ title: "Manuela Salvatori"
 authorname: "Manuela Salvatori"
 collection: team
 header:
-  teaser: bio-photo.jpg
+  teaser: MS.jpg
 tags: assistant
 tagline: Administrative Assistant 
 email: 'manuela.salvatori@iit.it'
