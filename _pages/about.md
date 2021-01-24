@@ -23,7 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Wellcome to [Dr. Mattia Donato](https://vicidominilab.github.io/team/MD/) in our group. Our strength in FPGA-based controlling and DAQ systems is improving.
+Wellcome to [Francesco Fersini](https://vicidominilab.github.io/team/FF/) in our group. Trained in the laboratory of Prof. Ilaria Testa, and immediately ready to support our projects for adaptive optics and phasor analysis. So excited of having in board.
 
 <h2>The Laboratory</h2>
 <body align="justify">
