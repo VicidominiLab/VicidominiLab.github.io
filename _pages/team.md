@@ -45,12 +45,12 @@ author_profile: true
 </div>
   
 <hr-bold>
-<h2>Postgraduate Master</h2>
+<h2>Postgraduate Master Students</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
-    {% if post.tags contains 'phd' %}
+    {% if post.tags contains 'postgraduate' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
