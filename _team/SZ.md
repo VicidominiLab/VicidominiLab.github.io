@@ -4,7 +4,7 @@ authorname: "Sabrina Zappone"
 collection: team
 header:
   teaser: SabrinaZappone.jpg
-tags: felloship 
+tags: postgraduate
 googlescholar:
 tagline: Fondazione San Paolo PostDoc Fellow
 subject: "Molecular Biology"
