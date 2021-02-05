@@ -24,6 +24,10 @@ This goal can be achieved only by working across many disciplines, from physics 
 <h2>Last News</h2>
 <body align="justify">
 Wellcome to [Francesco Fersini](https://vicidominilab.github.io/team/FF/) in our group. Trained in the laboratory of Prof. Ilaria Testa, and immediately ready to support our projects for adaptive optics and phasor analysis. So excited of having him on board.
+  
+<h2>Where To Meet Us</h2>
+<body align="justify">
+* February 22, 2021, 3.30 PM Est, 65th Biophysical Society Meetting, Biological Fluorescence Subgroup, OnLine, "Laser-Scanning Microscopy with Single-Photon Detector Array: Deconstructing the Photon Stream from Your Fluorescence Sample" (G. Vicidomini)  
 
 <h2>The Laboratory</h2>
 <body align="justify">
