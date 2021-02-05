@@ -27,7 +27,7 @@ Wellcome to [Francesco Fersini](https://vicidominilab.github.io/team/FF/) in our
   
 <h2>Where To Meet Us</h2>
 <body align="justify">
-* February 22, 2021, 3.30 PM Est, 65th Biophysical Society Meetting, Biological Fluorescence Subgroup, OnLine, "Laser-Scanning Microscopy with Single-Photon Detector Array: Deconstructing the Photon Stream from Your Fluorescence Sample" (G. Vicidomini)  
+* February 22, 2021, 3.30 PM Est, [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/), Biological Fluorescence Subgroup, OnLine, "Laser-Scanning Microscopy with Single-Photon Detector Array: Deconstructing the Photon Stream from Your Fluorescence Sample" (G. Vicidomini)  
 
 <h2>The Laboratory</h2>
 <body align="justify">
