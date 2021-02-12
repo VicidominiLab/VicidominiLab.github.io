@@ -29,8 +29,10 @@
       <td width="10%" style="border: none;">
       {% if post.venue == "bioRxiv" %}
         <img src="{{ "cover_bioRxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-        {% elsif post.venue == "Optica" %}
+      {% elsif post.venue == "Optica" %}
         <img src="{{ "cover_optica.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Light Sci. Appl." %}
+        <img src="{{ "cover_LSA.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "arXiv" %}
         <img src="{{ "cover_arXiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Biomed. Opt. Express" %}
