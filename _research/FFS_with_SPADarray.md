@@ -57,3 +57,4 @@ A crucial advantage of the SPAD array detector with respect to other cameras is 
 | Twitter     | #SPAD_FFS (hashtag on twitter) | <a href="https://twitter.com/hashtag/SPAD_FFS?src=hashtag_click"><span style="color:blue">here</span></a> |
 
 {% include theme-team-members.html %}
+{% include publication-list-theme.html %}
