@@ -4,8 +4,8 @@ authorname: "Sami V. Koho"
 collection: team
 header:
   teaser: SamiKoho.png
-tags: post-doc
-tagline: MSCA EF-IF Research Fellow
+tags: alumni
+tagline: MSCA EF-IF Research Fellow (now Software Engineer at Scandit)
 subject: "Adaptive Optics for Super-Resolution Microscopy and Image Reconstruction"
 date: 2017-01-01
 email: 'sami.koho@iit.it'
