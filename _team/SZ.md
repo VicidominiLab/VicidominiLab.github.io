@@ -6,7 +6,7 @@ header:
   teaser: SabrinaZappone.jpg
 tags: postgraduate
 googlescholar:
-tagline: Fondazione San Paolo PostDoc Fellow
+tagline: Fondazione San Paolo PostGraduate Fellow
 subject: "Molecular Biology"
 date: 2019-01-01
 email: 'sabrina.zappone@iit.it'
