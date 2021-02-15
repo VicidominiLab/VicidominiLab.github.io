@@ -23,7 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Wellcome to [Francesco Fersini](https://vicidominilab.github.io/team/FF/) in our group. Trained in the laboratory of Prof. Ilaria Testa, and immediately ready to support our projects for adaptive optics and phasor analysis. So excited of having him on board.
+Wellcome to [Sabrina Zappone](https://vicidominilab.github.io/team/SZ/) in our group. With her background in Molecular Biology, she will help us in effectively showing up the potential of our SPAD array technology in many Life science applications. We can not wait to start collaborating with her. 
   
 <h2>Where To Meet Us</h2>
 <body align="justify">
