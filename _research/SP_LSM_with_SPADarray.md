@@ -27,9 +27,7 @@ To solve this limitation, we have introduced a series of asynchronous read-out s
 
 Scope of this project is to use this new set of spatiotemporal single-photon information to improve the performance of many different advanced LSM-based techniques. We called this new LSM architecture single-photon microscopy because the data recording occurs at the photon level, i.e., every single-photon is registered together with a series of spatial and temporal tags.
 </div>
-
 <br>
-
 | Resourse | Description | Link |
 | --- | --- | --- |
 | Twitter | #singlephotonmicroscope (hashtag on twitter) | <a href="https://twitter.com/hashtag/singlephotonmicroscopy?src=hashtag_click"><span style="color:blue">here</span></a> |
