@@ -6,11 +6,11 @@ header:
   teaser: EliSlenders.jpg
 tags: post-doc
 googlescholar:
-tagline: Fondazione San Paolo PostDoc Fellow
-subject: "Fluorescence Correlation Spectroscopy"
+tagline: MSCA EF-IF Research Fellow (former Fondazione San Paolo PostDoc Fellow)
+subject: "Fluorescence Correlation Spectroscopy and Single-Molecule Imaging"
 date: 2019-01-01
 email: 'eli.slenders@iit.it'
-twitter: EliSlenders
+twitter: 'EliSlenders'
 theme: "FFS SPAD"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
