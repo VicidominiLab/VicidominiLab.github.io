@@ -6,7 +6,7 @@ header:
   teaser: EleonoraPerego.jpg
 tags: post-doc
 googlescholar:
-tagline: 
+tagline: Postdoc Fellow
 subject: "Fluorescence Fluctuation Spectroscopy"
 date: 2021-01-03
 email: 'eleonora.perego@iit.it'
