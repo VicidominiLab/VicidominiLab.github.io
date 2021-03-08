@@ -10,7 +10,7 @@ tagline: Postdoc Fellow
 subject: "Fluorescence Fluctuation Spectroscopy"
 date: 2021-01-03
 email: 'eleonora.perego@iit.it'
-twitter: blablaPomodoro
+twitter: 'blablaPomodoro'
 theme: "FFS SPAD"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
