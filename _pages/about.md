@@ -23,8 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Wellcome to [Sabrina Zappone](https://vicidominilab.github.io/team/SZ/) in our group. With her background in Molecular Biology, she will help us in effectively showing up the potential of our SPAD array technology in many Life science applications. We can not wait to start collaborating with her. 
-  
+Wellcome to [Eleonora Perego](https://vicidominilab.github.io/team/EP/). Trained in the group of Sarah Koester at the University of Goettingen, with her background in Biophysics, she will help us in levereging our SPAD array detector technology in Fluorescence Fluctuation Spectroscopy. So exciting to start with her new application projects.
 <h2>Where To Meet Us</h2>
 <body align="justify">
 * February 22, 2021, 3.30 PM Est, [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/), Biological Fluorescence Subgroup, OnLine, "Laser-Scanning Microscopy with Single-Photon Detector Array: Deconstructing the Photon Stream from Your Fluorescence Sample" (G. Vicidomini)  
