@@ -26,7 +26,9 @@ This goal can be achieved only by working across many disciplines, from physics 
 Wellcome to [Eleonora Perego](https://vicidominilab.github.io/team/EP/). Trained in the group of Sarah Koester at the University of Goettingen, with her background in Biophysics, she will help us in levereging our SPAD array detector technology in Fluorescence Fluctuation Spectroscopy. So exciting to start with her new application projects.
 <h2>Where To Meet Us</h2>
 <body align="justify">
-* February 22, 2021, 3.30 PM Est, [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/), Biological Fluorescence Subgroup, OnLine, "Laser-Scanning Microscopy with Single-Photon Detector Array: Deconstructing the Photon Stream from Your Fluorescence Sample" (G. Vicidomini)  
+* February 22nd - 26th, 2021, (On Demand, March 5th - April 23th, 2021) [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/)
+* March 28th - 31st, 2021, [Focus on Microscopy 2021](http://www.focusonmicroscopy.org)
+* April 12nd - 16th, 2021, [OSA: Biophotonics Congress: Optics in the Life Sciences](https://www.osa.org/en-us/meetings/osa_meetings/osa_biophotonics_congress/)
 
 <h2>The Laboratory</h2>
 <body align="justify">
