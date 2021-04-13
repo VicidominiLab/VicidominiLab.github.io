@@ -43,17 +43,12 @@ A second class of methods explores the temporal condition at the basis of STED m
 <br>
 While STED microscopy provides exquisite nanoscale structural information, its point-scanning architecture precludes the direct observation of fast biological process, such as the diffusion of small-biomolecules (e.g., the RNA into the cytoplasm). However, by combing the ability of STED microscopy in generating nanoscale observation volumes, with the ability of fluorescence-correlation-spectroscopy (FCS) to extract the diffusion parameters of the molecules travelling across this observation volume, it is possible to reveal nanoscale spatial heterogeneity in the dynamics of different biomolecules. Our group, in collaboration with the Nanoscopy and NIC$@$IIT group of Prof. Alberto Diaspro, developed a new STED-FCS method able to reveal both spatial and temporal heterogeneity. The method uses the information provided by a time-resolved (time-correlated-single-photon-counting) STED measurement to simultaneously probe the diffusion of a class of biomolecules within decreasing observation volumes. The same method also allowed -- for the first time -- to use STED-FCS within complex three-dimensional environments, such as the cell cytoplasm.--->
 
-<h2> Slides: </h2>
+<h2> Slides adn Video: </h2>
 <figure style="width: 50%" class="align-center">
 <img src='/slides/VicidominiG_TimeResolvedSTED_preview.001.jpeg'>
-<figcaption>Time-resolved STED microscopy slides. Download <a href="/slides/VicidominiG_TimeResolvedSTED.key">KeyNote</a>, <a href="/slides/VicidominiG_TimeResolvedSTED.pptx">PowerPoint</a> </figcaption>
+<figcaption>Time-resolved STED microscopy slides and video. Download <a href="/slides/VicidominiG_TimeResolvedSTED.key">KeyNote</a>, <a href="/slides/VicidominiG_TimeResolvedSTED.pptx">PowerPoint</a>, <a href="https://youtu.be/wTHSFCAnWXk">Play video Youtube</a> </figcaption>
 </figure>
 
-<div style="width: 50%" class="align-center">
-  <a href="https://youtu.be/wTHSFCAnWXk">
-    <img src='http://img.youtube.com/vi/wTHSFCAnWXk/1.jpg' style='width: 75%'>
-  </a>
-</div>
 
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
