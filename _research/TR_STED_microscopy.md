@@ -51,7 +51,7 @@ While STED microscopy provides exquisite nanoscale structural information, its p
 
 <div style="text-align: center">
   <a href="https://youtu.be/wTHSFCAnWXk">
-    <img src='http://img.youtube.com/vi/wTHSFCAnWXk.jpg' style='width: 75%'>
+    <img src='http://img.youtube.com/vi/wTHSFCAnWXk/0.jpg' style='width: 75%'>
   </a>
 </div>
 
