@@ -7,7 +7,7 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
-<h2>Ph.D. in 1.	New Developments in Advanced Light Microscopy </h2>
+<h2>Ph.D. in New Developments in Advanced Light Microscopy </h2>
 <h3>Published:</h3>
 29th April 2021 - <span style="color: orange"> Opening Soon on 10th May 2021 (Deadline 15th June 2021)</span>
 <h3>Type of Position:</h3>
@@ -20,6 +20,23 @@ The PhD student will be fully integrated in this general mission and his/her spe
 The PhD student will benefit significantly from the active collaborations of the MMS group with the several computational and photonics groups of the Istituto Italiano di Tecnologia. 
 <h3>Requirements:</h3>
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the position is open to candidate having a Master’s degree in one of the following areas: Physical Science, Computer Science, and Engineering. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required. For Computer Science candidates good coding skills (preferably in Phyton) and knowledge in Artificial Inteligence are important.
+<h3>How to Apply:</h3>
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call will be available startig from May 10th at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
+
+<h2>Ph.D. in 2.	Investigation of Biomolecular Processes with Advance Light Microscopy </h2>
+<h3>Published:</h3>
+29th April 2021 - <span style="color: orange"> Opening Soon on 10th May 2021 (Deadline 15th June 2021)</span>
+<h3>Type of Position:</h3>
+Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
+<h3>Description:</h3>
+The processes of Life are naturally dynamic in space and time from the molecular to the organismal level. Among the different imaging techniques, light microscopy is the only one that potentially can work across this full scale of biological organisation. Ideally, light microscopy is able to visualise the inner workings of proteins, protein complexes, organelles, cells, tissues, organs and whole organisms. However, in practice each specific microscopy techniques poses some fundamental limitations in terms of spatiotemporal resolutions/ranges, labelling, invasiveness, and information contents.
+The core research of our group (Molecular Microscopy and Spectroscopy, MMS) is the design, development, and validation of novel optical, biological and computational tools that allow the modern biologists to peer inside living cells with unprecedented spatiotemporal resolutions/ranges, minimal invasiveness, and augmented information content. This goal can be achieved only by working across many disciplines, from physics to engineering, from computer science to biology.
+
+The PhD student will be fully integrated in this general mission and will use the most advanced optical methods and analysis tools developed by the group, and available at the Italian Institute of Technology, to answer fundamental questions for RNA biology and/or neuroscience. As example, our group recently developed a fluorescence fluctuation spectroscopy (FFS) technique based a novel single-photon detector array. This novel system allows to implement several FFS techniques (such as spot-variation fluorescence correlation spectroscopy, pair-correlation analysis, and image-derived mean squared displacement analysis) combined with different time-resolved spectroscopy method (such as fluorescence lifetime), thus opening to high-information content experiments for deciphering biomolecule dynamics and interactions in living-cell. The group validated the system on test samples, and now is aiming to apply the method to study RNA-based biomolecules and synaptic proteins. A particular attention will be dedicated to question concerning the role of non-coding RNA in gene expression control.
+The PhD student will benefit significantly from the active collaborations of the MMS group with the several groups of the LifeTech domain within the Istituto Italiano di Tecnologia. 
+ 
+<h3>Requirements:</h3>
+The project is open to candidate having a Master’s degree in one of the following areas: Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required. Previous research experiences in cell culture, cellular transfection, and fluorescence microscope are very important.
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call will be available startig from May 10th at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
 
