@@ -23,7 +23,7 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call will be available startig from May 10th at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
 
-<h2>Ph.D. in 2.	Investigation of Biomolecular Processes with Advance Light Microscopy </h2>
+<h2>Ph.D. in Investigation of Biomolecular Processes with Advance Light Microscopy </h2>
 <h3>Published:</h3>
 29th April 2021 - <span style="color: orange"> Opening Soon on 10th May 2021 (Deadline 15th June 2021)</span>
 <h3>Type of Position:</h3>
