@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Ph.D. in 1.	New Developments in Advanced Light Microscopy </h2>
 <h3>Published:</h3>
-10th May 2021 - <span style="color: green">Closed (Deadline 15th June 2021)</span>
+10th May 2021 - <span style="color: green"> Opening Soon (Deadline 15th June 2021)</span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
