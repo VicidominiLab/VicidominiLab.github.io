@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Ph.D. in New Developments in Advanced Light Microscopy </h2>
 <h3>Published:</h3>
-29th April 2021 - <span style="color: orange"> Opening Soon on 10th May 2021 (Deadline 15th June 2021)</span>
+29th April 2021 - <span style="color: green"> Open (Deadline 15th June 2021)</span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
@@ -21,11 +21,11 @@ The PhD student will benefit significantly from the active collaborations of the
 <h3>Requirements:</h3>
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the position is open to candidate having a Master’s degree in one of the following areas: Physical Science, Computer Science, and Engineering. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required. For Computer Science candidates good coding skills (preferably in Phyton) and knowledge in Artificial Inteligence are important.
 <h3>How to Apply:</h3>
-In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call will be available startig from May 10th at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="http://phd.dibris.unige.it/biorob/index.php/how-to-apply"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20%(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
 
 <h2>Ph.D. in Investigation of Biomolecular Processes with Advance Light Microscopy </h2>
 <h3>Published:</h3>
-29th April 2021 - <span style="color: orange"> Opening Soon on 10th May 2021 (Deadline 15th June 2021)</span>
+29th April 2021 - <span style="color: green"> Open (Deadline 15th June 2021)</span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
@@ -38,7 +38,7 @@ The PhD student will benefit significantly from the active collaborations of the
 <h3>Requirements:</h3>
 The project is open to candidate having a Master’s degree in one of the following areas: Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required. Previous research experiences in cell culture, cellular transfection, and fluorescence microscope are very important.
 <h3>How to Apply:</h3>
-In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call will be available startig from May 10th at this link <a href="https://unige.it/en/usg/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="http://phd.dibris.unige.it/biorob/index.php/how-to-apply"><span style="color:blue">Ph.D. Programmes</span></a>. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20%(02)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
 
 <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
