@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 <figure style="width: 50%" class="align-center">
-<img src='/images/BrightEyes_ERC_Europe.jpg'>
+<img src='/images/BrightEyes_ERC_Europe-01.jpg'>
 </figure>
 
 <h2>Summary</h2>
