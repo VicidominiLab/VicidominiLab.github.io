@@ -6,8 +6,6 @@ permalink: /brighteyes/
 author_profile: true
 ---
 
-{% include base_path %}
-
 <figure style="width: 75%" class="align-center">
 <img src='/images/BrightEyes_ERC_Europe-01.jpg'>
 </figure>
