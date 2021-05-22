@@ -18,7 +18,6 @@ Fluorescence single-molecule (SM) detection techniques have the potential to pro
 
 | Resourse | Description | Link |
 | --- | --- | --- |
-| Zenodo Page | Real data set for testing |  <a href="https://zenodo.org/record/4161418#.X93ed-lKhhE"><span style="color:blue">here</span></a> |
 | Twitter     | #SPAD_FFS (hashtag on twitter) | <a href="https://twitter.com/hashtag/SPAD_FFS?src=hashtag_click"><span style="color:blue">here</span></a> |
   
 {% include theme-team-members.html %}
