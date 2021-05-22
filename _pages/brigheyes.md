@@ -18,7 +18,7 @@ Fluorescence single-molecule (SM) detection techniques have the potential to pro
 
 | Resourse | Description | Link |
 | --- | --- | --- |
-| Twitter     | #SPAD_FFS (hashtag on twitter) | <a href="https://twitter.com/hashtag/SPAD_FFS?src=hashtag_click"><span style="color:blue">here</span></a> |
+| Twitter     | #BrightEyes_ERC (hashtag on twitter) | <a href="https://twitter.com/hashtag/BrightEyes_ERC?src=hashtag_click"><span style="color:blue">here</span></a> |
   
 {% include theme-team-members.html %}
 {% include publication-list-theme.html %}
