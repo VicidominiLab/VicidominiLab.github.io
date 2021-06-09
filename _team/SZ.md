@@ -20,9 +20,5 @@ theme: "FFS SPAD"
 
 Sabrina Zappone studied Medical Biotechnologies at University of Modena and Reggio Emilia (Modena, Italy). In 2019, she moved to University of York (York, UK) for a two-month traineeship. She obtained the M.Sc. in 2020 with a thesis entitled “Structural characterization of tardigrade Small Heat Shock Proteins”. Since 2021, Sabrina is a fellow student in Molecular Microscopy and Spectroscopy group at IIT (Genoa, Italy) under the supervision of Dr. Giuseppe Vicidomini. Her research interests include the analysis of bio-molecular dynamics, especially those involved in human diseases, using super-resolution microscopy and fluorescence spectroscopy tools.  
 
-<!--{% <h2>Projects Description</h2> %}--->
 
-<!--{% include author-research-themes.html %}--->
-<!--{% include team-member-collaborators.html %}--->
-<!--{% include publication-list.html %}--->
 
