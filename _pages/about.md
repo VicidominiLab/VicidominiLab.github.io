@@ -32,7 +32,7 @@ Wellcome to [Eleonora Perego](https://vicidominilab.github.io/team/EP/). Trained
 <!---* March 28th - 31st, 2021, [Focus on Microscopy 2021](http://www.focusonmicroscopy.org)-->
 * April 12nd - 16th, 2021, [OSA: Biophotonics Congress: Optics in the Life Sciences](https://www.osa.org/en-us/meetings/osa_meetings/osa_biophotonics_congress/)
 * May 20th - 21st, 2021, [EMBL in Italy 2021: A Brave New World of RNA](https://www.embl.de/aboutus/alumni/events-networks/local-chapters/italy/48_genoa_2021/) 
-* May 21st - 25th, 2021, [CLEO/EUROPE-EQEC 2021](https://www.cleoeurope.org)
+* June 21st - 25th, 2021, [CLEO/EUROPE-EQEC 2021](https://www.cleoeurope.org)
 
 <h2>The Laboratory</h2>
 <body align="justify">
