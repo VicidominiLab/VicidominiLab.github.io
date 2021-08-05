@@ -23,7 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Wellcome to [Eleonora Perego](https://vicidominilab.github.io/team/EP/). Trained in the group of Sarah Koester at the University of Goettingen, with her background in Biophysics, she will help us in levereging our SPAD array detector technology in Fluorescence Fluctuation Spectroscopy. So exciting to start with her new application projects.
+Happy to share our [pre-pring](https://www.biorxiv.org/content/10.1101/2021.08.03.454878v1) about how by cooling a SPAD array detector allows for sub-microWatt (excitation) super-resolution live-cell imaging and roboust high-informative fluorescence fluctuation spectroscopy.
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
