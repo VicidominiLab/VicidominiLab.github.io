@@ -36,7 +36,7 @@ Happy to share our [pre-pring](https://www.biorxiv.org/content/10.1101/2021.08.0
 <!---* June 28th, 2021, [EPIC Online Technology Meeting on Novel Photonic Solutions for Microscopy](https://www.epic-assoc.com/epic-online-technology-meeting-on-novel-photonic-solutions-for-microscopy/)--->
 * June 28th - July 1st, 2021, [XXV Congresso Nazionale SIBPA 2021](https://www.sibpa.it/CongressoNazionaleSIBPAParma/)
 * July 12th - 16th, 2021, [EMBL Super-Resolution Microscopy: Time-Resolved STED Nanoscopy](https://www.embl.org/about/info/course-and-conference-office/events/mic21-03/)
-* August 31th - September 2nd, [Single Molecule Localization Microscopy Symposium](https://smlms.epfl.ch)
+* August 31th - September 2nd, 2021, [Single Molecule Localization Microscopy Symposium](https://smlms.epfl.ch)
   
 <h2>The Laboratory</h2>
 <body align="justify">
