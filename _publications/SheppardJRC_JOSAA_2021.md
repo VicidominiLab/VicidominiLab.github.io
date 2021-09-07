@@ -8,7 +8,7 @@ issue: 7
 pages: JOSA A
 authors: 'Colin J.R. Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V. Koho, Paolo Bianchini, Giuseppe Vicidomini, Alberto Diaspro'
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-7-1075
-doi: 10.1364/JOSAA.426473z
+doi: 10.1364/JOSAA.426473
 tagline: '- Paper'
 type: 'LSM with SPAD array'
 ---
