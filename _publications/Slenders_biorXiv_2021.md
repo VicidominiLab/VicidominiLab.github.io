@@ -10,7 +10,7 @@ authors: 'Eli Slenders, Eleonora Perego, Mauro Buttafava, Giorgio Tortarolo, Enr
 paperurl: https://www.biorxiv.org/content/10.1101/2021.08.03.454878v1
 doi: 10.1101/2021.08.03.454878
 tagline: '- Paper, Corresponding author'
-type: "FFS SPAD, BrightEyes, "
+type: "FFS SPAD, BrightEyes, LSM with SPAD array"
 ---
 
 <h2> Abstract </h2>
