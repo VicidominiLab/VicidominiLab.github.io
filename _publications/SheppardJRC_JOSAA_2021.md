@@ -2,7 +2,7 @@
 title: "Pixel reassignment in image scanning microscopy with a doughnut beam: example of maximum likelihood restoration"
 collection: publications
 date: 2021-01-07
-venue: 'JOSA A'
+venue: 'J. Opt. Soc. Am. A'
 volume: 38
 issue: 7
 pages: JOSA A
