@@ -9,8 +9,8 @@ pages:
 authors: 'Eli Slenders, Eleonora Perego, Mauro Buttafava, Giorgio Tortarolo, Enrico Conca, Sabrina Zappone, Agnieszka Pierzynska-Mach, Federica Villa, Enrica Maria Petrini, Andrea Barberis, Alberto Tosi, Giuseppe Vicidomini'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.08.03.454878v1
 doi: 10.1101/2021.08.03.454878
-tagline: '- Paper'
-type: "Img Proc Anal"
+tagline: '- Paper, Corresponding author'
+type: "FFS SPAD, BrightEyes, "
 ---
 
 <h2> Abstract </h2>
