@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 volume: 
 issue: 
 pages: 
-authors: 'Elena Cerutti, Morgana D'Amico, Isotta Cainero, Gaetano Ivan Dellino, Mario Faretta, Giuseppe Vicidomini, Pier Giuseppe Pelicci, Paolo Bianchini, Alberto Diaspro'
+authors: 'Elena Cerutti, Morgana D''Amico, Isotta Cainero, Gaetano Ivan Dellino, Mario Faretta, Giuseppe Vicidomini, Pier Giuseppe Pelicci, Paolo Bianchini, Alberto Diaspro'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.08.30.457899v1
 doi: 10.1101/741389
 tagline: '- Paper'
