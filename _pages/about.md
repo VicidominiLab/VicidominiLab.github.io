@@ -23,7 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Happy to share our [pre-pring](https://www.biorxiv.org/content/10.1101/2021.08.03.454878v1) about how by cooling a SPAD array detector allows for sub-microWatt (excitation) super-resolution live-cell imaging and roboust high-informative fluorescence fluctuation spectroscopy.
+Our paper in [Biophysical Report](https://doi.org/10.1016/j.bpr.2021.100025) is out. Our new cooled SPAD array detector allows for sub-microWatt (excitation) super-resolution live-cell imaging and roboust high-informative fluorescence fluctuation spectroscopy. Furthermore, it opens to new exciting perspective for single-molecule techniques.
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
