@@ -39,6 +39,5 @@ I am co-founder and scientific advisor of the <a href="https://www.genoainstrume
 [6] G. Vicidomini, G. Moneron, K. Y. Han, V. Westphal, H. Ta, M. Reuss, J. Engelhardt, C. Eggeling, and S. W. Hell. Sharper low-power STED nanoscopy by time gating. Nat. Methods, 8(7):571–573, 2011.
 
 
-
   
 
