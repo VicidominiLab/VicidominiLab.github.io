@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 volume: 
 issue: 
 pages: 
-authors: 'Alessandro Rossetta, Eli Slenders, Mattia Donato, Eleonora Perego, Francesco Diotalevi, Luca Lanzanó, Sami Koho, Giorgio Tortarolo, Marco Crepaldi, Giuseppe Vicidomini'
+authors: 'Alessandro Rossetta, Eli Slenders, Mattia Donato, Eleonora Perego, Francesco Diotalevi, Luca Lanzanó, Sami V. Koho, Giorgio Tortarolo, Marco Crepaldi, Giuseppe Vicidomini'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.10.11.463950v1
 doi: 10.1101/2021.10.11.463950
 tagline: '- Paper, Corresponding author'
