@@ -7,9 +7,84 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
+<h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
+<h3>Published:</h3>
+14th October 2020 - <span style="color: green">Open (Deadline 21st November 2021)</span>
+<h3>Type of Position:</h3>
+Ph.D. Postdoc Fellow
+<h3>Description:</h3>
+At IIT we work enthusiastically to develop human-centered Science and Technology to tackle some of the most pressing societal challenges of our times and transfer these technologies to the production system and society. Our Genoa headquarter is strictly inter-connected with our 11 centres around Italy and two outer-stations based in the US for a truly interdisciplinary experience.
+
+You’d be working in a multicultural and multi-disciplinary group, where Physicists, Engineers, Computer Scientists, and Biologists collaborate, each with their own expertise, to carry out common research.  
+
+The Molecular Microscopy and Spectroscopy (MMS) Research Line is coordinated by Dr. Giuseppe Vicidomini, who has extensive experience in advanced fluorescence microscopy techniques and image processing.
+
+The core research of the MMS Research Line is the design, development, and validation of novel optical and analytical tools that allow the modern biologists to peer inside living cells and organisms with unprecedented temporal-spatial resolutions, minimal invasivity, and augmented information content. This includes the implementation of a new imaging paradigm, the so-called single-photon microscopy, which leverages the ability of new single-photon array detectors to register fluorescence single-photons one-by-one together with a series of information/tags (e.g., spatial, temporal, polarization, wavelength). By analyzing this information, typically lost in conventional microscopy, it is possible to improve the major specifications of the microscope (e.g., spatial resolution, penetration depth) and the sample information. Other active projects in the MMS Research Line are time-resolved super-resolution STED microscopy, fluorescence fluctuation spectroscopy, image deconvolution and reconstruction, and adaptive optics for laser-scanning microscopy.
+
+Within the team, your main responsibilities will be:
+* designing, implementing, validating a single-molecule microscope for imaging, tacking and spectroscopy in the context of the BrightEyes project. Understanding how biomolecules behave - in a structural and dynamics sense - is the holy grail of cell biology research. The cell is a crowed and ever-changing environment where biomolecules jostle around, interact, concentrate, change in structure and organize in a hierarchical way to carry out all the process that regulate life. Deciphering the bimolecular processes underlying the physiology of a cell is fundamental to understand human health, ageing, and diseases. The overall objective of the BrightEyes project is to develop a set of innovative and non-invasive imaging and spectroscopy tools able to observe single-biomolecule at work in a living multi-cellular system. Specifically, by exploring novel single-photon detectors arrays, the “BrightEyes" project will implement an optical system able to continuously (i) track in real-time a biomolecule of interest; (ii) measure its nano-environment and its structural changes; (iii) observe its interactions with other biomolecules; (iv) visualize its sub-cellular micro-environment with nanometre resolution;
+* establishing new collaborative projects with the LifeTech research line withing the RNA initiative at the IIT to explore the ability of the single-molecule microscope implemented. Particular attention will be dedicated to collaborative projects concerning the role of non-coding RNA in gene expression control.    
+
+This open position is financed by the European Research Council (ERC) within the BrightEyes project (ERC consolidator grant, grant agreement n. 818669).
+
+<h3>What would make you shine:</h3>
+
+* A PhD or equivalent degree (or evidence of its completion in the nearest future) preferably in applied Physics or Bioengineering;
+* Strong and documented experiences in optics and microscopy are a must;
+* A strong publication record;
+* The ability to properly report, organize and publish research data;
+* Willingness to integrate into a multidisciplinary, dynamic, international research group;
+* Good command in spoken and written English.
+
+<h3>Extra awesome:</h3
+ 
+* Experience (or attitude) in coaching junior scientists;
+* Experience in single-molecule imaging and/or tracking is highly desirable;
+* Coding skills (Python and C#) and expertise in hardware control (FPGA, with LabVIEW) will be considered a plus;
+* Strong problem solving attitude;
+* High motivation to learn;
+* Spirit of innovation and creativity;
+* Good in time and priority management.
+ 
+<h3>Compensation and benefits:</h3
+ 
+* Competitive salary package for international standards;
+* The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active * collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
+* The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career;
+* Private health care coverage (according to the duration of the contract);
+* Wide range of staff discounts.
+ 
+<h3>What's for you:</h3
+ 
+* An equal, inclusive and multicultural environment ready to welcome you with open arms. Discrimination is a big NO for us!
+* We like contamination and encourage you to mingle and discover what other people are up to in our labs! 
+* If paperwork is not your piece of cake, we got you! There’s a specialized team working to help you with that, especially during your relocation! 
+* If you are a startupper or a business-minded person, you will find some exceptionally gifted professionals ready to nurture and guide your attitude and aspirations.
+* If you want your work to have a real impact, in IIT you will find an innovative and stimulating culture that drives our mission to contribute to the improvement and well-being of society!
+* We stick to our values! Integrity, courage, societal responsibility and inclusivity are the values we believe in! They define us and our actions in our everyday life. They guide us to accomplish IIT mission!
+
+<h3>How to Apply:</h3>
+If you feel this tickles your appetite for change, do not hesitate and apply!
+
+Please submit your application using the online form and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details of at least 2 references. Applications, including detailed Curriculum Vitae, university transcripts, a cover letter (outlining motivation, experience and qualifications) and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=it&job=2100004Q"><span style="color:blue">link</span></a>.
+Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2100000Q)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
+
+<h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
+<h3>Published:</h3>
+1th October 2020 - <span style="color: green">Open</span>
+<h3>Type of Position:</h3>
+Ph.D. Fellowship, and Ph.D. Postdoc Fellow and Research Fellow
+<h3>Description:</h3>
+We are opening Ph.D., Postdoc and Research positions withing the "BrightEyes: Multi-Parameter Live-Cell Observation of Biomolecular Processes with Single-Photon Detector Array" project. It is a five-year project funded through an ERC Consolidator Grant, awarded to Vicidomini Giuseppe by the European Research Council. Ph.D. position are 3 years, Postdoc positions are 2 years (with possible extension), and Reserach position are 3 years (with possible extension). For more detail about the project and preliminary result visit the <a href="https://vicidominilab.github.io/brighteyes/"><span style="color:blue">BrightEye</span></a> project webpage.
+<h3>Requirements:</h3>
+The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the positions are open to candidate having a background in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
+<h3>How to Apply:</h3>
+To get more information about the different positions, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
 <h2>Ph.D. in New Developments in Advanced Light Microscopy </h2>
 <h3>Published:</h3>
-29th April 2021 - <span style="color: green"> (Re)Open (Deadline 28th September 2021)</span>
+29th April 2021 - <span style="color:red"> Colose (Deadline 28th September 2021)</span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
@@ -23,18 +98,6 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>
 Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
-
-<h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
-<h3>Published:</h3>
-1th October 2020 - <span style="color: green">Open</span>
-<h3>Type of Position:</h3>
-Ph.D. Fellowship, and Ph.D. Postdoc Fellow and Research Fellow
-<h3>Description:</h3>
-We are opening Ph.D., Postdoc and Research positions withing the "BrightEyes: Multi-Parameter Live-Cell Observation of Biomolecular Processes with Single-Photon Detector Array" project. It is a five-year project funded through an ERC Consolidator Grant, awarded to Vicidomini Giuseppe by the European Research Council. Ph.D. position are 3 years, Postdoc positions are 2 years (with possible extension), and Reserach position are 3 years (with possible extension). For more detail about the project and preliminary result visit the <a href="https://vicidominilab.github.io/brighteyes/"><span style="color:blue">BrightEye</span></a> project webpage.
-<h3>Requirements:</h3>
-The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the positions are open to candidate having a background in one of the following areas: Physical Science, Computer Science, Engineering, and Biological Science. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required.
-<h3>How to Apply:</h3>
-To get more information about the different positions, please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 <h2>Ph.D. in Investigation of Biomolecular Processes with Advance Light Microscopy </h2>
 <h3>Published:</h3>
