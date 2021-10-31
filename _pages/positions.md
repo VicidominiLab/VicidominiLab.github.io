@@ -27,7 +27,7 @@ Within the team, your main responsibilities will be:
 
 This open position is financed by the European Research Council (ERC) within the BrightEyes project (ERC consolidator grant, grant agreement n. 818669).
 
-<h3>What would make you shine:</h3>
+<h3>What Would Make You Shine:</h3>
 
 * A PhD or equivalent degree (or evidence of its completion in the nearest future) preferably in applied Physics or Bioengineering;
 * Strong and documented experiences in optics and microscopy are a must;
@@ -36,7 +36,7 @@ This open position is financed by the European Research Council (ERC) within the
 * Willingness to integrate into a multidisciplinary, dynamic, international research group;
 * Good command in spoken and written English.
 
-<h3>Extra awesome:</h3
+<h3>Extra Awesome:</h3>
  
 * Experience (or attitude) in coaching junior scientists;
 * Experience in single-molecule imaging and/or tracking is highly desirable;
@@ -46,7 +46,7 @@ This open position is financed by the European Research Council (ERC) within the
 * Spirit of innovation and creativity;
 * Good in time and priority management.
  
-<h3>Compensation and benefits:</h3
+<h3>Compensation and Benefits:</h3>
  
 * Competitive salary package for international standards;
 * The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active * collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
@@ -54,7 +54,7 @@ This open position is financed by the European Research Council (ERC) within the
 * Private health care coverage (according to the duration of the contract);
 * Wide range of staff discounts.
  
-<h3>What's for you:</h3
+<h3>What's For You:</h3>>
  
 * An equal, inclusive and multicultural environment ready to welcome you with open arms. Discrimination is a big NO for us!
 * We like contamination and encourage you to mingle and discover what other people are up to in our labs! 
