@@ -54,7 +54,7 @@ This open position is financed by the European Research Council (ERC) within the
 * Private health care coverage (according to the duration of the contract);
 * Wide range of staff discounts.
  
-<h3>What's For You:</h3>>
+<h3>What's For You:</h3>
  
 * An equal, inclusive and multicultural environment ready to welcome you with open arms. Discrimination is a big NO for us!
 * We like contamination and encourage you to mingle and discover what other people are up to in our labs! 
