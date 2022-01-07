@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: AlessandroRossetta.jpg
 tags: alumni
-tagline: Ph.D. Student - University of Genoa (with Nanoscopy and NIC@IIT)
+tagline: Ph.D. Student - University of Genoa (now CEO at Flim Labs)
 subject: "Development of FPGA-based instrumentation for Microscopy and Spectroscopy Applications"
 date: 2018-11-01
 email: 'alessandro.rossetta@iit.it'
