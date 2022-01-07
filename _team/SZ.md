@@ -4,7 +4,8 @@ authorname: "Sabrina Zappone"
 collection: team
 header:
   teaser: SabrinaZappone.jpg
-tags: postgraduate
+tags: phd
+tagline: Ph.D. Student - University of Genoa
 googlescholar:
 tagline: Fondazione San Paolo PostGraduate Fellow
 subject: "Medical Biotechnologies"
