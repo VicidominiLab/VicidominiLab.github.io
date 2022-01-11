@@ -9,7 +9,8 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Postdoc Position in Advanced Optical Microscopy</h2>
 <h3>Published:</h3>
-14th October 2020 - <span style="color: red">Closed (Deadline 19th February 2021)</span>
+<!--- 14th October 2020 - <span style="color: red">Closed (Deadline 19th February 2021)</span> --->
+<span style="color: greed">Opening Soon</span>
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
@@ -27,8 +28,10 @@ As a Postdoc, the successful candidate will implement a custom microscopy archit
 * Good English language skill, both spoken and written, is required.
 The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career.
 <h3>How to Apply:</h3>
-Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2100000R"><span style="color:blue">link</span></a>.
-Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2100000R)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form, which will be open soon.  
+Further enquires and/or expression of interest  may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2100000R)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+<!---Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2100000R"><span style="color:blue">link</span></a>.
+Further enquires  may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2100000R)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.--->
 
 <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
