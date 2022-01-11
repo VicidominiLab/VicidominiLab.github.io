@@ -7,7 +7,6 @@ header:
 tags: phd
 tagline: Ph.D. Student - University of Genoa
 googlescholar:
-tagline: Fondazione San Paolo PostGraduate Fellow
 subject: "Medical Biotechnologies"
 date: 2019-01-01
 email: 'sabrina.zappone@iit.it'
