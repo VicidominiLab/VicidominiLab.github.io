@@ -21,6 +21,7 @@ Eleonora Perego studied Physics at the University of Milano-Bicocca (Italy). She
 Since 2021, Eleonora is working at the Italian Institute of Technology in Genoa (Italy) in the Molecular Microscopy and Spectroscopy research line of Dr. Giuseppe Vicidomini as a post-doctoral researcher. Her research interests include the application of fluorescence spectroscopy methods, such as fluorescence fluctuation spectroscopy and fluorescence lifetime imaging, to biological questions, ranging from neuroscience to RNA biology. 
 <h2>Projects Description</h2>
 
+
 <!--{% include author-research-themes.html %}--->
 <!--{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
