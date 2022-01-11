@@ -10,7 +10,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 <h2>Postdoc Position in Advanced Optical Microscopy</h2>
 <h3>Published:</h3>
 <!--- 14th October 2020 - <span style="color: red">Closed (Deadline 19th February 2021)</span> --->
-<span style="color: greed">Opening Soon</span>
+<span style="color: green">Opening Soon</span>
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
@@ -47,7 +47,7 @@ To get more information about the different positions, please contact <a href="m
 
 <h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
 <h3>Published:</h3>
-14th October 2020 - <span style="color: red">Open (Closed 21st November 2021)</span>
+14th October 2020 - <span style="color: red">Close (Deadline 21st November 2021)</span>
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
