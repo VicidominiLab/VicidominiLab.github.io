@@ -6,7 +6,7 @@ header:
   teaser: FrancescoFersini.jpg
 tags: phd
 tagline: Ph.D. Student - University of Genoa
-subject: "Fluorescence Lifetime Imaging and Adaptive Optics"
+subject: "Image Scanning Microcopy and Adaptive Optics"
 date: 2020-12-01
 email: 'francesco.fersini@iit.it'
 skype: FRancesco FErsini
