@@ -9,8 +9,10 @@ tagline: Ph.D. Student - University of Genoa
 subject: "Fluorescence Lifetime Imaging and Adaptive Optics"
 date: 2020-12-01
 email: 'francesco.fersini@iit.it'
-# Skype: FRancesco FErsini
-# Linkedin : Frnacesco Fersini
+Skype: FRancesco FErsini
+Linkedin : Frnacesco Fersini
+Twitter : FrancescoFersi3
+
 # theme: "LSM with SPAD array, FFS SPAD"
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
 ---
@@ -24,7 +26,8 @@ His research interests include the design of super-resolution optical microscopy
 
 <h2>Projects Description</h2>
 <p align= "justify">
-
+Fast detector arrays and adaptive optics are quickly revolutionizing fluorescence laser scanning microscopy (LSM). However, their combination to realize an easy architecture for high-resolution deep imaging has not been explored. With this project, we want to demonstrate that the information provided by the detector-array about the detection/probing volume of a laser scanning microscope can also be used to directly assess optical aberrations without the need for a separate wavefront sensor. This information can be immediately integrated into the image reconstruction algorithm for image scanning microscopy (ISM) to compensate for the optical aberrations occurring in the fluorescence emission path. It is possible to exploit the same information to correct aberrations in the excitation path with an adaptive optical element, such as a spatial light modulator or a deformable mirror. 
+We believe that this can significantly simplify the implementation of adaptive optics techniques in laser-scanning microscopy. 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
