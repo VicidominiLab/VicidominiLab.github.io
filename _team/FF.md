@@ -9,9 +9,9 @@ tagline: Ph.D. Student - University of Genoa
 subject: "Fluorescence Lifetime Imaging and Adaptive Optics"
 date: 2020-12-01
 email: 'francesco.fersini@iit.it'
-Skype: FRancesco FErsini
-Linkedin : Frnacesco Fersini
-Twitter : FrancescoFersi3
+skype: FRancesco FErsini
+linkedin : Frnacesco Fersini
+twitter : FrancescoFersi3
 
 # theme: "LSM with SPAD array, FFS SPAD"
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
