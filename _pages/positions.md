@@ -7,6 +7,78 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
+
+
+<h2>Junior Software Engineer Technician</h2>
+<h3>Published:</h3>
+18th Janurary 2022 - <span style="color: green">Open (Deadline 2nd February 2022)</span>
+<h3>Type of Position:</h3>
+Ph.D. Technician
+<h3>Description:</h3>
+At IIT we work enthusiastically to develop human-centered Science and Technology to tackle some of the most pressing societal challenges of our times and transfer these technologies to the production system and society. Our Genoa headquarter is strictly inter-connected with our 11 centres around Italy and two outer-stations based in the US for a truly interdisciplinary experience.
+
+You’d be working in a multicultural and multi-disciplinary group, where Physicists, Engineers, Computer Scientists, and Biologists collaborate, each with their own expertise, to carry out common research.
+
+The Molecular Microscopy and Spectroscopy (MMS) Research line is coordinated by Dr. Giuseppe Vicidomini, who has extensive experience in advanced fluorescence microscopy techniques, and image processing. The selected candidate will have a key role in the design and implementation of the control system, data acquisition and data analysis software for the optical microscopy and spectroscopy architectures developed within the BrightEyes.
+
+Understanding how biomolecules behave is the holy grail of cell biology research. The cell is a crowed and ever-changing environment where biomolecules jostle around, interact, concentrate, change in structure and organize in a hierarchical way to carry out all the process that regulate life. Deciphering the bimolecular processes underlying the physiology of a cell is fundamental to understand human health, ageing, and diseases. The overall objective of the BrightEyes project is to develop a set of innovative imaging and spectroscopy tools able to observe single-biomolecule at work in a living multi-cellular system.
+
+Within the team, your main responsibilities will be:
+* designing and implementing different upgrades for the data acquisition and control software for the custom microscopy architecture realized in the context of the BrightEyes project. The software principally implements an FPGA-based real-time feedback system whose inputs are the signals registered from different photosensors and outputs the signal to control different actuators;
+* designing and implementing different upgrades for the graphic-unit-interface of the above control and data-acquisition system;
+* administrating and upgrading the repository of the data analysis software of the group;
+* generating detailed technical documentations for the developed software.    
+
+The selected candidate will work in strictly collaboration with the researcher staff (Ph.D. students, Postdocs, and Researchers) to ensure the successful integration of their works on the different software described above.
+
+The selected candidate will be assisted and initially trained by senior technicians, who has years of experience in the fields, and who will guarantee a professional growing to the candidate. The lab counts on outstanding equipment and facilities together with strategic collaborations.
+
+This open position is financed by European Research Council (ERC) within the H2020, ERC-2018-COG, BrightEyes project (n. 818669).
+
+<h3>What Would Make You Shine:</h3>
+
+* Master degree in Physics, Mathematics, Engineer or related fields;
+* Skills in coding and flexibility with programming languages (e.g., Python, C#); 
+* Not be choosy of coding in LabView;
+* Ability to work with different development environments (e.g., PyCharm, Visual Studio) and different OS (e.g., Linux, Windows);
+* Knowledge of versioning system tools (e.g., GitHub, GitLab);
+* Good oral and written communication skills (English language); 
+* Ability to work independently and collaboratively in a highly interdisciplinary, dynamic, and international environment;
+* High motivatation; 
+* Meticulous organization;
+* Problem solving attitude. 
+
+<h3>Extra Awesome:</h3>
+ 
+* Knowledge FPGA coding (e.g., NI LabView FPGA, VHDL, Verilog); 
+* Experiences in GUI development (e.g., QT);
+* Experiences in data-acquisition and control systems;
+* Experiences in data analysis with high-level tools (e.g.Python Numpy, Matlab); 
+* Electronics Prototyping.
+ 
+<h3>Compensation and Benefits:</h3>
+ 
+* Competitive salary package for international standards;
+* The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
+* The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career;
+* Private health care coverage (according to the duration of the contract);
+* Wide range of staff discounts.
+ 
+<!--- <h3>What's For You:</h3>
+ 
+* An equal, inclusive and multicultural environment ready to welcome you with open arms. Discrimination is a big NO for us!
+* We like contamination and encourage you to mingle and discover what other people are up to in our labs! 
+* If paperwork is not your piece of cake, we got you! There’s a specialized team working to help you with that, especially during your relocation! 
+* If you are a startupper or a business-minded person, you will find some exceptionally gifted professionals ready to nurture and guide your attitude and aspirations.
+* If you want your work to have a real impact, in IIT you will find an innovative and stimulating culture that drives our mission to contribute to the improvement and well-being of society!
+* We stick to our values! Integrity, courage, societal responsibility and inclusivity are the values we believe in! They define us and our actions in our everyday life. They guide us to accomplish IIT mission! --->
+
+<h3>How to Apply:</h3>
+
+Please submit your application using the online <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=it&job=2200000E"><span style="color:blue">online form</span></a> and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details for references.
+Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=Technician%20Position%20Vicidomini%20Lab%20(2200000E)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
+
 <h2>Postdoc Position in Advanced Optical Microscopy</h2>
 <h3>Published:</h3>
 <!--- 14th October 2020 - <span style="color: red">Closed (Deadline 19th February 2021)</span> --->
@@ -86,11 +158,10 @@ This open position is financed by the European Research Council (ERC) within the
  
 <h3>Compensation and Benefits:</h3>
  
-* Competitive salary package for international standards;
-* The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
-* The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career;
-* Private health care coverage (according to the duration of the contract);
-* Wide range of staff discounts.
+* Private health care coverage;
+* Wide range of staff discounts;
+* Two days of teleworking per week (once the selected candidate reaches a high level of autonomy);
+* Flexible working time. 
  
 <h3>What's For You:</h3>
  
