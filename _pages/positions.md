@@ -58,11 +58,7 @@ This open position is financed by European Research Council (ERC) within the H20
  
 <h3>Compensation and Benefits:</h3>
  
-* Competitive salary package for international standards;
-* The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
-* The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career;
-* Private health care coverage (according to the duration of the contract);
-* Wide range of staff discounts.
+
  
 <!--- <h3>What's For You:</h3>
  
@@ -158,10 +154,11 @@ This open position is financed by the European Research Council (ERC) within the
  
 <h3>Compensation and Benefits:</h3>
  
-* Private health care coverage;
-* Wide range of staff discounts;
-* Two days of teleworking per week (once the selected candidate reaches a high level of autonomy);
-* Flexible working time. 
+* Competitive salary package for international standards;
+* The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
+* The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career;
+* Private health care coverage (according to the duration of the contract);
+* Wide range of staff discounts.
  
 <h3>What's For You:</h3>
  
