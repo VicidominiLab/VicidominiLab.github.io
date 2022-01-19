@@ -58,7 +58,10 @@ This open position is financed by European Research Council (ERC) within the H20
  
 <h3>Compensation and Benefits:</h3>
  
-
+* Private health care coverage;
+* Wide range of staff discounts;
+* Two days of teleworking per week (once the selected candidate reaches a high level of autonomy);
+* Flexible working time. 
  
 <!--- <h3>What's For You:</h3>
  
