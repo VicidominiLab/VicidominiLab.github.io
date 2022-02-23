@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: GT.jpg
 tags: alumni
-tagline: ERC GoG PostDoc Fellow
+tagline: ERC GoG PostDoc Fellow (now PostDoc Fellow at EPFL)
 subject: "Super-Resolution Microscopy, Control System, Single-Molecule Tracking"
 date: 2016-02-01
 email: 'giorgio.tortarolo@iit.it'
