@@ -4,8 +4,8 @@ authorname: "Alessandro Zunino"
 collection: team
 header:
   teaser: bio-photo.jpg
-tags: phd
-tagline: Ph.D. Student - University of Genoa
+tags: postdoc
+tagline: Postdoc Fellow
 subject: "Quantum Microscopy"
 date: 2022-02-15
 email: 'alessandro.zunino@iit.it'
