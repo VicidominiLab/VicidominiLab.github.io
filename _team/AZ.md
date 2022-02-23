@@ -4,7 +4,7 @@ authorname: "Alessandro Zunino"
 collection: team
 header:
   teaser: bio-photo.jpg
-tags: postdoc
+tags: post-doc
 tagline: Postdoc Fellow
 subject: "Quantum Microscopy"
 date: 2022-02-15
