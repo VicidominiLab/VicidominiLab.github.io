@@ -3,7 +3,7 @@ title: "Alessandro Zunino"
 authorname: "Alessandro Zunino"
 collection: team
 header:
-  teaser: bio-photo.jpg
+  teaser: AlessandroZunino.png
 tags: post-doc
 tagline: Postdoc Fellow
 subject: "Quantum Microscopy"
