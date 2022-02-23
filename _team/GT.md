@@ -4,7 +4,7 @@ authorname: "Giorgio Tortarolo"
 collection: team
 header:
   teaser: GT.jpg
-tags: post-doc
+tags: alumni
 tagline: ERC GoG PostDoc Fellow
 subject: "Super-Resolution Microscopy, Control System, Single-Molecule Tracking"
 date: 2016-02-01
