@@ -3,7 +3,7 @@ title: "Alessandro Zunino"
 authorname: "Alessandro Zunino"
 collection: team
 header:
-  teaser: prova.jpg
+  teaser: bio-photo.jpg
 tags: phd
 tagline: Ph.D. Student - University of Genoa
 subject: "Quantum Microscopy"
