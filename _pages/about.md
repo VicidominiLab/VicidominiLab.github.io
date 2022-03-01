@@ -23,7 +23,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Our paper in [Biophysical Report](https://doi.org/10.1016/j.bpr.2021.100025) is out. Our new cooled SPAD array detector allows for sub-microWatt (excitation) super-resolution live-cell imaging and roboust high-informative fluorescence fluctuation spectroscopy. Furthermore, it opens to new exciting perspective for single-molecule techniques.
+Welcome to our new Team member [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/). Trained as a physicist, Alessandro has a perfect mix of theoretical and experimental skills. Looking forward to starting new projects on quantum microscopy with him.
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
