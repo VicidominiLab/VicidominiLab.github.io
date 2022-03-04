@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
 <h3>Published:</h3>
-<span style="color: green">Opening Soon</span>
+2nd March 2022 - <span style="color: red">Closed (Deadline 17th March 2022)</span> --->
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
