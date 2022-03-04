@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
 <h3>Published:</h3>
-2nd March 2022 - <span style="color: red">Closed (Deadline 17th March 2022)</span> --->
+2nd March 2022 - <span style="color: green">Open (Deadline 17th March 2022)</span> --->
 <h3>Type of Position:</h3>
 Ph.D. Postdoc Fellow
 <h3>Description:</h3>
@@ -49,6 +49,7 @@ This open position is financed by the European Research Council (ERC) within the
 <h3>Compensation and Benefits:</h3>
  
 * Competitive salary package for international standards;
+* Candidates from abroad or Italian citizens who permanently work abroad and meet specific requirements, may be entitled to a deduction from taxable income of up to 90% from 6 to 13 years;
 * The lab counts on outstanding equipments and facilities together with strategic collaborations, indeed the candidate will benefit significantly from the active collaborations of the MMS group with the several groups of the LifeTech, Computational, and Photonics domains within the Istituto Italiano di Tecnologia;
 * The successful candidate will engage in regular mentoring sessions with the PI, providing opportunities to interact and collaborate with research groups across disciplines, thereby preparing the Postdoc for an independent academic career;
 * Private health care coverage (according to the duration of the contract);
