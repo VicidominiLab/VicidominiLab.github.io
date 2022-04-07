@@ -20,10 +20,10 @@ theme: "Img Proc Anal, LSM with SPAD array, TR-STED microscopy"
 Note: Dr. Marco Castello is primarly involved in the realization of the <a href="https://www.genoainstruments.com">Genoa Instruments</a> Startup. 
 
 <h2>ShortBio</h2>
-Text 
+<!--- Text --->
 
 <h2>Projects Description</h2>
-Text 
+<!--- Text --->
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
