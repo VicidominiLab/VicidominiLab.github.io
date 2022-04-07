@@ -19,10 +19,10 @@ collaborators: "Christophe Leterrier, Jonas Ries"
 ---
 
 <h2>ShortBio</h2>
-Text
+<!--- Text --->
 
 <h2>Projects Description</h2>
-Text
+<!--- Text --->
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
