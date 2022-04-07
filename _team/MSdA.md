@@ -15,7 +15,7 @@ email: 'marco.scotto@iit.it'
 Note: Marco Scotto jointly does research between the laboratory of Prof. Alberto Diaspro (Nanoscopy and NIC@IIT, IIT) and my own.
 
 <h2>ShortBio</h2>
-Text
+<!--- Text --->
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
