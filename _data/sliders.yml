@@ -20,10 +20,10 @@
       alt: SPAD Array Detector on Custom Microscope
     - src: /images/ISM_CLSM_Comparison.jpg
       alt: Confocal Versus Image Scanning Microscopy
-    - src: /images/supports.jpg
-      alt: Grants and Fundings
     - src: /images/groupPicture.jpg
       alt: MMS Group April 2022
+    - src: /images/supports.jpg
+      alt: Grants and Fundings
   settings:
     height:  "'auto'"
     interval: 10000
