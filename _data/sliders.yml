@@ -22,6 +22,8 @@
       alt: Confocal Versus Image Scanning Microscopy
     - src: /images/supports.jpg
       alt: Grants and Fundings
+    - src: /images/groupPicture.jpg
+      alt: MMS Group April 2022
   settings:
     height:  "'auto'"
     interval: 10000
