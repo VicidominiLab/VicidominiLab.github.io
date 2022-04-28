@@ -8,7 +8,7 @@ tags: technician
 tagline: Junior Technician
 subject: "Electonics"
 date-start: 2020-04-01
-theme: ""BrightEyes"
+theme: "BrightEyes"
 email: 'luca.bega@iit.it'
 ---
 
