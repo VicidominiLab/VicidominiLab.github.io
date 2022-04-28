@@ -11,7 +11,7 @@ date: 2022-02-15
 email: 'alessandro.zunino@iit.it'
 # skype: FRancesco FErsini
 # linkedin : Frnacesco Fersini
-# twitter : FrancescoFersi3
+twitter : ZuninoAle
 
 # theme: "LSM with SPAD array"
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
