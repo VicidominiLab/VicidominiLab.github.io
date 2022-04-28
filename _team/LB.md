@@ -3,11 +3,11 @@ title: "Luca Bega"
 authorname: "Luca Bega"
 collection: team
 header:
-  teaser: Luca Bega.jpg
+  teaser: LucaBega.jpg
 tags: technician
 tagline: Junior Technician
 subject: "Electonics"
-date-start: 2020-04-01
+date-start: 2022-04-01
 theme: "BrightEyes"
 email: 'luca.bega@iit.it'
 ---
