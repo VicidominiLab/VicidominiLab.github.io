@@ -100,7 +100,7 @@ Within the team, your main responsibilities will be:
 <h3>How to Apply:</h3>
 If you feel this tickles your appetite for change, do not hesitate and apply!
 
-Please submit your application using the <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=it&job=2200004M"><span style="color:blue">online form</span></a> and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details of at least 2 references. Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2200004M)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+Please submit your application using the <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2200004M"><span style="color:blue">online form</span></a> and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details of at least 2 references. Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2200004M)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 
 <!---
 <h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
@@ -241,7 +241,7 @@ This open position is financed by European Research Council (ERC) within the H20
 * If paperwork is not your piece of cake, we got you! There’s a specialized team working to help you with that, especially during your relocation! 
 * If you are a startupper or a business-minded person, you will find some exceptionally gifted professionals ready to nurture and guide your attitude and aspirations.
 * If you want your work to have a real impact, in IIT you will find an innovative and stimulating culture that drives our mission to contribute to the improvement and well-being of society!
-* We stick to our values! Integrity, courage, societal responsibility and inclusivity are the values we believe in! They define us and our actions in our everyday life. They guide us to accomplish IIT mission! --->
+* We stick to our values! Integrity, courage, societal responsibility and inclusivity are the values we believe in! They define us and our actions in our everyday life. They guide us to accomplish IIT mission!
 
 <h3>How to Apply:</h3>
 
