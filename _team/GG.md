@@ -13,8 +13,7 @@ twitter:
 orcid: 
 googlescholar: 
 supervisors: "Dr. Alessandro Zunino (IIT) and Prof. Federico Benvenuto (Unige)"
-theme: "TR-STED microscopy"
-collaborators: "Christophe Leterrier, Jonas Ries"
+theme: "Img Proc Anal, LSM with SPAD array"
 ---
 
 <h2>ShortBio</h2>
