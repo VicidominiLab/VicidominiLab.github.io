@@ -55,7 +55,20 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
-</div>  
+</div>
+  
+<hr-bold>
+<h2>Master Students</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team %}
+    {% if post.tags contains 'student' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>    
   
 <hr-bold>
 <h2>Technicians</h2>
