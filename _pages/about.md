@@ -36,11 +36,11 @@ Welcome to our new Team member [Alessandro Zunino](https://vicidominilab.github.
 <!---* June 28th, 2021, [EPIC Online Technology Meeting on Novel Photonic Solutions for Microscopy](https://www.epic-assoc.com/epic-online-technology-meeting-on-novel-photonic-solutions-for-microscopy/)--->
 <!---** June 28th - July 1st, 2021, [XXV Congresso Nazionale SIBPA 2021](https://www.sibpa.it/CongressoNazionaleSIBPAParma/)--->
 <!---** July 12th - 16th, 2021, [EMBL Super-Resolution Microscopy: Time-Resolved STED Nanoscopy](https://www.embl.org/about/info/course-and-conference-office/events/mic21-03/)--->
-* August 31th - September 2nd, 2021, [Single Molecule Localization Microscopy Symposium 2021](https://smlms.epfl.ch)
+<!---** August 31th - September 2nd, 2021, [Single Molecule Localization Microscopy Symposium 2021](https://smlms.epfl.ch)--->
 * September 29th - October 1st, 2021, [Single Molecule Spectroscopy and Super-resolution Microscopy 2021](https://www.picoquant.com/events/detail/single-molecule-workshop)
 * November 8th - 10th, 2021, [Internation Conference on Nanoscopy 2021](www.ICON-europe.org)
 * April 10th - 13th, 2022, [Focus on Microscopy 2022](https://www.focusonmicroscopy.org)
-  
+* July 10th - 15th, 2022, [International School of Physics - Enrico Fermi](https://www.sif.it/corsi/scuola_fermi/mmxxii/210)
 <h2>The Laboratory</h2>
 <body align="justify">
 We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
