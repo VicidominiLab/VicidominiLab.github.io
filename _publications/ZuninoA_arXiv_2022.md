@@ -5,8 +5,9 @@ date: 2022-11-22
 venue: 'arXiv'
 authors: 'Alessandro Zunino, Marco Castello, Giuseppe Vicidomini'
 paperurl: https://arxiv.org/abs/2211.12510
-tagline: '- Preprint'
-type: "LSM with SPAD array, BrightEyes"
+doi: 10.48550/arXiv.2211.12510
+tagline: '- Preprint, Corresponding author'
+type: "Img Proc Anal, BrightEyes"
 ---
 
 <h2> Abstract </h2>
