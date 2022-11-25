@@ -5,6 +5,7 @@ date: 2020-02-26
 venue: 'arXiv'
 authors: 'Mauro Buttafava, Federica Villa, Marco Castello, Giorgio Tortarolo, Enrico Conca, Mirko Sanzaro, Simonluca Piazza, Paolo Bianchini, Alberto Diaspro, Franco Zappa, Giuseppe Vicidomini, Alberto Tosi'
 paperurl: https://arxiv.org/abs/2002.11443
+doi: 10.48550/arXiv.2002.11443
 tagline: '- Preprint'
 type: "LSM with SPAD array, BrightEyes"
 ---
