@@ -10,7 +10,7 @@ authors: 'Alessandro Rossetta, Eli Slenders, Mattia Donato, Sabrina Zappone, Fra
 paperurl: https://www.nature.com/articles/s41467-022-35064-0
 doi: 10.1038/s41467-022-35064-0
 tagline: '- Paper, Corresponding author'
-type: "BrightEyes"
+type: "BrightEyes, LSM with SPAD array"
 ---
 
 <h2> Abstract </h2>
