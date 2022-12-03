@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 volume: 
 issue: 
 pages: 
-authors: 'Giorgio Tortarolo, Alessandro Zunino, Francesco Fersini, Marco Castello, Simonluca Piazza, Colin J.R. Sheppard, Paolo Bianchini, Alberto Diaspro, Sami Koho, Giuseppe Vicidomini'
+authors: 'Giorgio Tortarolo, Alessandro Zunino, Francesco Fersini, Marco Castello, Simonluca Piazza, Colin J.R. Sheppard, Paolo Bianchini, Alberto Diaspro, Sami V. Koho, Giuseppe Vicidomini'
 paperurl: https://www.biorxiv.org/content/10.1101/2022.04.28.489892v1
 doi: 10.1101/2022.04.28.489892
 tagline: '- Paper, Corresponding author'
