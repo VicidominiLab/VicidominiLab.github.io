@@ -7,7 +7,7 @@ volume: 16
 issue:
 pages: 7406 
 authors: 'Alessandro Rossetta, Eli Slenders, Mattia Donato, Sabrina Zappone, Francesco Fersini, Martina Bruno, Francesco Diotalevi, Luca Lanzanò, Sami V. Koho, Giorgio Tortarolo, Andrea Barberis, Marco Crepaldi, Eleonora Perego, Giuseppe Vicidomini'
-paperurl: [https://www.nature.com/articles/s41467-019-11024-z](https://www.nature.com/articles/s41467-022-35064-0)
+paperurl: https://www.nature.com/articles/s41467-022-35064-0
 doi: 10.1038/s41467-022-35064-0
 tagline: '- Paper, Corresponding author'
 type: "BrightEyes"
