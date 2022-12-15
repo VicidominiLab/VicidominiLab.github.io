@@ -1,11 +1,11 @@
 ---
-title: "Focus-ISM for Sharp and Gentle Super-Resolved Microscopy"
+title: "Focus image scanning microscopy for sharp and gentle super-resolved microscopy"
 collection: publications
-date: 2022-04-28
-venue: 'bioRxiv'
-volume: 
+date: 2022-12-13
+venue: 'Nat. Comm.'
+volume: 13 
 issue: 
-pages: 
+pages: 7723
 authors: 'Giorgio Tortarolo, Alessandro Zunino, Francesco Fersini, Marco Castello, Simonluca Piazza, Colin J.R. Sheppard, Paolo Bianchini, Alberto Diaspro, Sami V. Koho, Giuseppe Vicidomini'
 paperurl: https://www.biorxiv.org/content/10.1101/2022.04.28.489892v1
 doi: 10.1101/2022.04.28.489892
@@ -15,6 +15,4 @@ type: "BrightEyes"
 
 <h2> Abstract </h2>
 <p align= "justify">
-Super-resolution microscopy is routinely used for fixed and thin samples, while its feasibility for imaging live and thick samples is still limited. In the case of stimulated emission depletion (STED) microscopy, the high-intensity illumination required to achieve effective sub-diffraction resolution can introduce photo-damage, thus reducing the compatibility of the technique with live-cell imaging. Moreover, the out-of-focus fluorescence background may overcome the often faint signal stemming from the focal point, thus constraining imaging to thin samples. Here, we combined STED microscopy with image-scanning microscopy (ISM) to mitigate these limitations without any practical disadvantages. We first enhanced a laser scanning microscope (LSM) by introducing a detector array, hence providing access to a set of additional spatial information that is not available with a typical single-element detector. Then, we exploited this extended dataset to implement focus-ISM, a novel method that relaxes the high-intensity requirement of STED microscopy and removes the out-of-focus background. Additionally, we generalized the focus-ISM method to conventional LSM, namely without a STED beam. The proposed approach requires minimal architectural changes compared with conventional STED microscopes but provides substantial advantages for live and thick sample imaging while maintaining all compatibility with all recent advances in STED and confocal microscopy. As such, focus-ISM represents an essential step towards a universal super-resolved LSM technique for subcellular imaging.
-
-
+To date, the feasibility of super-resolution microscopy for imaging live and thick samples is still limited. Stimulated emission depletion (STED) microscopy requires high-intensity illumination to achieve sub-diffraction resolution, potentially introducing photodamage to live specimens. Moreover, the out-of-focus background may degrade the signal stemming from the focal plane. Here, we propose a new method to mitigate these limitations without drawbacks. First, we enhance a STED microscope with a detector array, enabling image scanning microscopy (ISM). Therefore, we implement STED-ISM, a method that exploits the working principle of ISM to reduce the depletion intensity and achieve a target resolution. Later, we develop Focus-ISM, a strategy to improve the optical sectioning and remove the background of any ISM-based imaging technique, with or without a STED beam. The proposed approach requires minimal architectural changes to a conventional microscope but provides substantial advantages for live and thick sample imaging.
