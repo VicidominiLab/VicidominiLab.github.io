@@ -4,8 +4,8 @@ authorname: "Giacomo Garrè"
 collection: team
 header:
   teaser: bio-photo.jpg
-tags: student
-tagline: Master Student University of Genoa 
+tags: Phd
+tagline: Ph.D. Student - University of Genoa 
 subject: "Inverse Problem."
 date-start: 2022-06-01
 date-end: 
