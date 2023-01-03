@@ -4,7 +4,7 @@ authorname: "Giacomo Garrè"
 collection: team
 header:
   teaser: bio-photo.jpg
-tags: Phd
+tags: phd
 tagline: Ph.D. Student - University of Genoa 
 subject: "Inverse Problem."
 date-start: 2022-06-01
@@ -12,7 +12,7 @@ date-end:
 twitter: 
 orcid: 
 googlescholar: 
-supervisors: "Dr. Alessandro Zunino (IIT) and Prof. Federico Benvenuto (Unige)"
+supervisors: "Dr. Alessandro Zunino (IIT), Prof. Federico Benvenuto (Unige) and Dr. Giuseppe Vicidomini"
 theme: "Img Proc Anal, LSM with SPAD array"
 ---
 
