@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: Phd
-tagline: Master Student University of Genoa 
+tagline: ERC GoG Ph.D. Student - University of Genoa 
 subject: "Single-Molecule Imaging"
 date-start: 2022-01-11
 date-end: 
@@ -13,7 +13,7 @@ twitter:
 orcid: 
 googlescholar: 
 supervisors: "Dr. Eli Slenders (IIT) and Dr. Giuseppe Vicidomini (IIT)"
-theme: "Img Proc Anal, LSM with SPAD array"
+theme: "BrightEyes"
 ---
 
 <h2>ShortBio</h2>
