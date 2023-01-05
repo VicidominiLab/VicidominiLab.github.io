@@ -8,9 +8,8 @@ tags: phd
 tagline: ERC GoG Ph.D. Student - University of Genoa 
 subject: "Single-Molecule Imaging"
 date-start: 2022-11-01
-date-end:
-twitter: 
-orcid: 
+twitter: https://twitter.com/sanketp0628
+orcid: https://orcid.org/0000-0002-4293-9249
 googlescholar: 
 supervisors: "Dr. Eli Slenders (IIT) and Dr. Giuseppe Vicidomini (IIT)"
 theme: "BrightEyes"
