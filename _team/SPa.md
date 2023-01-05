@@ -23,8 +23,8 @@ Since November 2022, Sanket has been a PhD student working under the guidance of
 
 His research interests include developing novel optical and electronic techniques to enable biologists to understand strange things inside cells and software-hardware integration to facilitate the easy use of novel technologies. 
 
-//<h2>Projects Description</h2>
-//<!--- Text --->
+<h2>Projects Description</h2>
+<!--- Text --->
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
