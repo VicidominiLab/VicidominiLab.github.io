@@ -7,7 +7,8 @@ header:
 tags: phd
 tagline: ERC GoG Ph.D. Student - University of Genoa 
 subject: "Single-Molecule Imaging"
-date-start: 2022-11-01
+date: 2022-11-01
+email: 'sanket.patil@iit.it'
 twitter: https://twitter.com/sanketp0628
 orcid: https://orcid.org/0000-0002-4293-9249
 googlescholar: 
@@ -16,7 +17,7 @@ theme: "BrightEyes"
 ---
 
 <h2>ShortBio</h2>
-<!--- Text --->
+Sanket Patil has a bachelor’s and master’s degree in Biotechnology from Indian Institute of Technology (IIT), Kanpur (India). 
 
 <h2>Projects Description</h2>
 <!--- Text --->
