@@ -3,7 +3,7 @@ title: "Giacomo Garrè"
 authorname: "Giacomo Garrè"
 collection: team
 header:
-  teaser:
+  teaser: GG_foto.jpg
 tags: phd
 tagline: Ph.D. Student - University of Genoa 
 subject: "Inverse Problem."
