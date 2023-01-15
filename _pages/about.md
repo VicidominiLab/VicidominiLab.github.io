@@ -25,10 +25,9 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Welcome to our new Team member [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/). Trained as a physicist, Alessandro has a perfect mix of theoretical and experimental skills. Looking forward to starting new projects on quantum microscopy with him.
+Welcome to our new Team member [Giacomo Garrè](https://vicidominilab.github.io/team/GG/). Trained as a mathematician, Giacomo will further strenghten our multidisciplinarity. Happy to have Giacomo on board for new exciting machine learning projects.
 <h2>Where To Meet Us</h2>
 <body align="justify">
-
 
 <!--- * February 22nd - 26th, 2021, (On Demand, March 5th - April 23th, 2021) [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/)-->
 <!---* March 28th - 31st, 2021, [Focus on Microscopy 2021](http://www.focusonmicroscopy.org)-->
