@@ -10,7 +10,7 @@ authors: 'Eli Slenders, Eleonora Perego, Mauro Buttafava, Giorgio Tortarolo, Enr
 paperurl: https://www.sciencedirect.com/science/article/pii/S2667074721000252
 doi: 10.1016/j.bpr.2021.100025
 tagline: '- Paper, Corresponding author'
-type: "FFS SPAD, BrightEyes, LSM with SPAD array"
+type: "FFS SPAD, BrightEyes, LSM with SPAD array, SPAD bio app"
 ---
 
 <h2> Abstract </h2>
