@@ -6,7 +6,7 @@ header:
   teaser: SabrinaZappone.jpg
 tags: phd
 tagline: Ph.D. Student - University of Genoa
-googlescholar:
+googlescholar: "https://scholar.google.com/citations?user=Ae9ILUEAAAAJ&hl=it"
 subject: "Medical Biotechnology"
 date: 2019-01-01
 email: 'sabrina.zappone@iit.it'
