@@ -45,6 +45,7 @@ Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/te
 <!---** July 10th - 15th, 2022, [International School of Physics - Enrico Fermi, Varenna, Italy](https://www.sif.it/corsi/scuola_fermi/mmxxii/210)--->
 * February 18th - 22nd, 2023, [Biophysical Society 2023 Annual Meeting](https://www.biophysics.org/2023meeting#/)
 * April 2nd - 5th, 2023, [Focus on Microscopy 2023](https://www.focusonmicroscopy.org)
+* 26th - 30th June, 2023, [CLEO/Europe-EQEC 2023](https://www.cleoeurope.org)
 <h2>The Laboratory</h2>
 <body align="justify">
 We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
