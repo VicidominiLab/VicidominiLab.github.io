@@ -25,7 +25,7 @@ This goal can be achieved only by working across many disciplines, from physics 
 
 <h2>Last News</h2>
 <body align="justify">
-Welcome to our new Team member [Giacomo Garrè](https://vicidominilab.github.io/team/GG/). Trained as a mathematician, Giacomo will further strenghten our multidisciplinarity. Happy to have Giacomo on board for new exciting machine learning projects.
+Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/team/SPa/). Trained in biotechnology, he will use his expertises in single-molecule traking and Python to drive our BrightEyes_ERC project to a new level.
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
@@ -39,10 +39,12 @@ Welcome to our new Team member [Giacomo Garrè](https://vicidominilab.github.io/
 <!---** July 12th - 16th, 2021, [EMBL Super-Resolution Microscopy: Time-Resolved STED Nanoscopy](https://www.embl.org/about/info/course-and-conference-office/events/mic21-03/)--->
 <!---** August 31th - September 2nd, 2021, [Single Molecule Localization Microscopy Symposium 2021](https://smlms.epfl.ch)--->
 <!---** September 29th - October 1st, 2021, [Single Molecule Spectroscopy and Super-resolution Microscopy 2021](https://www.picoquant.com/events/detail/single-molecule-workshop)--->
-* November 8th - 10th, 2021, [Internation Conference on Nanoscopy 2021](www.ICON-europe.org)
-* April 10th - 13th, 2022, [Focus on Microscopy 2022](https://www.focusonmicroscopy.org)
-* June 17th, 2022, [EuroBioImaging, Virtual Pub](https://www.eurobioimaging.eu/about-us/virtual-pub)
-* July 10th - 15th, 2022, [International School of Physics - Enrico Fermi, Varenna, Italy](https://www.sif.it/corsi/scuola_fermi/mmxxii/210)
+<!---** November 8th - 10th, 2021, [Internation Conference on Nanoscopy 2021](www.ICON-europe.org)--->
+<!---** April 10th - 13th, 2022, [Focus on Microscopy 2022](https://www.focusonmicroscopy.org)--->
+<!---** June 17th, 2022, [EuroBioImaging, Virtual Pub](https://www.eurobioimaging.eu/about-us/virtual-pub)--->
+<!---** July 10th - 15th, 2022, [International School of Physics - Enrico Fermi, Varenna, Italy](https://www.sif.it/corsi/scuola_fermi/mmxxii/210)--->
+* February 18th - 22nd, 2023, [Biophysical Society 2023 Annual Meeting](https://www.biophysics.org/2023meeting#/)
+* April 2nd - 5th, 2023, [Focus on Microscopy 2023](https://www.focusonmicroscopy.org)
 <h2>The Laboratory</h2>
 <body align="justify">
 We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
