@@ -3,7 +3,7 @@ title: "Sanket Patil"
 authorname: "Sanket Patil"
 collection: team
 header:
-  teaser: bio-photo.jpg
+  teaser: Sanket Patil_19923_JPG high compression _small size_.jpg
 tags: phd
 tagline: ERC GoG Ph.D. Student - University of Genoa 
 subject: "Single-Molecule Imaging"
