@@ -47,6 +47,7 @@ Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/te
 * April 2nd - 5th, 2023, [Focus on Microscopy 2023](https://www.focusonmicroscopy.org)
 * June 26th - 30th, 2023, [CLEO/Europe-EQEC 2023](https://www.cleoeurope.org)
 * April 23rd - 27th, 2023, [Optica Biophotonics Congress](https://www.optica.org/en-us/events/congress/biophotonics_congress/)
+* July 31st - August 4th, 2023, [EBSA 2023 Congress](https://mkon.nu/ebsa)
 <h2>The Laboratory</h2>
 <body align="justify">
 We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
