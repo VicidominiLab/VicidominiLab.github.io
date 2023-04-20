@@ -12,7 +12,8 @@ date: 2019-01-01
 email: 'sabrina.zappone@iit.it'
 linkedin: "https://www.linkedin.com/in/sabrina-zappone/"
 twitter: "@zappone_sabrina"
-theme: "FFS SPAD, SPAD bio app"
+orcid: "https://orcid.org/0000-0003-2695-4999"
+theme: "FFS SPAD, LLPS"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
