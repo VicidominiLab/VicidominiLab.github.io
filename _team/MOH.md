@@ -5,12 +5,12 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: post-doc
-tagline: ERC GoG PostDoc Fellow
+tagline: ERC CoG PostDoc Fellow
 subject: "Single-Molecule Imaging and Tracking"
 date: 2022-10-01
 email: 'marcus.held@iit.it'
-cv: 
-twitter: 
+linkedin: "https://www.linkedin.com/in/marcus-oliver-held-859746158/"
+twitter: "@MarcusOHeld"
 googlescholar: 
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
 theme: "BrightEyes"
@@ -20,6 +20,7 @@ theme: "BrightEyes"
 ---
 
 <h2>ShortBio</h2>
+
 
 <h2>Projects Description</h2>
 
