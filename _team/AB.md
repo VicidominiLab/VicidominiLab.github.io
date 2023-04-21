@@ -6,7 +6,7 @@ header:
   teaser: AndreaBucci.jpg
 tags: phd
 googlescholar: 'https://scholar.google.com/citations?user=qQoTg1YAAAAJ&hl=it'
-tagline: ERC GoG Ph.D. Student - University of Genoa
+tagline: ERC CoG Ph.D. Student - University of Genoa
 subject: "Single-Molecule Tracking"
 date: 2019-11-01
 email: 'andrea.bucci@iit.it'
