@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: Sanket Patil_19923_JPG high compression _small size_.jpg
 tags: phd
-tagline: ERC GoG Ph.D. Student - University of Genoa 
+tagline: ERC CoG Ph.D. Student - University of Genoa 
 subject: "Single-Molecule Imaging"
 date: 2022-11-01
 email: 'sanket.patil@iit.it'
