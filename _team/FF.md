@@ -17,7 +17,7 @@ twitter : FrancescoFersi3
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 <p align= "justify">
 Francesco Fersini studied Electronics Engineering - Photonics at University of Pavia. He got his M.Sc. in 2019 with a research thesis developed at SciLifeLab (TestaLab group, Stockholm). He worked on a super-resolution microscope RESOLFT set-up (REversible Saturable Optical Linear Fluorescence Transitions), combining with Fluorescence Lifetime Imaging Microscopy technique (FLIM) to study the kinetics of super fluorescence proteins decay.
 After the graduation, he joined to Pharmaceutical Company Bracco Imaging in Colleretto Giacosa (Turin, Italy) in the R&D group as Junior Researcher. The work was orientated to design a FLIM time-gated wilde-field microscope and a GUI. The final goal was to provide lifetime information and spatial variations by parametric maps.
