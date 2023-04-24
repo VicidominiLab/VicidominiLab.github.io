@@ -18,7 +18,7 @@ googlescholar: "https://scholar.google.it/citations?user=qNeel8wAAAAJ&hl=it"
 <p align= "justify">
 Note: Dr. Simonluca Piazza is primarly involved in the realization of the <a href="https://www.genoainstruments.com">Genoa Instruments</a> Startup. 
   
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 <!--- Text --->
 
 <h2>Projects Description</h2>
