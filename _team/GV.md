@@ -12,7 +12,7 @@ biblio: https://vicidominilab.github.io/files/VicidominiG_Biblio_2023_01_05.pdf
 cv: https://vicidominilab.github.io/files/VicidominiG_CV_2023_01_05.pdf
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 <p align= "justify">
 I studied computer science at the <a href="https://www.dibris.unige.it"><span style="color:gray">Department of Computer and Information Science</span></a>, <a href="https://unige.it/en/"><span style="color:gray">University of Genoa</span></a> (Italy) and received my Diploma cum laude in 2003 (advised by Prof. Mario Bertero and Prof. Patrizia Boccacci). From 2003 to 2007 I worked at the <a href="http://www.lambs.it"><span style="color:gray">Laboratory of Advance Microscopy and Spectroscopy</span></a>, (LAMBS, University of Genoa, Italy); where I received my Ph.D (advised by Prof. Alberto Diaspro) about image processing and analysis for fluorescence microscopy.
 <br>
