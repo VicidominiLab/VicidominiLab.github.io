@@ -16,7 +16,7 @@ supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 
 Note: Alessandro Rossetta has a joint position at Nanoscopy (NIC@IIT) and MMS laboratories.
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 Alessandro Rossetta earned his MSs in Biomedical Engineering in 2016 from University of California, Irvine (USA). In 2013 and 2010, he earned his MSc from University of RomaTre and his BSc from University La Sapienza, Rome respectively. Before joining again the academic environment at IIT and Unige he worked, until 2018, as R&D Software Engineer and Project Manager for Naviop, Forlì, Italy. His current research interests mainly focus on Fluorescence Lifetime Imaging Microscopy (FLIM), Fluorescence Correlation Spectroscopy (FCS) and Antibunching applications. His expertise relys in FPGA-programming within the development of photon-counting microscopy and spectroscopy instrumentation. 
 
 <h2>Projects Description</h2>
