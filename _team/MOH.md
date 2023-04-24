@@ -19,7 +19,7 @@ theme: "BrightEyes"
 
 ---
 
-<h2>ShortBio and Projects Description</h2>
+<h2>Short Bio and Projects Description</h2>
 As physicist we tend to seek the optimal result possible within the given laws of physics and I am also enthusiastic about it. My area of interest is photonic, the field I did my studies, before I specialised in my PhD on fluorescence microscopy to measure single fluorescent molecules. In my thesis, I could show that using complex but optimal illumination conditions the localization precision of a single molecule reached previously unattained values for a low number of detected photons. 
 
 In our group at IIT, we are working with a photon detector (Single Photon Avalanche Diode array) that performs under optimal physical parameters with respect to the detection side. It provides a spatial sampling of a small camera with temporal information of a SPAD, which is sufficiently fast to study fluorescence processes. 
