@@ -17,7 +17,7 @@ theme: "BrightEyes, SPAD bio app"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 "Not a Physicist. Not an Engineer. All he knows is what he's not. If only he could see what he is." <br/><br/>
 Andrea Bucci studied Engineering Physics at Politecnico of Milan (Milano, Italy) and subsequently at KTH (Stockholm, Sweden), where he got his M.Sc. in 2019 with a thesis entitled "Extended Parallelization of the Illumination in Optical Nanoscopy". After his graduation, he worked for 6 months as a student intern at KAUST (Thuwal, Saudi Arabia).<br/>  
 Since 2020, Andrea is a PhD student under the supervision of Giuseppe Vicidomini in the Molecular Microscopy and Spectroscopy group at the Italian Institute of Technology (Genoa, Italy), working in the research line of the "BrightEyes" ERC project. <br/><br/>
