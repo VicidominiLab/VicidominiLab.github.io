@@ -15,7 +15,7 @@ theme: "FFS SPAD"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 Eli Slenders has a bachelor's and master's degree in physics from Hasselt University (Hasselt, Belgium) and KU Leuven (Leuven, Belgium), respectively. He graduated in 2013. From 2014 to 2018, he worked as a PhD student at Hasselt University in the Biophysics group of prof. M. Ameloot. His PhD thesis was entitled “Resolution in coherent and incoherent optical imaging with two-photon excitation microscopy”. From 2019 to 2021, Eli worked as a post-doctoral researcher under the supervision of Giuseppe Vicidomini in the Molecular Microscopy and Spectroscopy research line at the Italian Institute of Technology (IIT, Genoa, Italy) where he developed SPAD-FFS, an optical tool to study biomolecular dynamics. Since March 2021, Eli is a Marie Skłodowska-Curie Actions research fellow in dr. Vicidomini's group, working on time-resolved low light-dose single molecule imaging with SPAD array detectors.
 
 
