@@ -17,7 +17,7 @@ theme: "Img Proc Anal, LSM with SPAD array"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 Sami Koho studied Information Technology in Tampere University of Technology, with dual Majors in Medical Electronics and Embedded Systems, and a minor in Industrial Management. He graduated in 2009, after which he embarked on an academic career. He held different teaching staff positions at University of Turku from 2009 to 2019. In spring 2011, he also decided to do a PhD in super-resolution optical microscopy; the Laboratory of Biophysics, lead by Prof. Pekka Hänninen has a long history in microcopy research. The subject of his thesis, completed in 2016 is *“Bioimage informatics in STED super-resolution microscopy”*. Since 2017 Sami has been with the Molecular Microscopy and Spectorscopy lab at IIT, first as a Post-doctoral researcher and currently as a Marie Curie EF-IF research fellow. His research interests include the design of super-resolution optical microscopy methods, bioimage informatics (image reconstruction, restoration, analysis) and adaptive optics.
 
 
