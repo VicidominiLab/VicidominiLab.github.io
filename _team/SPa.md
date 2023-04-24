@@ -16,7 +16,7 @@ supervisors: "Dr. Eli Slenders (IIT) and Dr. Giuseppe Vicidomini (IIT)"
 theme: "BrightEyes"
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 Sanket Patil has a bachelor's and master's degree in Biotechnology from the Indian Institute of Technology (IIT), Kanpur (India). He got his master's degree in 2022 with a thesis entitled **"Automating Single Particle Tracking in Optical Microscopy with a Novel Deep Learning Architecture to Probe Intracellular Trafficking."** During his master's degree, he also built a custom super-resolution STORM setup. After graduation, he joined the Molecular Microscopy and Spectroscopy group under the supervision of Giuseppe Vicidomini at the Istituto Italiano di Tecnologia (Genoa, Italy) to pursue his PhD studies.
 
 Since November 2022, Sanket has been a PhD student working under the guidance of Dr. Eli Slenders (IIT) and Dr. Giuseppe Vicidomini (IIT) on single particle tracking at the nanometric resolution under the research line of the "BrightEyes" ERC project.
