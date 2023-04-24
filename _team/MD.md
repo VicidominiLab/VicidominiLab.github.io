@@ -12,7 +12,7 @@ theme: "FFS SPAD"
 email: 'mattia.donato@iit.it'
 ---
 
-<h2>ShortBio</h2>
+<h2>Short Bio</h2>
 Mattia Donato studied at the Department of Physics, University of Genoa (Italy) and he obtained the physics bachelor degree (2010) with a thesis about the tests and the characterization of a prototype of compact gamma-camera for Single Photon Emission Computed Tomography (SPECT).
 
 He studied as exchange student at the Uppsala University (Sweden) and there he did an internship at the Fusion Diagnostics Group of Applied Nuclear Physics, Department Of Physics And Astronomy, where he prepared his thesis. In the 2013, at University of Genoa, he obtained the master degree with a thesis about the characterization of a neutron detector designed for the nuclear fusion experiment Mega Ampere Spherical Tokamak (MAST).
