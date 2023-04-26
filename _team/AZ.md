@@ -12,6 +12,7 @@ email: 'alessandro.zunino@iit.it'
 # skype: FRancesco FErsini
 linkedin : alessandro-zunino
 twitter : ZuninoAle
+cv: https://vicidominilab.github.io/files/AZunino_Academic_CV.pdf
 
 # theme: "LSM with SPAD array"
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
