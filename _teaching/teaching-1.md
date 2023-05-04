@@ -22,4 +22,4 @@ The course is focused on theory and applications.
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Eli Slenders](https://vicidominilab.github.io/team/ES/)*
 
-[*Download* - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
+[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
