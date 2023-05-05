@@ -6,12 +6,13 @@ header:
   teaser: AlessandroZunino.jpg
 tags: post-doc
 tagline: Postdoc Fellow
-subject: "Quantum Microscopy"
+subject: "Image Processing and Quantum Microscopy"
 date: 2022-02-15
 email: 'alessandro.zunino@iit.it'
-# skype: FRancesco FErsini
+# skype: 
 linkedin : alessandro-zunino
 twitter : ZuninoAle
+orcid : https://orcid.org/0000-0002-2512-8751
 cv: https://vicidominilab.github.io/files/AZunino_Academic_CV.pdf
 
 # theme: "LSM with SPAD array"
