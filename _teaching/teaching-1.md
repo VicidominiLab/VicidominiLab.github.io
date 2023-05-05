@@ -1,5 +1,6 @@
 ---
 title: "Optics for Microscopy and Spectroscopy"
+tags: AZ, ES
 type: "Ph.D. student course"
 collection: teaching
 permalink: /teaching/teaching-1
