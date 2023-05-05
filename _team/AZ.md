@@ -27,11 +27,7 @@ Alessandro Zunino obtained thr BSc in Physics (2015) and the MSc in Physics (201
   
 <h2>Teaching</h2>
 
-{% for post in site.teaching reversed %}
-  {% if post.tags contains 'AZ' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+[*Optics for Microscopy and Spectroscpy*]([https://vicidominilab.github.io/team/AZ/](https://vicidominilab.github.io/teaching/teaching-1))
   
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
