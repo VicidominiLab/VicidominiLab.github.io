@@ -24,6 +24,15 @@ supervisors: "Dr. Giuseppe Vicidomini (IIT)"
 
 Alessandro Zunino obtained thr BSc in Physics (2015) and the MSc in Physics (2018) from the University of Milan (Italy). From 2018 to 2021, he worked as a PhD student at the Italian Insitute of Technology (IIT) in Genoa (Italy), under the supervision of prof. Marti Duocastella and prof. Alberto Diaspro. His research project focused on the development of new acousto-optical technologies to enables fast control of light. Since February 2022, he started working as a post-doctoral researcher in the Molecular Microscopy and Spectroscopy laboratory of IIT, under the supervision of Dr. Giuseppe Vicidomini. His main scientific interest are: classical and quantum optics, structured light, and their applications to imaging.
  
+  
+<h2>Teaching</h2>
+
+{% for post in site.teaching reversed %}
+  {% if post.tags contains 'AZ' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+  
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
