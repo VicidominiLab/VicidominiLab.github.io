@@ -10,6 +10,9 @@ venue: "DIBRIS, University of Genoa in collaboration with Istituto Italiano di T
 date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
+
+[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
+
 ## Learning Outcomes
 Light is an essential tool for many important scientific applications, such as optical microscopy and spectroscopy. This course is intended to provide the essential theoretical background of optics and imaging. In particular, the course will focus on traditional and state-of-the-art optical techniques. Additionally, students will have the opportunity to attend a demonstration with custom-built optical setups. The student will acquire a general overview of the physical principles of modern optical techniques and their most relevant applications.
 
@@ -24,5 +27,3 @@ The course is focused on theory and applications.
 
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Eli Slenders](https://vicidominilab.github.io/team/ES/)*
-
-[**Download** - Lecture notes](https://vicidominilab.github.io/files/teaching-1.pdf)
