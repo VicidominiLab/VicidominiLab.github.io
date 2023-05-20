@@ -2,7 +2,7 @@
 title: "ISM-FLUX: MINFLUX with an array detector"
 collection: publications
 date: 2023-04-17
-venue: 'Phys Rev Research'
+venue: 'Phys. Rev. Research'
 volume: 5 
 issue: 2
 pages: 023033
