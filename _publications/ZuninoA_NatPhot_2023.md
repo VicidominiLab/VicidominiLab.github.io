@@ -6,6 +6,6 @@ venue: 'Nat. Photon.'
 authors: 'Alessandro Zunino, Eli Slenders, Francesco Fersini, Andrea Bucci, Mattia Donato, Giuseppe Vicidomini'
 paperurl: https://www.nature.com/articles/s41566-023-01216-x
 doi: 10.1038/s41566-023-01216-x
-tagline: '- Paper'
+tagline: '- Paper, Corresponding author'
 type: "Img Proc Anal, BrightEyes"
 ---
