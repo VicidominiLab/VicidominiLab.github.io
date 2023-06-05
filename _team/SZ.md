@@ -10,7 +10,7 @@ googlescholar: "https://scholar.google.com/citations?user=Ae9ILUEAAAAJ&hl=it"
 subject: "Medical Biotechnology"
 date: 2019-01-01
 email: 'sabrina.zappone@iit.it'
-cv: "https://vicidominilab.github.io/files/SZappone_CV_onepage.pdf"
+cv: https://vicidominilab.github.io/files/SZappone_CV_onepage.pdf
 linkedin: "https://www.linkedin.com/in/sabrina-zappone/"
 twitter: "@zappone_sabrina"
 orcid: "https://orcid.org/0000-0003-2695-4999"
