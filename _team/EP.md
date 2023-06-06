@@ -3,10 +3,11 @@ title: "Eleonora Perego"
 authorname: "Eleonora Perego"
 collection: team
 header:
-  teaser: EleonoraPerego.jpg
+teaser: EleonoraPerego.jpg
 tags: post-doc
 googlescholar: 'https://scholar.google.com/citations?user=_LAg2cgAAAAJ&hl=it&oi=ao'
-PeregoE_CV_webPage.pdf
+orcid: "https://orcid.org/0000-0002-1700-584X"
+cv: https://vicidominilab.github.io/files/PeregoE_CV_webPage.pdf
 tagline: Postdoc Fellow
 subject: "Fluorescence Fluctuation Spectroscopy"
 date: 2021-01-03
