@@ -7,7 +7,6 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
-
 <h2>Ph.D. in Single-Molecule-Tracking and Imaging with Single-Photon Detector Array </h2>
 <h3>Published:</h3>
 13th June 2022 - <span style="color:green"> Open (Deadline 30th June 2022)</span>
@@ -28,7 +27,28 @@ Within the context of the BrightEye project, the prime goal of the project will 
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>
 Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
 
-<h2>Ph.D. in New Developments in Advanced Light Microscopy </h2>
+
+<!--- <h2>Ph.D. in Single-Molecule-Tracking and Imaging with Single-Photon Detector Array </h2>
+<h3>Published:</h3>
+13th June 2022 - <span style="color:green"> Open (Deadline 30th June 2022)</span>
+<h3>Type of Position:</h3>
+Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
+<h3>Description:</h3>
+The aim of the Molecular Microscopy and Spectroscopy group is the theoretical design, development and validation of novel optical and analytical tools that allow the modern biologist to peer inside living biological systems with unprecedented temporal/spatial abilities and massive information content.
+The overall objective of the BrightEyes project (ERC–CoG–2018) is to develop a set of innovative and non-invasive imaging and spectroscopy tools able to observe a single- biomolecule at work in a living multi-cellular system. Specifically, by exploring novel single-photon avalanche diode (SPAD) arrays detector, the BrightEyes project will implement an optical system able to continuously (i) track in real-time a biomolecule of interest; (ii) measure its nano-environment and its structural changes; (iii) observe its interactions with other biomolecules; (iv) visualize its sub-cellular micro- environment with nanometer resolution.
+Within the context of the BrightEye project, the prime goal of the project will be the implementation of a feedback-based single-molecule tracking (SMT) system and a single-molecule imaging system on a point-scanning microscope equipped with a small SPAD array detector – instead of the classical single-point detector. Both for tracking and imaging the system will be able to register the fluorescence lifetime of the tracked/imaged molecule simultaneously also. 
+<h3>Requirements:</h3>
+
+* master degree or equivalent degree preferably in engineering or physics;
+* ability and motivation to work independently as well as collaboratively in an interdisciplinary team;
+* ability to gather and analyse data from different resources with the aim of building, comprehensible and convincing story;
+* coding skills (Python and/or Matlab, C#) are highly desirable; 
+* expertise in microscopy will be considered as a plus.
+<h3>How to Apply:</h3>
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>
+Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.--->
+
+<!--- <h2>Ph.D. in New Developments in Advanced Light Microscopy </h2>
 <h3>Published:</h3>
 13th June 2022 - <span style="color:green"> Open (Deadline 30th June 2022)</span>
 <h3>Type of Position:</h3>
@@ -42,10 +62,10 @@ The PhD student will benefit significantly from the active collaborations of the
 The project is extremely multi-disciplinary, and it involves many different aspects. Hence, the position is open to candidate having a Master’s degree in one of the following areas: Physical Science, Computer Science, Mathematics, and Engineering. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required. For Computer Science and Mathematics candidates good coding skills (preferably in Phyton) and knowledge in Artificial Intelligence are important.
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a>
-Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20(02)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.
+Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%20Unige%20Vicidomini%20Lab%20(02)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information.--->
 
 
-<h2>Postdoc Position in Advanced Optical Microscopy</h2>
+<!--- <h2>Postdoc Position in Advanced Optical Microscopy</h2>
 <h3>Published:</h3>
 10th June 2022 - <span style="color: green">Open (Deadline 10th July 2022)</span>
 <h3>Type of Position:</h3>
@@ -100,7 +120,7 @@ Within the team, your main responsibilities will be:
 <h3>How to Apply:</h3>
 If you feel this tickles your appetite for change, do not hesitate and apply!
 
-Please submit your application using the <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2200004M"><span style="color:blue">online form</span></a> and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details of at least 2 references. Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2200004M)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+Please submit your application using the <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2200004M"><span style="color:blue">online form</span></a> and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details of at least 2 references. Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2200004M)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.--->
 
 <!---
 <h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
