@@ -122,8 +122,7 @@ If you feel this tickles your appetite for change, do not hesitate and apply!
 
 Please submit your application using the <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2200004M"><span style="color:blue">online form</span></a> and including a detailed CV, university transcripts, cover letter (outlining motivation, experience and qualifications) and contact details of at least 2 references. Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2200004M)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.--->
 
-<!---
-<h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
+<!--- <h2>Postdoc Position on Single-Molecule Tracking, Imaging and Spectroscopy</h2>
 <h3>Published:</h3>
 2nd March 2022 - <span style="color: green">Open (Deadline 17th March 2022)</span>
 <h3>Type of Position:</h3>
@@ -188,7 +187,7 @@ Please submit your application using the <a href="https://iit.taleo.net/careerse
 Further enquires and/or expression of interest  may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2100000Q)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
 --->
 
-<h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
+<!--- <h2>Ph.D., Postdoc and Research Positions in Advanced Optical Microscopy for Life Science</h2>
 <h3>Published:</h3>
 1th October 2020 - <span style="color: green">Open</span>
 <h3>Type of Position:</h3>
@@ -254,7 +253,7 @@ This open position is financed by European Research Council (ERC) within the H20
 * Two days of teleworking per week (once the selected candidate reaches a high level of autonomy);
 * Flexible working time. 
  
-<!--- <h3>What's For You:</h3>
+<h3>What's For You:</h3>
  
 * An equal, inclusive and multicultural environment ready to welcome you with open arms. Discrimination is a big NO for us!
 * We like contamination and encourage you to mingle and discover what other people are up to in our labs! 
