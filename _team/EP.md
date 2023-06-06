@@ -6,6 +6,7 @@ header:
   teaser: EleonoraPerego.jpg
 tags: post-doc
 googlescholar: 'https://scholar.google.com/citations?user=_LAg2cgAAAAJ&hl=it&oi=ao'
+PeregoE_CV_webPage.pdf
 tagline: Postdoc Fellow
 subject: "Fluorescence Fluctuation Spectroscopy"
 date: 2021-01-03
