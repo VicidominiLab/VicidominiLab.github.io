@@ -26,7 +26,7 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. <!--- The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> --->
-The official call will be available soon at the <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Genoa University website</span></a> --->.
+The official call will be available soon at the <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Genoa University website</span></a>.
 Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202023%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
 
 
