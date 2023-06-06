@@ -18,6 +18,7 @@ Optical microscopy is one of the least invasive techniques to visualise biologic
 The PhD student will be fully integrated into this general mission of the laboratory with a dedicated project on fluorescence lifetime imaging microscopy. Fluorescence lifetime imaging microscopy (FLIM) is an imaging technique which combines the conventional intensity characteristic of the fluorescence signal with its nanosecond scale temporal dynamics. This combination provides access to both the specimen’s structural and  functional information. Indeed, it allows mapping protein-protein interactions and biochemical reaction in living cells. In the last years our group contributed to combining FLIM to super-resolution microscopy –by introducing the concept of fluorescence lifetime image scanning microscopy [1], and to democratise FLIM – by developing a series of enabling low-cost technologies [1,2]. The PhD student will continue in this direction and his/her specific project will be designed according to his/her background and skills. In particular, the project will be chosen within one or a combination of these goals: (i) the combination of fluorescence lifetime assay with other advanced microscopy techniques; (ii) the development of robust and user-friendly analysis pipelines; (iii) application of FLIM to understand RNA molecule functions and their role in human diseases in the context of RNA therapeutics.
 
 [1] M. Castello et al., “A robust and versatile platform for image scanning microscopy enabling super-resolution FLIM,” Nat Methods 16(2), 175-178 (2019).
+
 [2] A. Rossetta, et al., “The BrightEyes-TTM as an open-source time-tagging module for democratising single-photon microscopy,” Nat Comm 13, 7406 (2022). 
 
 <h3>Requirements:</h3>
@@ -25,7 +26,7 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. <!--- The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> --->
-The official call will be available soon at the university website.
+The official call will be available soon at the <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Genoa University website</span></a> --->.
 Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202023%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
 
 
