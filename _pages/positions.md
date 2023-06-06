@@ -25,8 +25,8 @@ The PhD student will be fully integrated into this general mission of the labora
 The project is extremely multi-disciplinary, and it involves many different aspects of natural sciences. Hence, the position is open to candidates having a Master Degree or equivalent Degree in Engineering, Physics or related disciplines. Ability and motivation to work independently as well as collaboratively in an interdisciplinary team is very important. Good English language speaking and writing skills are required. Coding skills (e.g., Python, MATLAB, C#) are highly desirable. Expertise in microscopy will be considered as a plus.
 
 <h3>How to Apply:</h3>
-In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. <!--- The official call is available at this link <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> --->
-The official call will be available soon at the <a href="https://unige.it/en/students/phd-programmes"><span style="color:blue">Genoa University website</span></a>.
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova. <!--- The official call is available at this link <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> --->
+The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.
 Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202023%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
 
 <!--- <h2>Ph.D. in Single-Molecule-Tracking and Imaging with Single-Photon Detector Array </h2>
