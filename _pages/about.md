@@ -29,17 +29,6 @@ Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/te
 <h2>Where To Meet Us</h2>
 <body align="justify">
 
-<!--- * February 22nd - 26th, 2021, (On Demand, March 5th - April 23th, 2021) [65th Biophysical Society Meetting](https://www.biophysics.org/2021meeting#/)-->
-<!---* March 28th - 31st, 2021, [Focus on Microscopy 2021](http://www.focusonmicroscopy.org)-->
-<!---* April 12nd - 16th, 2021, [OSA: Biophotonics Congress: Optics in the Life Sciences](https://www.osa.org/en-us/meetings/osa_meetings/osa_biophotonics_congress/)-->
-<!---* May 20th - 21st, 2021, [EMBL in Italy 2021: A Brave New World of RNA](https://www.embl.de/aboutus/alumni/events-networks/local-chapters/italy/48_genoa_2021/)--> 
-<!---* June 21st - 25th, 2021, [CLEO/EUROPE-EQEC 2021](https://www.cleoeurope.org)--->
-<!---* June 28th, 2021, [EPIC Online Technology Meeting on Novel Photonic Solutions for Microscopy](https://www.epic-assoc.com/epic-online-technology-meeting-on-novel-photonic-solutions-for-microscopy/)--->
-<!---** June 28th - July 1st, 2021, [XXV Congresso Nazionale SIBPA 2021](https://www.sibpa.it/CongressoNazionaleSIBPAParma/)--->
-<!---** July 12th - 16th, 2021, [EMBL Super-Resolution Microscopy: Time-Resolved STED Nanoscopy](https://www.embl.org/about/info/course-and-conference-office/events/mic21-03/)--->
-<!---** August 31th - September 2nd, 2021, [Single Molecule Localization Microscopy Symposium 2021](https://smlms.epfl.ch)--->
-<!---** September 29th - October 1st, 2021, [Single Molecule Spectroscopy and Super-resolution Microscopy 2021](https://www.picoquant.com/events/detail/single-molecule-workshop)--->
-<!---** November 8th - 10th, 2021, [Internation Conference on Nanoscopy 2021](www.ICON-europe.org)--->
 <!---** April 10th - 13th, 2022, [Focus on Microscopy 2022](https://www.focusonmicroscopy.org)--->
 <!---** June 17th, 2022, [EuroBioImaging, Virtual Pub](https://www.eurobioimaging.eu/about-us/virtual-pub)--->
 <!---** July 10th - 15th, 2022, [International School of Physics - Enrico Fermi, Varenna, Italy](https://www.sif.it/corsi/scuola_fermi/mmxxii/210)--->
@@ -47,7 +36,9 @@ Welcome to our new Team member [Sanket Patil](https://vicidominilab.github.io/te
 * April 2nd - 5th, 2023, [Focus on Microscopy 2023](https://www.focusonmicroscopy.org)
 * April 23rd - 27th, 2023, [Optica Biophotonics Congress](https://www.optica.org/en-us/events/congress/biophotonics_congress/)
 * June 26th - 30th, 2023, [CLEO/Europe-EQEC 2023](https://www.cleoeurope.org)
+* July 29th - 31st, 2023, [EBSA Satellite Meeting](https://events.au.dk/ebsasatellitemeetingfl/conference)
 * July 31st - August 4th, 2023, [EBSA 2023 Congress](https://mkon.nu/ebsa) 
+* August 28th - 30th, 2023, [SMLMS 2023](https://smlms.org/)
 * September 11th - 15th, 2023, [EOS Annual Meeting 2023](https://www.europeanoptics.org/events/eos/eosam2023.html)
 <h2>The Laboratory</h2>
 <body align="justify">
