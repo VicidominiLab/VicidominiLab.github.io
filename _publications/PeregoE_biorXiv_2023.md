@@ -2,7 +2,7 @@
 title: "Content-enriched fluorescence lifetime fluctuation spectroscopy to study bio-molecular condensate formation"
 collection: publications
 date: 2023-06-11
-venue: 'biorXiv'
+venue: 'bioRxiv'
 volume: 
 issue:
 pages:  
