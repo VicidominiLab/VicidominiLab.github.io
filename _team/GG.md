@@ -7,7 +7,7 @@ header:
 tags: phd
 tagline: Ph.D. Student - University of Genoa 
 subject: "Inverse Problem."
-date: November 2022
+date: 11-2022
 twitter: 
 orcid: 
 googlescholar: 
