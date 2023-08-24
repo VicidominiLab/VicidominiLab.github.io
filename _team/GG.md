@@ -25,6 +25,8 @@ His research interests include inverse problems, image processing and data-analy
 <h2>Projects Description</h2>
 <!--- Text --->
 
+Detector arrays makes Image Scanning Microscopy (ISM) the natural successor of confocal microscopy. ISM enables super-resolution at an excellent signal-to-noise ratio. Maximizing photon budget requires large detectors and so more out-of-focus light is collected. The ISM dataset inherently contains information on the axial position of the fluorescence emitters. The aim of our project is to exploit such information to reassign the signal in the three dimensions, improving the signal-to-background ratio and resolution. Moreover, we enable image denoising by posing a statistical model on the arrival of photons on the SPAD array detector.
+
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
