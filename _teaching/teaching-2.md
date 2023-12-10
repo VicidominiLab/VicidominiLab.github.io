@@ -1,13 +1,13 @@
 ---
-title: "Optics for Microscopy and Spectroscopy"
+title: "Principle of Image Scanning Microscopy"
 tags:
   - AZ
-  - ES
-type: "Ph.D. student course"
+  - GV
+type: "Slides for Presentation"
 collection: teaching
-permalink: /teaching/teaching-1
-venue: "DIBRIS, University of Genoa in collaboration with Istituto Italiano di Tecnologia"
-date: 2nd March - 20th April 2023
+permalink: /teaching/teaching-2
+venue: "online"
+date: 
 location: "Genoa, Italy"
 ---
 
