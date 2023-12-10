@@ -3,7 +3,7 @@ title: "Principle of Image Scanning Microscopy"
 tags:
   - AZ
   - GV
-type: "Lectures"
+type: "Lecture"
 collection: teaching
 permalink: /teaching/teaching-2
 venue: "online"
