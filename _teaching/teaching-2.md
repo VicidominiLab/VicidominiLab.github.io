@@ -11,10 +11,11 @@ date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
 
-[**Download** - Presentation Slides](https://vicidominilab.github.io/files/teaching-1.pdf)
+[**Download** - Presentation Slides (.ppt)](https://vicidominilab.github.io/files/teaching-1.pdf)
+[**Download** - Presentation Slides (.key)](https://vicidominilab.github.io/files/teaching-1.pdf)
 
 ## Learning Outcomes
-Light is an essential tool for many important scientific applications, such as optical microscopy and spectroscopy. This course is intended to provide the essential theoretical background of optics and imaging. In particular, the course will focus on traditional and state-of-the-art optical techniques. Additionally, students will have the opportunity to attend a demonstration with custom-built optical setups. The student will acquire a general overview of the physical principles of modern optical techniques and their most relevant applications.
+Image scanning microscopy (ISM) stands as the natural successor to confocal laser scanning microscopy, as it effectively addresses the trade-off between resolution and signal-to-noise ratio encountered in confocal microscopy. ISM replaces the pinhole and single-element detector with a fast detector array capable of registering an image for each position of the probed region, corresponding to every position of the focused laser beam across the sample. The resulting four-dimensional dataset is processed to generate a two-dimensional image of the sample with twice the resolution of diffraction-limited laser-scanning microscopy, without compromising the signal-to-noise ratio.  
 
 ## Syllabus/Content
 The course is focused on theory and applications.
