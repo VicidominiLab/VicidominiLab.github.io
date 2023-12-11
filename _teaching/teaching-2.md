@@ -31,7 +31,7 @@ All animated GIF can be dowladed separately from [Zunino's] (https://github.com/
 
 ## Video
 <video width="480" height="320" controls="controls" class="align-center">
-<source src="/videos/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
+<source src="/videos/VicidominiG_ISM_Principles.gif" type="video/gif">
 </video>
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Giuseppe Vicidomini](https://vicidominilab.github.io/team/GV/)*
