@@ -26,6 +26,7 @@ The presentation is divided it the following part:
 - Part 3: A brief history of image scanning microscopy (ISM);
 - Part 4: The principle of ISM
 - Part 5: The pixel-reassignment reconstruction method
+  
 All animated GIF can be dowladed separately from [Zunino's](https://github.com/Alessandro-Zunino/microscopy-animations) GitHub repository.
 
 
