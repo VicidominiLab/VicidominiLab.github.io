@@ -31,6 +31,6 @@ All animated GIF can be dowladed separately from [Zunino's](https://github.com/A
 
 
 ## Video
-<img width="480" height="320" controls="controls" class="align-center" src="/videos/VicidominiG_ISM_Principles.gif"/>
+<img width="480" height="270" controls="controls" class="align-center" src="/videos/VicidominiG_ISM_Principles.gif"/>
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Giuseppe Vicidomini](https://vicidominilab.github.io/team/GV/)*
