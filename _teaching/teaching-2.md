@@ -12,6 +12,7 @@ location: "Genoa, Italy"
 ---
 
 [**Download** - Presentation Slides (.ppt)](https://vicidominilab.github.io/files/teaching-1.pdf)
+
 [**Download** - Presentation Slides (.key)](https://vicidominilab.github.io/files/teaching-1.pdf)
 
 ## Learning Outcomes
@@ -27,4 +28,4 @@ The course is focused on theory and applications.
 - Class 6 (2h): Visit of the laboratory and experimental demonstrations
 
 
-**Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Eli Slenders](https://vicidominilab.github.io/team/ES/)*
+**Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Giuseppe Vicidomini](https://vicidominilab.github.io/team/GV/)*
