@@ -20,12 +20,10 @@ Image scanning microscopy (ISM) stands as the natural successor to confocal lase
 
 ## Syllabus/Content
 The course is focused on theory and applications.
-- Class 1 (2h): Fundamentals of optics (geometrical, scalar, and vectorial optics)
-- Class 2 (2h): Imaging and wide-field microscopy
-- Class 3 (2h): Confocal microscopy, Image Scanning Microscopy, STED microscopy
-- Class 4 (2h): Non-linear optics, multiphoton fluorescence and second harmonic generation microscopy
-- Class 5 (2h): Fluorescence correlation spectroscopy, fluorescence fluctuation spectroscopy, fluorescence lifetime
-- Class 6 (2h): Visit of the laboratory and experimental demonstrations
-
+- Part 1: The principle of confocal laser-scanning microscopy;
+- Part 2: The resoltuion and signal-to-noise ratio tradeoff in confocal laser-scanning microscopy;
+- Part 3: A brief history of image scanning microscopy (ISM);
+- Part 4: The principle of ISM
+- Part 5: The pixel-reassignment reconstruction method
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Giuseppe Vicidomini](https://vicidominilab.github.io/team/GV/)*
