@@ -27,3 +27,8 @@ The course is focused on theory and applications.
 - Part 5: The pixel-reassignment reconstruction method
 
 **Teachers**: *Dr. [Alessandro Zunino](https://vicidominilab.github.io/team/AZ/), Dr. [Giuseppe Vicidomini](https://vicidominilab.github.io/team/GV/)*
+
+## Video:
+<video width="480" height="320" controls="controls" class="align-center">
+<source src="/videos/VicidominiG_SIF_2020_max_compression.mp4" type="video/mp4">
+</video>
