@@ -11,9 +11,9 @@ date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
 
-[**Download** - Presentation Slides (.ppt)](https://vicidominilab.github.io/files/teaching-1.pdf)
+[**Download** - Presentation Slides (.ppt)](https://vicidominilab.github.io/files/VicidominiG_ISM_Principles.ppt)
 
-[**Download** - Presentation Slides (.key)](https://vicidominilab.github.io/files/teaching-1.pdf)
+[**Download** - Presentation Slides (.key)](https://vicidominilab.github.io/files/VicidominiG_ISM_Principles.key)
 
 
 ## Learning Outcomes
