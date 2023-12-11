@@ -22,7 +22,7 @@ Image scanning microscopy (ISM) stands as the natural successor to confocal lase
 ## Syllabus/Content
 The presentation is divided it the following part:
 - Part 1: The principle of confocal laser-scanning microscopy;
-- Part 2: The resoltuion and signal-to-noise ratio tradeoff in confocal laser-scanning microscopy;
+- Part 2: The resolution and signal-to-noise ratio tradeoff;
 - Part 3: A brief history of image scanning microscopy (ISM);
 - Part 4: The principle of ISM
 - Part 5: The pixel-reassignment reconstruction method
