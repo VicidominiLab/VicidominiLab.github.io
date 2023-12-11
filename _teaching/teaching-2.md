@@ -29,7 +29,6 @@ The presentation is divided it the following part:
   
 All animated GIF can be dowladed separately from [Zunino's](https://github.com/Alessandro-Zunino/microscopy-animations) GitHub repository.
 
-
 ## Video
 <img width="480" height="270" controls="controls" class="align-center" src="/videos/VicidominiG_ISM_Principles.gif"/>
 
