@@ -31,8 +31,6 @@ All animated GIF can be dowladed separately from [Zunino's](https://github.com/A
 
 
 ## Video
-
-
 <img width="480" height="320" controls="controls" class="align-center">
 <source src="/videos/VicidominiG_ISM_Principles.gif">
 </img>
