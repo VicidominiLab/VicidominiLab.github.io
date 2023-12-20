@@ -11,7 +11,7 @@ date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
 
-[**Download** - Presentation Slides (.ppt)](https://doi.org/10.6084/m9.figshare.24881685.v1)
+[**Download** - Presentation Slides](https://doi.org/10.6084/m9.figshare.24881685.v1)
 
 ## Learning Outcomes
 Image scanning microscopy (ISM) stands as the natural successor to confocal laser scanning microscopy, as it effectively addresses the trade-off between resolution and signal-to-noise ratio encountered in confocal microscopy. ISM replaces the pinhole and single-element detector with a fast detector array capable of registering an image for each position of the probed region, corresponding to every position of the focused laser beam across the sample. The resulting four-dimensional dataset is processed to generate a two-dimensional image of the sample with twice the resolution of diffraction-limited laser-scanning microscopy, without compromising the signal-to-noise ratio. 
