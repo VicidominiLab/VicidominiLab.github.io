@@ -11,8 +11,6 @@ date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
 ---
 
-https://doi.org/10.6084/m9.figshare.24881685.v1
-
 [**Download** - Presentation Slides (.ppt)](https://doi.org/10.6084/m9.figshare.24881685.v1)
 
 ## Learning Outcomes
