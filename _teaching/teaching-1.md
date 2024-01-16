@@ -5,7 +5,7 @@ tags:
   - ES
 type: "Ph.D. student course"
 collection: teaching
-permalink: /teaching/teaching-1
+permalink: /teaching/optics
 venue: "DIBRIS, University of Genoa in collaboration with Istituto Italiano di Tecnologia"
 date: 2nd March - 20th April 2023
 location: "Genoa, Italy"
