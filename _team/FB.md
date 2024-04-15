@@ -13,7 +13,7 @@ twitter:
 orcid: 
 googlescholar: 
 supervisors: "Dr. Giuseppe Vicidomini (IIT)"
-theme: "BrightEyes"
+theme: "Img Proc Anal, LSM with SPAD array"
 ---
 
 <h2>Short Bio</h2>
