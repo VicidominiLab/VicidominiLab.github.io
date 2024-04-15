@@ -9,7 +9,7 @@ pages: 016003
 authors: 'Giorgio Tortarolo, Alessandro Zunino, Simonluca Piazza, Mattia Donato, Sabrina Zappone, Agnieszka Pierzyńska-Mach, Marco Castello, Giuseppe Vicidomini'
 paperurl: https://www.osapublishing.org/optica/abstract.cfm?uri=optica-7-7-755
 doi: 10.1117/1.AP.6.1.016003
-tagline: '- Paper, - corresponding'
+tagline: '- Paper, Corresponding author'
 type: "BrightEyes, LSM with SPAD array"
 ---
 
