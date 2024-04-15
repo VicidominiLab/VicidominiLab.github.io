@@ -11,7 +11,7 @@ subject: "Fluorescence Correlation Spectroscopy and Single-Molecule Imaging"
 date: 2019-01-01
 email: 'eli.slenders@iit.it'
 twitter: EliSlenders  
-theme: "FFS SPAD"
+theme: "FFS SPAD, BrightEyes"
 cv: https://vicidominilab.github.io/files/ESlenders_CV.pdf
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
