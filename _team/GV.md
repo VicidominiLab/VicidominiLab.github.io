@@ -38,11 +38,11 @@ I have authored or co-authored 76 articles in peer reviewed international journa
 <h2>Selected Pubblications</h2>
 <p align= "justify">
 [1] M. Castello, G. Tortarolo, M. Buttafava, T. Deguchi, F. Villa, S. Koho, L. Pesce, M. Oneto,
-S. Pelicci, L. Lanzan`o, P. Bianchini, C. J. Sheppard, A. Diaspro, A. Tosi, and G. Vicidomini.
+S. Pelicci, L. Lanzanò, P. Bianchini, C. J. Sheppard, A. Diaspro, A. Tosi, and G. Vicidomini.
 A robust and versatile platform for image scanning microscopy enabling super-resolution FLIM.
 Nat. Methods, 16(2):175–178, 2019.
 <br>
-[2] L. Lanzanò, I. Coto Hern ́andez, M. Castello, E. Gratton, A. Diaspro, and G. Vicidomini. Encod-
+[2] L. Lanzanò, I. Coto Hernàndez, M. Castello, E. Gratton, A. Diaspro, and G. Vicidomini. Encod-
 ing and decoding spatio-temporal information for super-resolution microscopy. Nat. Commun.,
 6:6701, 04 2015.
 <br>
@@ -51,8 +51,7 @@ S. Koho, G. Tortarolo, A. Barberis, M. Crepaldi, E. Perego, and G. Vicidomini. T
 TTM as an open-source time-tagging module for democratising single-photon microscopy. Nat
 Commun, 13(1), 2022.
 <br>
-[4] E. Slenders, M. Castello, M. Buttafava, F. Villa, A. Tosi, L. Lanzan`o, S. V. Koho, and G. Vicido-
-mini. Confocal-based fluorescence fluctuation spectroscopy with a SPAD array detector. Light
+[4] E. Slenders, M. Castello, M. Buttafava, F. Villa, A. Tosi, L. Lanzanò, S. V. Koho, and G. Vicidomini. Confocal-based fluorescence fluctuation spectroscopy with a SPAD array detector. Light
 Sci. Appl., 10(1), feb 2021.
 <br>
 [5] G. Vicidomini, G. Moneron, K. Y. Han, V. Westphal, H. Ta, M. Reuss, J. Engelhardt,
