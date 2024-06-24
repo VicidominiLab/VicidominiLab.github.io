@@ -7,7 +7,29 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
-<h2>Ph.D. in New Developments in Fluorescence Lifetime Microscopy </h2>
+<h2>Ph.D. Wide-Filed Fluorescence Lifetime Microscopy </h2>
+<h3>Published:</h3>
+6th June 2024 - <span style="color:green"> Open (Deadline 9th July 2024) </span>
+<h3>Type of Position:</h3>
+Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
+<h3>Description:</h3>
+Optical microscopy is among the least invasive techniques for visualizing biological structures and functions at near-molecular scales in living cells and organisms. However, many fundamental biological processes relevant to health and disease remain beyond the reach of conventional optical microscopy. Our mission is to design and develop state-of-the- art microscopes and analytical tools that enable biologists to explore living systems with unprecedented spatiotemporal resolutions, reduced invasiveness, and enhanced information content. To achieve this, our projects integrate novel photonics technologies, labelling protocols, optical architectures, spectroscopy techniques, and machine learning approaches. While our primary focus is on technology development, we also collaborate with biologists to test and refine our tools, ensuring they yield new biological insights. The PhD student will be fully integrated into this mission working on a dedicated project involving fluorescence lifetime imaging microscopy (FLIM). FLIM is an advanced imaging technique that combines conventional fluorescence intensity measurements with nanosecond-scale temporal dynamics. This dual capability provides detailed structural and functional information about specimens, allowing for the mapping of protein-protein interactions and biochemical reactions in living cells. In recent years, our group has focused on developing FLIM for laser-scanning microscopy, introducing a novel single-photon detector array composed of a few elements (e.g., 5x5) capable of correlating super-resolved microscopy with fluorescence lifetime imaging [1-3]. However, laser-scanning microscopy suffers from lower temporal resolution (e.g., frame rate) compared to wide-field optical architectures, which require large detector arrays (megapixel).
+The aim of this PhD project is to implement a wide-field fluorescence lifetime imaging system with high temporal resolution. This will be achieved by combining innovative optical light - sheet optical architecture with novel large pixellated detector featuring the time-resolved capability.
+
+[1] M. Castello et al., “A robust and versatile platform for image scanning microscopy enabling super-resolution FLIM,” Nat Methods 16(2), 175-178 (2019).
+
+[2] A. Rossetta, et al., “The BrightEyes-TTM as an open-source time-tagging module for democratising single-photon microscopy,” Nat Comm 13, 7406 (2022). 
+
+<h3>Requirements:</h3>
+This project is highly multidisciplinary, involving various aspects of the natural sciences. We invite applications from candidates with a Master’s degree or equivalent in Engineering, Physics, or related disciplines. The ideal candidate should demonstrate the ability and motivation to work both independently and collaboratively in an interdisciplinary team. Proficiency in spoken and written English is required. Coding skills, particularly in Python, are highly desirable. Experience in microscopy or control systems will be considered a plus.
+
+<h3>How to Apply:</h3>
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova.
+The official call is available at this link <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> 
+<!---The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.--->
+Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202024%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
+
+<!---<h2>Ph.D. in New Developments in Fluorescence Lifetime Microscopy </h2>
 <h3>Published:</h3>
 6th June 2023 - <span style="color:green"> Open (Deadline 10th June 2022) </span>
 <h3>Type of Position:</h3>
@@ -28,7 +50,7 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova.
 The official call is available at this link <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> 
 <!---The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.--->
-Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202023%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
+Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202023%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.--->
 
 <!--- <h2>Ph.D. in Single-Molecule-Tracking and Imaging with Single-Photon Detector Array </h2>
 <h3>Published:</h3>
