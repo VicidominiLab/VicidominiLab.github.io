@@ -8,7 +8,7 @@ tags: PI
 tagline: Senior Researcher
 date: 2016-04-16
 email: 'giuseppe.vicidomini@iit.it'
-biblio: https://vicidominilab.github.io/files/VicidominiG_Biblio_2024_05_19.pdf
+biblio: https://vicidominilab.github.io/files/VicidominiG_Biblio_2024_10_18.pdf
 cv: https://vicidominilab.github.io/files/VicidominiG_CV_2024_05_19.pdf
 ---
 
