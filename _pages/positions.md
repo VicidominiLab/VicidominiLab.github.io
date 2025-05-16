@@ -7,8 +7,41 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
-<h2>Ph.D. Wide-Filed Fluorescence Lifetime Microscopy </h2>
+<h2>Ph.D. in Smart Microscopy with Event-Based Detectors and Adaptive Imaging Integration </h2>
 <h3>Published:</h3>
+Opening Soon
+<h3>Type of Position:</h3>
+Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
+<h3>Description:</h3>
+The field rapidly evolves toward smart microscopy, where imaging systems can autonomously analyse data in real time and adapt acquisition parameters accordingly. During acquisition, these systems rely on feedback loops that respond to detected events by adjusting key settings, such as imaging speed, resolution, or modality. This smart, adaptive approach enables researchers to maintain optimal imaging performance without the usual compromises between field of view, temporal and spatial resolution, sample health, or signal-to-noise ratio.
+This PhD project explores the development of a smart microscopy platform that leverages novel event-based detectors, including asynchronous read-out single-photon avalanche diode (SPAD) array detectors and neuromorphic cameras, within a polyfunctional microscope architecture combining both wide-field and laser-scanning modalities. Inspired by biological vision, neuromorphic cameras detect pixel-level brightness changes asynchronously, enabling extremely high temporal resolution while minimising redundant data acquisition. Their unique capabilities make them ideal for real-time detection of fast or rare events across large fields of view. In contrast, asynchronous SPAD array detectors enable photon-resolved microscopy. This highly informative imaging technique captures rich spatial and temporal information at the single-photon level, though over a more limited field of view.
+The system will operate in a smart feedback-driven mode. (i) Wide-Field Monitoring: The neuromorphic camera continuously scans the entire sample for dynamic events; (ii) Targeted Response: Upon event detection, the system will automatically switch to a laser-scanning modality and redirect imaging to the region of interest.
+The PhD candidate will be involved in the optical integration, control software development, and algorithm design necessary for real-time data processing and system-level adaptation.
+In particular, the candidate will carry out the following tasks: (i) Literature Review – Perform a critical analysis of the current applications of event-based cameras and SPAD arrays in advanced microscopy; (ii) Optical Design – Acquire practical experience in assembling and aligning multifunctional fluorescence microscopes that integrate wide-field and laser-scanning architectures; (iii) Image Analysis and Reconstruction – Develop or adapt algorithms to reconstruct conventional images from asynchronous event streams and design feedback mechanisms for adaptive, smart microscopy; (iv) System Control – Implement innovative triggering strategies that enable automated switching between imaging modalities in response to detected biological events.\
+
+[1] D. Mahecic, W.L. Stepp, C. Zhang, J. Griffié, M. Weigert, S. Manley, “Event-driven acquisition for content-enriched microscopy.” Nat. Methods 19(10):1262-1267 (2022) https://doi.org/10.1038/s41592-022-01589-x
+
+[2] G. Tortarolo, A. Zunino, S. Piazza, M. Donato, S. Zappone, A. Pierzyńska-Mach, M. Castello, G. Vicidomini, "Compact and effective photon-resolved image scanning microscope," Adv. Photon. 6(1) 016003 (2024) https://doi.org/10.1117/1.AP.6.1.016003
+
+[3]R. Guo, Q. Yang, A.S. Chang, A.S. et al. “EventLFM: event camera integrated Fourier light field microscopy for ultrafast 3d imaging,” Light Sci. Appl. 13:144 (2024) https://doi.org/10.1038/s41377-024-01502-5
+
+
+<h3>Requirements:</h3>
+
+*	Solid programming skills (Python or equivalent);
+*	Background in image analysis, computer vision, or real-time signal processing;
+*	Basic knowledge of optics and fluorescence microscopy;
+*	Interest in AI-driven scientific instrumentation;
+*	Degree in physics, engineering, computer science, or a related field;
+
+<h3>How to Apply:</h3>
+The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.
+
+Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202024%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
+
+<!---
+<h2>Ph.D. Wide-Filed Fluorescence Lifetime Microscopy </h2>
+<h3>Published:</h3
 6th June 2024 - <span style="color:green"> Open (Deadline 9th July 2024) </span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
@@ -26,8 +59,7 @@ This project is highly multidisciplinary, involving various aspects of the natur
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova.
 The official call is available at this link <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> 
-<!---The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.--->
-Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202024%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
+--->
 
 <!---
 <h2>Ph.D. in New Developments in Fluorescence Lifetime Microscopy </h2>
@@ -50,8 +82,6 @@ The project is extremely multi-disciplinary, and it involves many different aspe
 <h3>How to Apply:</h3>
 In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova.
 The official call is available at this link <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> 
-<!---The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.--->
-Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202023%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
 --->
 
 <!--- 
