@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Ph.D. in Smart Microscopy with Event-Based Detectors and Adaptive Imaging Integration </h2>
 <h3>Published:</h3>
-Opening Soon
+8th June 2025 - <span style="color:green"> Open (Deadline 9th July 2025) </span>
 <h3>Type of Position:</h3>
 Ph.D. Fellowship in Bioengineering and Robotics, Curriculum Bionanotechnologies
 <h3>Description:</h3>
@@ -37,7 +37,8 @@ In particular, the candidate will carry out the following tasks: (i) Literature 
 *	Degree in physics, engineering, computer science, or a related field;
 
 <h3>How to Apply:</h3>
-The official call will be available soon at the <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Genoa University website</span></a>.
+In order to apply for this position, it is mandatory to refer to the procedures administered by the Università degli studi di Genova.
+The official call is available at this link <a href="https://unige.it/en/phd-programmes"><span style="color:blue">Ph.D. Programmes</span></a> 
 
 Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=PhD%20Position%202024%20Unige%20VicidominiLab%20(01)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for information and pre-application.
 
