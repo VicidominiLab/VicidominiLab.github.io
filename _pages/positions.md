@@ -7,29 +7,27 @@ author_profile: true
 <br>
 Our group is highly interdisciplinary and brings together students and postdocs from a variety of subject areas, ranging from engineering and physical sciences to computer science and biology. We always welcome inquiries and applications from highly motivated candidates at the undergraduate, PhD or postdoc level. Please contact <a href="mailto:giuseppe.vicidomini@iit.it?subject=Spontaneous%20Application%20Vicidomini%20Lab"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a> for inquiries.
 
-<h2>Postdoc Position in Smart Microscopy </h2>
+<h2>Postdoc Position in Smart Microscopy</h2>
 <h3>Published:</h3>
 8th June 2025 - <span style="color:green"> Open (Deadline 31st October 2025) </span>
 <h3>Commitment & contract:</h3>
 Collaboration Contract, 24 Months
 <h3>Location:</h3>
 Centre for Human Technology, Via Enrico Melen, 83 Bldg. B 16152, Genoa
-<br>
-**Step into a world of endless possibilities, together let’s leave something for the future!**
-<br>
+<h3>Step into a world of endless possibilities, together let’s leave something for the future!</h3>
 At IIT, we are committed to advancing human-centered Science and Technology to address the most urgent societal challenges of our era. We foster excellence in both fundamental and applied research, spanning fields such as neuroscience and cognition, humanoid technologies and robotics, artificial intelligence, nanotechnology, and material sciences, offering a truly interdisciplinary scientific experience. Our approach integrates cutting-edge tools and technology, empowering researchers to push the limits of knowledge and innovation. With us, your curiosity will know no bounds.
 We provide equal employment opportunities and foster diversity in all its forms, creating an inclusive environment. We value the unique experiences, knowledge, backgrounds, cultures, and perspectives of our people. By embracing diversity, we believe science can achieve its fullest potential.
 <h3>The Role:</h3>
 You will be working in a multicultural and multidisciplinary group within the Molecular Microscopy and Spectroscopy Research Unit, coordinated by Dr Giuseppe Vicidomini, who has extensive experience in advanced fluorescence microscopy, from super-resolution imaging to spectroscopy techniques, and related computational analysis techniques. The team brings together physicists, engineers, computer scientists, and biologists, sharing expertise at the intersection of photonics, computational imaging, and life sciences.
 In this role, you will contribute to the development of a smart microscopy platform that integrates event-based detectors, specifically asynchronous read-out single-photon avalanche diode (SPAD) array detectors and neuromorphic cameras, within a multifunctional microscope that combines wide-field and laser-scanning modalities. The aim is to establish a feedback-driven adaptive system in which a wide-field neuromorphic camera continuously monitors large regions of the sample to detect specific events, and the system responds by automatically switching to a laser-scanning modality powered by SPAD arrays to perform photon-resolved microscopy of the selected region of interest.
 Your work will focus on the optical integration of these advanced detectors, the development of algorithms for real-time image reconstruction and event detection, and the implementation of feedback-control strategies.  In addition, you will support the training of PhD students and interns working on related projects, contributing to the growth of the team’s expertise. You will also be expected to publish your findings in scientific journals and present your results at international conferences, ensuring that the outcomes of the research reach the broader scientific community.
-<h3>Essential Requirements</h3>
+<h3>Essential Requirements:</h3>
 *	A PhD in Physics, Engineering, or related disciplines.
 *	Documented experience in optical microscopy, imaging, or related optical systems.
 *	Good programming skills (Python or equivalent) and knowledge in image analysis.
 *	The ability to properly report, organise, and publish research data.
 *	Good command of spoken and written English.
-<h3>Additional Skills</h3>
+<h3>Additional Skills:</h3>
 *	Previous experience with event-based detectors.
 *	Previous experience in smart microscopy.
 *	Previous experience with optical system design and integration.
@@ -37,7 +35,7 @@ Your work will focus on the optical integration of these advanced detectors, the
 *	Spirit of innovation and creativity.
 *	Good time and priority management.
 *	Ability to work independently and collaboratively in a highly interdisciplinary environment.
-<h3>Compensations and Benefits</h3>
+<h3>Compensations and Benefits:</h3>
 *	A yearly gross salary ranging between 35,000.00 €  and 40,000.00 €, depending on the experience
 *	Private health care coverage, depending on your role and contract
 *	Candidates from abroad or Italian citizens who have carried out scientific research activity permanently abroad and meet specific requirements may be entitled to a deduction from taxable income of up to 90% for 6 to 13 years.
