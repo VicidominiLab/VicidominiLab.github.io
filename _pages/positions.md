@@ -9,7 +9,7 @@ Our group is highly interdisciplinary and brings together students and postdocs 
 
 <h2>Postdoc Position in Smart Microscopy</h2>
 <h3>Published:</h3>
-8th June 2025 - <span style="color:green"> Open (Deadline 31st October 2025) </span>
+4th October 2025 - <span style="color:green"> Open (Deadline 31st October 2025) </span>
 <h3>Commitment & contract:</h3>
 Collaboration Contract, 24 Months
 <h3>Location:</h3>
@@ -39,6 +39,42 @@ Your work will focus on the optical integration of these advanced detectors, the
 *	A yearly gross salary ranging between 35,000.00 €  and 40,000.00 €, depending on the experience
 *	Private health care coverage, depending on your role and contract
 *	Candidates from abroad or Italian citizens who have carried out scientific research activity permanently abroad and meet specific requirements may be entitled to a deduction from taxable income of up to 90% for 6 to 13 years.
+
+<h3>How to Apply:</h3>
+<!---Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003P"><span style="color:blue">link</span></a>.
+Further enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2000003P)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.--->
+Applications, including detailed Curriculum Vitae, cover letter, research statement, and the name and contact details of two referees, must be submitted through the online form, which will soon be available at the IIT website. In the meantime, pre-applications and enquires may be sent to <a href="mailto:giuseppe.vicidomini@iit.it?subject=PostDoc%20Position%20Vicidomini%20Lab%20(2000003P)"><span style="color:blue">Dr. Giuseppe Vicidomini</span></a>.
+
+<h2>Pre-Doctoral Position in Event-Based Camera for Microscopy</h2>
+<h3>Published:</h3>
+4th October 2025 - <span style="color:green"> Open (Deadline 31st October 2025) </span>
+<h3>Commitment & contract:</h3>
+Collaboration Contract, 24 Months
+<h3>Location:</h3>
+Centre for Human Technology, Via Enrico Melen, 83 Bldg. B 16152, Genoa
+<h3>Step into a world of endless possibilities, together let’s leave something for the future!</h3>
+At IIT, we are committed to advancing human-centered Science and Technology to address the most urgent societal challenges of our era. We foster excellence in both fundamental and applied research, spanning fields such as neuroscience and cognition, humanoid technologies and robotics, artificial intelligence, nanotechnology, and material sciences, offering a truly interdisciplinary scientific experience. Our approach integrates cutting-edge tools and technology, empowering researchers to push the limits of knowledge and innovation. With us, your curiosity will know no bounds.
+We provide equal employment opportunities and foster diversity in all its forms, creating an inclusive environment. We value the unique experiences, knowledge, backgrounds, cultures, and perspectives of our people. By embracing diversity, we believe science can achieve its fullest potential.
+<h3>The Role:</h3>
+You will be working in a multicultural and multidisciplinary group within the Molecular Microscopy and Spectroscopy Research Unit, coordinated by Dr Giuseppe Vicidomini, who has extensive experience in advanced fluorescence microscopy, from super-resolution imaging to spectroscopy techniques, and related computational analysis techniques. The team brings together physicists, engineers, computer scientists, and biologists, sharing expertise at the intersection of photonics, computational imaging, and life sciences.
+Unlike conventional cameras that acquire fixed-frame images, event-based cameras output a continuous stream of asynchronous brightness changes at each pixel. This enables ultra-high temporal resolution while reducing redundant data. However, because they do not produce standard intensity images, new image reconstruction strategies are required.
+In this project, you will integrate an event-based camera into an existing wide-field fluorescence microscope at IIT, acquire the first experimental datasets, and develop algorithms to reconstruct conventional time-series images with the highest temporal resolution from asynchronous event streams.
+You will also conduct a literature review on the application of event-based cameras to microscopy, acquire fundamental optical knowledge to set up the system, and explore computational approaches to analyse and visualise data.
+<h3>Essential Requirements:</h3>
+*	Enrolled in a Master’s degree in Physics, Engineering, Computer Science, or related disciplines.
+*	Programming skills (preferably Python).
+*	Strong motivation to learn new experimental and computational techniques.
+*	Good command of spoken and written English.
+<h3>Additional Skills:</h3>
+*	Interest in optics, fluorescence microscopy, or event-based detectors.
+*	Interest in optics, fluorescence microscopy, or bio-inspired sensors.
+*	Ability to work independently and in a collaborative team.
+*	Spirit of innovation and creativity.
+*	Good time and priority management.
+*	Ability to work independently and collaboratively in a highly interdisciplinary environment.
+<h3>Compensations and Benefits:</h3>
+* Competitive salary package for international standards
+* Wide range of staff discounts
 
 <h3>How to Apply:</h3>
 <!---Applications, including detailed Curriculum Vitae, a cover letter, a research statement and name and contacts of 2 referees, must be submitted through the online form at this <a href="https://iit.taleo.net/careersection/ex/jobdetail.ftl?lang=en&job=2000003P"><span style="color:blue">link</span></a>.
